@@ -1,0 +1,2369 @@
+<StringFile>
+
+	<Notes>1.3.0</Notes>
+	<String Key = "AdventureNPC">PNJ d'aventure</String>
+	<String Key = "adventurenpc_info">Ahoy! N’hésitez pas à parcourir les aventures actuellement disponibles. Notez que vous ne pouvez sélectionner qu’une aventure active.</String>
+	<String Key = "REWARD_G">Recompense @valueG</String>
+
+
+
+	<Notes>1.2.30 hotfix</Notes>
+	<String Key = "TREASURE">Trésor</String>
+	
+	<Notes>1.2.30 more</Notes>
+	<String Key = "NEXT_ADVENTURE">PROCHAINE AVENTURE</String>
+	
+	<Notes>1.2.30</Notes>
+	<String Key = "WOOD BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "WOOD BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "WOOD DECK WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD DECK WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un navire qui semble bien sans eux</String>
+	<String Key = "WOOD WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un navire qui semble bien sans eux</String>
+	<String Key = "WOOD LADDER_SHIP_TILE_INFO">Permet de laisser les coéquipiers monter ou descendre les niveaux</String>
+	<String Key = "WOOD LADDER_SHIP_TILE_FUNNY">C’est mieux que de sauter !</String>
+	<String Key = "HALF WOOD BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "HALF WOOD BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "LAMP_SHIP_TILE_INFO">Juste pour la decoration</String>
+	<String Key = "LAMP_SHIP_TILE_FUNNY">Contenir le feu à l’intérieur d’un navire en bois. Du génie.</String>
+	<String Key = "MAST_SHIP_TILE_INFO">Connectez une ligne de ceux-ci à un mât supérieur pour avoir une voile</String>
+	<String Key = "MAST_SHIP_TILE_FUNNY">Cette tige de bois est longue, dure et épaisse.</String>
+	<String Key = "BARREL_SHIP_TILE_INFO">5% de pillage d’or en plus</String>
+	<String Key = "BARREL_SHIP_TILE_FUNNY">AUGMENTE LE PILLAGE D'OR</String>
+	<String Key = "RUDDER_SHIP_TILE_INFO">Utilisé pour propulser votre vaisseau.</String>
+	<String Key = "RUDDER_SHIP_TILE_FUNNY">Vitesse de navigation +5%</String>
+	<String Key = "TOP MAST_SHIP_TILE_INFO">La voile peut être connectée au haut du mât</String>
+	<String Key = "TOP MAST_SHIP_TILE_FUNNY">Les marins en sueur s’assoient ici</String>
+	<String Key = "WOOD WHEEL_SHIP_TILE_INFO">Augmente la vitesse de navigation de 10%</String>
+	<String Key = "WOOD WHEEL_SHIP_TILE_FUNNY">Vitesse de navigation +10%</String>
+	<String Key = "WOOD TABLE_SHIP_TILE_INFO">Table</String>
+	<String Key = "WOOD TABLE_SHIP_TILE_FUNNY">Garder cette stabilité contre les vagues peut être difficile.</String>
+	<String Key = "SPARE SWORDS_SHIP_TILE_INFO">Epees d'entrainement</String>
+	<String Key = "SPARE SWORDS_SHIP_TILE_FUNNY">Les pirates peuvent utiliser ces epees pour s'entrainer</String>
+	<String Key = "GOLDEN PLATE_SHIP_TILE_INFO">Objet décoratif fantaisie</String>
+	<String Key = "GOLDEN PLATE_SHIP_TILE_FUNNY"></String>
+	<String Key = "BOMBS_SHIP_TILE_INFO">Munitions de canon</String>
+	<String Key = "BOMBS_SHIP_TILE_FUNNY">10 boulets de canon</String>
+	<String Key = "SAIL_SHIP_TILE_INFO">Placez sur le mât supérieur pour placer une voile pour déplacer votre bateau</String>
+	<String Key = "SAIL_SHIP_TILE_FUNNY">Vitese de navigation +10%</String>
+	<String Key = "BOWSPRIT BASE_SHIP_TILE_INFO">Placez à l’avant de votre navire en état de navigabilité!</String>
+	<String Key = "BOWSPRIT BASE_SHIP_TILE_FUNNY">Empale et brûle les grands requins blancs a l'occassion.</String>
+	<String Key = "BOWSPRIT MID_SHIP_TILE_INFO">Placez à l’avant de votre navire en état de naviguer!</String>
+	<String Key = "BOWSPRIT MID_SHIP_TILE_FUNNY">Empale et brûle les grands requins blancs a l'occassion.</String>
+	<String Key = "MEAT_SHIP_TILE_INFO">BESOIN D'ETRE PREPARE.
+		RESTAURE 80% FAIM PAR PORTION
+		MANGER PREND 8 SECONDS.
+		</String>
+	<String Key = "MEAT_SHIP_TILE_FUNNY">8 PORTIONS ALIMENTAIRES</String>
+	<String Key = "FISH_SHIP_TILE_INFO">BESOIN D'ETRE PREPARER PAR UN CUISINIER.
+		RESTAURE 40% FAIM PAR PORTION.
+		MANGER PREND 10 SECONDS.
+		</String>
+	<String Key = "FISH_SHIP_TILE_FUNNY">2 PORTIONS ALIMENTAIRES</String>
+	<String Key = "FRUITS_SHIP_TILE_INFO">PEUT ÊTRE MANGÉ SANS PRÉPARATION.
+		RESTAURE 30% FAIM PAR PORTION.
+		SOIGNE le scorbut.
+		MANGER PREND 3 SECONDS.
+		</String>
+	<String Key = "FRUITS_SHIP_TILE_FUNNY">2 PORTIONS ALIMENTAIRES</String>
+	<String Key = "RUM_SHIP_TILE_INFO">LES PIRATES BOIVENT DU RHUM POUR ETRE HEUREUX.
+		AUGMENTE LE MORAL DE 30% PAR PORTION.
+		BOIRE PREND 5 SECONDS.
+		</String>
+	<String Key = "RUM_SHIP_TILE_FUNNY">2 PORTIONS DE BOISSON</String>
+	<String Key = "WATERMELON_SHIP_TILE_INFO">PEUT ÊTRE MANGÉ SANS PRÉPARATION.
+		RESTAURE 50% FAIM PAR PORTION.
+		SOIGNE scorbut.
+		MANGER PREND 10 SECONDS.
+		</String>
+	<String Key = "WATERMELON_SHIP_TILE_FUNNY">4 PORTIONS ALIMENTAIRES</String>
+	<String Key = "CARDS_SHIP_TILE_INFO">Cartes a jouer</String>
+	<String Key = "CARDS_SHIP_TILE_FUNNY">Retablir le moral pendant le jeu!</String>
+	<String Key = "HANGING SWORDS_SHIP_TILE_INFO">Objet décoratif fantaisie</String>
+	<String Key = "HANGING SWORDS_SHIP_TILE_FUNNY"></String>
+	<String Key = "PICTURE ISLAND_SHIP_TILE_INFO">Peinture décoratif fantaisie</String>
+	<String Key = "PICTURE ISLAND_SHIP_TILE_FUNNY"></String>
+	<String Key = "PICTURE BLOOD_SHIP_TILE_INFO">Peinture décoratif fantaisie</String>
+	<String Key = "PICTURE BLOOD_SHIP_TILE_FUNNY"></String>
+	<String Key = "PICTURE FRUITS_SHIP_TILE_INFO">Peinture décoratif fantaisie</String>
+	<String Key = "PICTURE FRUITS_SHIP_TILE_FUNNY"></String>
+	<String Key = "TRIBAL MASK_SHIP_TILE_INFO">Objet décoratif fantaisie</String>
+	<String Key = "TRIBAL MASK_SHIP_TILE_FUNNY"></String>
+	<String Key = "HANGING RED MAT_SHIP_TILE_INFO">Tapis décoratif fantaisie</String>
+	<String Key = "HANGING RED MAT_SHIP_TILE_FUNNY"></String>
+	<String Key = "RAT HOLE_SHIP_TILE_INFO"></String>
+	<String Key = "RAT HOLE_SHIP_TILE_FUNNY"></String>
+	<String Key = "WOOD CAPTAIN WALL_SHIP_TILE_INFO"></String>
+	<String Key = "WOOD CAPTAIN WALL_SHIP_TILE_FUNNY"></String>
+	<String Key = "BOWSPRIT END_SHIP_TILE_INFO">Placez à la fin de votre navire en état de naviguer!</String>
+	<String Key = "BOWSPRIT END_SHIP_TILE_FUNNY">Empale et brûle les grands requins blancs a l'occassion.</String>
+	<String Key = "PAPER AND INK_SHIP_TILE_INFO"></String>
+	<String Key = "PAPER AND INK_SHIP_TILE_FUNNY"></String>
+	<String Key = "HANGING MAP_SHIP_TILE_INFO"></String>
+	<String Key = "HANGING MAP_SHIP_TILE_FUNNY"></String>
+	<String Key = "CHEESE_SHIP_TILE_INFO">PEUT ÊTRE MANGÉ SANS PRÉPARATION.
+		RESTAURE 50% FAIM PAR PORTION.
+		MANGER PREND 2 SECONDS.
+		</String>
+	<String Key = "CHEESE_SHIP_TILE_FUNNY">3 PORTIONS ALIMENTAIRES</String>
+	<String Key = "SOUP POT_SHIP_TILE_INFO">DOIT ÊTRE PRÉPARÉ PAR UN CUISINIER.
+		RESTAURE 100% FAIM PAR PORTION.
+		MANGER PREND 20 SECONDS.
+		</String>
+	<String Key = "SOUP POT_SHIP_TILE_FUNNY">15 PORTIONS ALIMENTAIRES</String>
+	<String Key = "SACK_SHIP_TILE_INFO"></String>
+	<String Key = "SACK_SHIP_TILE_FUNNY"></String>
+	<String Key = "HANGING ROPES_SHIP_TILE_INFO">Cordes suspendues</String>
+	<String Key = "HANGING ROPES_SHIP_TILE_FUNNY"></String>
+	<String Key = "CITRUS_SHIP_TILE_INFO">PEUT ÊTRE MANGÉ SANS PRÉPARATION.
+		RESTAURE 25% FAIM PAR PORTION.
+		SOIGNE le scorbut.
+		MANGER PREND 1 SECOND.
+	</String>
+	<String Key = "CITRUS_SHIP_TILE_FUNNY">2 PORTIONS ALIMENTAIRES</String>
+	<String Key = "SOUR KROUT_SHIP_TILE_INFO">DOIT ÊTRE PRÉPARÉ PAR UN CUISINIER.
+		RESTAURE 75% FAIM PAR PORTION.
+		MANGER PREND 5 SECONDS.
+	</String>
+	<String Key = "SOUR KROUT_SHIP_TILE_FUNNY">5 PORTIONS ALIMENTAIRES</String>
+	<String Key = "SEA BISCUITS_SHIP_TILE_INFO">PEUT ÊTRE MANGÉ SANS PRÉPARATION.
+		RESTAURE 30% FAIM PAR PORTION.
+		MANGER PREND 3 SECONDS.
+	</String>
+	<String Key = "SEA BISCUITS_SHIP_TILE_FUNNY">10 PORTIONS ALIMENTAIRES</String>
+	<String Key = "CHEST_SHIP_TILE_INFO">Objet décoratif fantaisie</String>
+	<String Key = "CHEST_SHIP_TILE_FUNNY">Objet décoratif fantaisie</String>
+	<String Key = "CHEST 2_SHIP_TILE_INFO">Objet décoratif fantaisie</String>
+	<String Key = "CHEST 2_SHIP_TILE_FUNNY">Objet décoratif fantaisie</String>
+	<String Key = "PILLOW AND BED_SHIP_TILE_INFO">L'equipage dort ici</String>
+	<String Key = "PILLOW AND BED_SHIP_TILE_FUNNY">Les pirates qui dorment gagnent des HP et perdent du morale</String>
+	<String Key = "BASIC CANNON_SHIP_TILE_INFO">Canon Basique</String>
+	<String Key = "BASIC CANNON_SHIP_TILE_FUNNY">Chargez le canon avec une munition, puis chargez l’ennemi avec ladite munition.</String>
+	<String Key = "CANNON WINDOW_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "CANNON WINDOW_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "DESTROYED_SHIP_TILE_INFO"></String>
+	<String Key = "DESTROYED_SHIP_TILE_FUNNY"></String>
+	<String Key = "DECK CANNON WINDOW_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "DECK CANNON WINDOW_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "KNIFE AND CUP_SHIP_TILE_INFO"></String>
+	<String Key = "KNIFE AND CUP_SHIP_TILE_FUNNY"></String>
+	<String Key = "NPC PLACEMENT - enemy_SHIP_TILE_INFO"></String>
+	<String Key = "NPC PLACEMENT - enemy_SHIP_TILE_FUNNY"></String>
+	<String Key = "NPC PLACEMENT - ally_SHIP_TILE_INFO"></String>
+	<String Key = "NPC PLACEMENT - ally_SHIP_TILE_FUNNY"></String>
+	<String Key = "SPECIAL PLACEMENT - chest_SHIP_TILE_INFO">CACA DE PIRATE. DOIT ETRE NETTOYE</String>
+	<String Key = "SPECIAL PLACEMENT - chest_SHIP_TILE_FUNNY">Le navire est un grand toilette</String>
+	<String Key = "CRAP_SHIP_TILE_INFO">CACA DE PIRATE. DOIT ETRE NETTOYE</String>
+	<String Key = "CRAP_SHIP_TILE_FUNNY">Le navire est un grand toilette</String>
+	<String Key = "SHACKLES_SHIP_TILE_INFO">LES MENOTTES SONT UTILISÉES POUR LES ESCLAVES</String>
+	<String Key = "SHACKLES_SHIP_TILE_FUNNY">LE COMBATTANT TENTERA DE CAPTURER L’ESCLAVE PENDANT LA BATAILLE</String>
+	<String Key = "WEB_SHIP_TILE_INFO">TOILE QUI HÉBERGE LES ARAIGNÉES</String>
+	<String Key = "WEB_SHIP_TILE_FUNNY">UNE TOILE BLANCHE INDIQUE HABITUELLEMENT DES ARAIGNÉES</String>
+	<String Key = "FISHING POLE_SHIP_TILE_INFO">CANNE A PÊCHE UTILISÉE PAR LES PÊCHEURS</String>
+	<String Key = "FISHING POLE_SHIP_TILE_FUNNY">ALLONS PÊCHER!</String>
+	<String Key = "BOSS - PLACEMENT_SHIP_TILE_INFO">PLACEMENT DU BOSS</String>
+	<String Key = "BOSS - PLACEMENT_SHIP_TILE_FUNNY">TEMPS DE TUER</String>
+	<String Key = "Meal_SHIP_TILE_INFO">RESTAURE 50% DE FAIM</String>
+	<String Key = "Meal_SHIP_TILE_FUNNY">GOÛT VRAIMENT BON!</String>
+	<String Key = "Drink Bottle_SHIP_TILE_INFO">RESTAURE 50% DE MORALE</String>
+	<String Key = "Drink Bottle_SHIP_TILE_FUNNY">GOÛT VRAIMENT BON!</String>
+	<String Key = "GRIND WHEEL_SHIP_TILE_INFO">Les pirates peuvent améliorer leurs armes de mêlée.</String>
+	<String Key = "GRIND WHEEL_SHIP_TILE_FUNNY">Aiguiser!</String>
+	<String Key = "STASH OF BOOKS_SHIP_TILE_INFO">Lire des livres pour gagner TP!</String>
+	<String Key = "STASH OF BOOKS_SHIP_TILE_FUNNY">Les pirates gagnent des TP en lisant!</String>
+	<String Key = "HAND WEIGHT_SHIP_TILE_INFO">Les pirates s'entrainent  pour obtenir FRC!</String>
+	<String Key = "HAND WEIGHT_SHIP_TILE_FUNNY">Les pirates peuvent les soulever pour augmenter FRC!</String>
+	<String Key = "PLANT_SHIP_TILE_INFO">Semble bon!</String>
+	<String Key = "PLANT_SHIP_TILE_FUNNY">Améliore le moral de l’équipage!</String>
+	<String Key = "MEDICINE BOTTLE_SHIP_TILE_INFO">PEUT ÊTRE MANGÉ SANS PRÉPARATION.
+		AUGMENTE LE MORAL DE 100%.
+		RESTAURE 100% DE VIE.
+		SOIGNE scorbut.
+		BOIRE PREND 1 SECOND.
+	</String>
+	<String Key = "MEDICINE BOTTLE_SHIP_TILE_FUNNY">2 PORTIONS DE BOISSON.</String>
+	<String Key = "SWIVEL GUN_SHIP_TILE_INFO">Dégâts instantanés</String>
+	<String Key = "SWIVEL GUN_SHIP_TILE_FUNNY">Plus de PAN PAN, moins de Arr Arr</String>
+	<String Key = "CHINESE  BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "CHINESE  BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "CHINESE WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "CHINESE WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "DYNASTY HALF WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "DYNASTY HALF WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "DYNASTY HALF BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "DYNASTY HALF BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "ORDER BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "ORDER BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "ORDER HALF BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "ORDER HALF BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "IMPERIAL BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "IMPERIAL BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "IMPERIAL HALF BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "IMPERIAL HALF BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "REPUBLIC BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "REPUBLIC BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "REPUBLIC HALF BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "REPUBLIC HALF BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "ORDER WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "ORDER WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "ORDER DECK WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "ORDER DECK WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "IMPERIAL WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "IMPERIAL WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "IMPERIAL DECK WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "IMPERIAL DECK WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "REPUBLIC WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "REPUBLIC WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "REPUBLIC DECK WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "REPUBLIC DECK WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "RAMEN BOWL_SHIP_TILE_INFO">PEUT ÊTRE MANGÉ SANS PRÉPARATION.
+		RESTAURE 70% FAIM PAR PORTION.
+		MANGER PREND 10 SECONDS.
+		</String>
+	<String Key = "RAMEN BOWL_SHIP_TILE_FUNNY">10 PORTIONS ALIMENTAIRES</String>
+	<String Key = "CHICKEN NEST_SHIP_TILE_INFO">Les poulets vivent ici</String>
+	<String Key = "CHICKEN NEST_SHIP_TILE_FUNNY">Ils obtiennent de l’XP dans un nid!</String>
+	<String Key = "G. AB. PAINTING_SHIP_TILE_INFO">Peinture fantaisie décorative</String>
+	<String Key = "G. AB. PAINTING_SHIP_TILE_FUNNY"></String>
+	<String Key = "B. AB. PAINTING_SHIP_TILE_INFO">Peinture fantaisie décorative</String>
+	<String Key = "B. AB. PAINTING_SHIP_TILE_FUNNY"></String>
+	<String Key = "R. AB. PAINTING_SHIP_TILE_INFO">Peinture fantaisie décorative</String>
+	<String Key = "R. AB. PAINTING_SHIP_TILE_FUNNY"></String>
+	<String Key = "BR. AB. PAINTING_SHIP_TILE_INFO">Peinture fantaisie décorative</String>
+	<String Key = "BR. AB. PAINTING_SHIP_TILE_FUNNY"></String>
+	<String Key = "BIRD POOP_SHIP_TILE_INFO">Maudit, M. Mouette!</String>
+	<String Key = "BIRD POOP_SHIP_TILE_FUNNY">Un oiseau fait doo-doo'd!</String>
+	<String Key = "PIRATE FLAG_SHIP_TILE_INFO">Placez-le sur votre mât pour faire peur dans le coeur à vos ennemis!</String>
+	<String Key = "PIRATE FLAG_SHIP_TILE_FUNNY"></String>
+	<String Key = "Wood Door Closed_SHIP_TILE_INFO"></String>
+	<String Key = "Wood Door Closed_SHIP_TILE_FUNNY"></String>
+	<String Key = "Wood Door Open_SHIP_TILE_INFO"></String>
+	<String Key = "Wood Door Open_SHIP_TILE_FUNNY"></String>
+	<String Key = "Captain Chair_SHIP_TILE_INFO">Votre capitaine est assis ici!</String>
+	<String Key = "Captain Chair_SHIP_TILE_FUNNY">Pendant que le capitaine est assis tout le monde obtient 50% plus d’exp passive</String>
+	<String Key = "Guard Post_SHIP_TILE_INFO">L'assaillant se tiendra ici</String>
+	<String Key = "Guard Post_SHIP_TILE_FUNNY">Le moral diminue 10 % plus lentement lorsque quelqu’un utilise le poste</String>
+	<String Key = "Ant Painting_SHIP_TILE_INFO">Fourmis! </String>
+	<String Key = "Ant Painting_SHIP_TILE_FUNNY">Les repas récupérent 50% de faim en plus en regardant le tableau</String>
+	<String Key = "Telescope_SHIP_TILE_INFO">Le membre d’équipage du navire peut utiliser</String>
+	<String Key = "Telescope_SHIP_TILE_FUNNY">Pendant le combat, l’équipage gagne +10% de chance de critique</String>
+	<String Key = "WHEAT_SHIP_TILE_INFO">PEUT ÊTRE MANGÉ SANS PRÉPARATION.
+		RESTAURE 60% FAIM PAR PORTION.
+		MANGER PREND 3 SECONDS.
+		</String>
+	<String Key = "WHEAT_SHIP_TILE_FUNNY">5 PORTIONS ALIMENTAIRES</String>
+	<String Key = "KIWI_SHIP_TILE_INFO">PEUT ÊTRE MANGÉ SANS PRÉPARATION.
+		RESTAURE 40% FAIM PAR PORTION.
+		SOIGNE scorbut.
+		MANGER PREND 1 SECOND.
+		</String>
+	<String Key = "KIWI_SHIP_TILE_FUNNY">2 PORTIONS ALIMENTAIRES</String>
+	<String Key = "Toys_SHIP_TILE_INFO">Les membres d’équipage peuvent jouer!</String>
+	<String Key = "Toys_SHIP_TILE_FUNNY">Gagnez 1 TP supplémentaire au niveau supérieur si vous jouez avec des jouets</String>
+	<String Key = "CAPTAINS ALE_SHIP_TILE_INFO">LES PIRATES BOIVENT DE LA BIRE POUR ETRE HEUREUX;
+		AUGMENTE LE MORAL DE 100% PAR PORTION.
+		BOIRE PREND 5 SECONDS.
+	</String>
+	<String Key = "CAPTAINS ALE_SHIP_TILE_FUNNY">10 PORTIONS DE BOISSON</String>
+	<String Key = "RABBIT MILK_SHIP_TILE_INFO">PIRATES DRINK MILK TO BE HEALTHY.
+		AUGMENTE LE MORAL DE 20% PAR PORTION.
+		RESTAURE 20% DE VIE PAR PORTION.
+		BOIRE PREND 2 SECONDS.
+		</String>
+	<String Key = "RABBIT MILK_SHIP_TILE_FUNNY">5 PORTIONS DE BOISSON</String>
+	<String Key = "Horke Painting_SHIP_TILE_INFO">Peinture fantaisie décorative</String>
+	<String Key = "Horke Painting_SHIP_TILE_FUNNY"></String>
+	<String Key = "Cheese Painting_SHIP_TILE_INFO">Peinture fantaisie décorative</String>
+	<String Key = "Cheese Painting_SHIP_TILE_FUNNY"></String>
+	<String Key = "Cabbage God Painting_SHIP_TILE_INFO">Peinture fantaisie décorative</String>
+	<String Key = "Cabbage God Painting_SHIP_TILE_FUNNY"></String>
+	<String Key = "Head Statue_SHIP_TILE_INFO">Statue fantaisie décorative</String>
+	<String Key = "Head Statue_SHIP_TILE_FUNNY"></String>
+	<String Key = "Papier Toilette_SHIP_TILE_INFO">Papier Toilette</String>
+	<String Key = "Papier Toilette_SHIP_TILE_FUNNY">3 piles, pas de perte de moral lors d'un caca</String>
+	<String Key = "WOOD WALL 2_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD WALL 2_SHIP_TILE_FUNNY">Je ne peux pas imaginer un navire qui semble bien sans ça</String>
+	<String Key = "WOOD WALL 3_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD WALL 3_SHIP_TILE_FUNNY">Je ne peux pas imaginer un navire qui semble bien sans ça</String>
+	<String Key = "WOOD DECK WALL 2_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD DECK WALL 2_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "WOOD DECK WALL 3_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD DECK WALL 3_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "HANGING BLUE MAT_SHIP_TILE_INFO">Tapis décoratif fantaisie</String>
+	<String Key = "HANGING BLUE MAT_SHIP_TILE_FUNNY"></String>
+	<String Key = "Toilet Bowl_SHIP_TILE_INFO">Votre équipe fera caca ici</String>
+	<String Key = "Toilet Bowl_SHIP_TILE_FUNNY">Dispose d'un espace pour 5 cacas</String>
+	<String Key = "Box of Salt_SHIP_TILE_INFO">Replaniser automatiquement les aliments en utilisant son propre stock alimentaire</String>
+	<String Key = "Box of Salt_SHIP_TILE_FUNNY"></String>
+	<String Key = "Gold Toilet Bowl_SHIP_TILE_INFO">Votre équipe fera caca içi</String>
+	<String Key = "Gold Toilet Bowl_SHIP_TILE_FUNNY">Dispose d'un espace pour 10 cacas, pas de perte de moral lors d'un caca</String>
+	<String Key = "Cow Bucket_SHIP_TILE_INFO">La vache produira du lait ici</String>
+	<String Key = "Cow Bucket_SHIP_TILE_FUNNY">Capacité pour 2 portions</String>
+	<String Key = "WOOD WALL YEL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD WALL YEL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un navire qui semble bien sans ça</String>
+	<String Key = "WOOD DECK WALL YEL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD DECK WALL YEL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "WOOD WALL RED_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD WALL RED_SHIP_TILE_FUNNY">Je ne peux pas imaginer un navire qui semble bien sans ça</String>
+	<String Key = "WOOD DECK WALL RED_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD DECK WALL RED_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "WOOD WALL GRE_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD WALL GRE_SHIP_TILE_FUNNY">Je ne peux pas imaginer un navire qui semble bien sans ça</String>
+	<String Key = "WOOD DECK WALL GRE_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD DECK WALL GRE_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "WOOD WALL BLU_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD WALL BLU_SHIP_TILE_FUNNY">Je ne peux pas imaginer un navire qui semble bien sans ça</String>
+	<String Key = "WOOD DECK WALL BLU_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "WOOD DECK WALL BLU_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "PLANKTON BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "PLANKTON BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "PLANKTON WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "PLANKTON WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "PLANKTON HALF WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "PLANKTON HALF WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "PLANKTON HALF BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à d'autres blocs</String>
+	<String Key = "PLANKTON HALF BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "PLANKTON DECK WINDOW_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "PLANKTON DECK WINDOW_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "PLANKTON WINDOW_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "PLANKTON WINDOW_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "SHRIMP BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "SHRIMP BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "SHRIMP HALF WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "SHRIMP HALF WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "SHRIMP WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "SHRIMP WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "SHRIMP HALF BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "SHRIMP HALF BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "SHRIMP DECK WINDOW_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "SHRIMP DECK WINDOW_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "SHRIMP WINDOW_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "SHRIMP WINDOW_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "CRAP BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "CRAP BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "CRAP HALF WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "CRAP HALF WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "CRAP WALL_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "CRAP WALL_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "CRAP HALF BLOCK_SHIP_TILE_INFO">Blocs de construction de base pour votre navire, peuvent être attachés à toutes les autres pièces</String>
+	<String Key = "CRAP HALF BLOCK_SHIP_TILE_FUNNY">Utilisé pour construire une coque. Vous attendez quelque chose de spécial?</String>
+	<String Key = "CRAP DECK WINDOW_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "CRAP DECK WINDOW_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "CRAP WINDOW_SHIP_TILE_INFO">Utilisé pour fournir un mur de fond d’un navire</String>
+	<String Key = "CRAP WINDOW_SHIP_TILE_FUNNY">Je ne peux pas imaginer un vaisseau qui aurait l’air bien sans ça.</String>
+	<String Key = "World Map_SHIP_TILE_INFO">Cliquez pour ouvrir la carte du monde</String>
+	<String Key = "World Map_SHIP_TILE_FUNNY">Impossible d’imaginer une vie sans ça.</String>
+	<String Key = "Crew Roster_SHIP_TILE_INFO">Cliquez pour ouvrir la liste de l'équipage</String>
+	<String Key = "Crew Roster_SHIP_TILE_FUNNY">Impossible d’imaginer une vie sans ça.</String>
+	<String Key = "Ship Builder_SHIP_TILE_INFO">Cliquez pour ouvrir le Constructeur de Navire</String>
+	<String Key = "Ship Builder_SHIP_TILE_FUNNY">Impossible d’imaginer une vie sans ça.</String>
+	<String Key = "Cannon Command_SHIP_TILE_INFO">Cliquez pour émettre la commande du  Canon</String>
+	<String Key = "Cannon Command_SHIP_TILE_FUNNY">Impossible d’imaginer une vie sans ça.</String>
+
+	
+	
+	<Notes>1.2.29</Notes>
+	<String Key = "Mayor">Spéciaux</String>
+	<String Key = "Ships">Navires</String>
+	
+	<Notes>1.2.28</Notes>
+	<String Key = "GUNNER_GROUP">Groupe de cannonier</String>
+	<String Key = "GUNNER_GROUP_INFO">Gunners use Ship Cannons and try stay out of melee range to inflict ranged damage.</String>
+	<String Key = "BOARDER_GROUP">Groupe d'abordage</String>
+	<String Key = "BOARDER_GROUP_INFO">Groupe d'abordage est utilisé principalement pour les pirates offensifs qui font tout le sale boulot.</String>
+	<String Key = "SHIPCREW_GROUP">Groupe d’équipage</String>
+	<String Key = "SHIPCREW_GROUP_INFO">Ce groupe s’occupe de la cuisine, du nettoyage et de l’entretien du navire.</String>
+	<String Key = "TRAINING_GROUP">Groupe de formation</String>
+	<String Key = "TRAINING_GROUP_INFO">Groupe de formation se concentre sur l’amélioration des capacités des pirates pendant la période de navigation.</String>
+	<String Key = "CUSTOM1_GROUP">Groupe personnalisé</String>
+	<String Key = "CUSTOM1_GROUP_INFO">Groupe personnalisé pour vos besoins spéciaux.</String>
+	<String Key = "CUSTOM2_GROUP">Groupe Animaux</String>
+	<String Key = "CUSTOM2_GROUP_INFO">Tous vos animaux de compagnie sont situés dans ce groupe.</String>
+	<String Key = "CAMP">CAMPS</String>
+	<String Key = "CAMP_CAPTAIN">Capitaine</String>
+	<String Key = "CAMP_CLEAR">Camps Nettoyé</String>
+
+	
+
+	
+
+
+	<Notes>1.2.27</Notes>
+    <String Key = "RabiesMan">Homme de la rage</String>
+	<String Key = "rabiesman_info">Hey!
+
+		La plupart des chiens sont mignons, mais certains mordent et propagent des maladies comme la rage. Ils disent qu’il n’y a pas de remède, mais ils mentent, une sorcière quelque part dans une ville a un remède pour cette maladie, cherchez-la.
+	</String>
+
+	<String Key = "RockBoy">Tireur</String>
+	<String Key = "TasharenPirate">Pirate Tasharen</String>
+	
+    
+    
+
+	<Notes>old Stuff - v2</Notes>
+	<String Key = "FORGET_SKILL">Êtes-vous sûr de vouloir oublier cette compétence?</String>
+	
+	<Notes>New Stuff</Notes>
+	
+	<String Key = "SEA">Mer</String>
+	<String Key = "FRIENDLY">Neutre</String>
+	<String Key = "PIRATE">Pirate</String>
+	<String Key = "COLONIAL">Colonial</String>
+	<String Key = "IMPERIAL">Impériale</String>
+	<String Key = "EMPIRE">Empire</String>
+	<String Key = "VIKING">Viking</String>
+	<String Key = "DYNASTY">Dynastie</String>
+	<String Key = "SUNLAND">Pays du Soleil</String>
+	<String Key = "EVENT">Évenement</String>
+	<String Key = "WitchHut">Cabane de Sorcière</String>
+	<String Key = "Church">Eglise</String>
+	<String Key = "Adoption">ADOPTION</String>
+
+	<String Key = "TicketsInfo">Vous avez actuellement @tickets tickets, et leur valeur combinée est @value Or.</String>
+	<String Key = "MONSTER_CHANCE">Chance de Monstre @value%</String>
+
+	<String Key = "SUICIDE_ISLAND">L'ile du Suicide</String>
+	<String Key = "MASS_SUICIDE">Effectuer un suicide de masse</String>
+	<String Key = "HELL_STAGE">Niveau de l'enfer (@value)..................</String>
+	<String Key = "HELL_STAGE_TIMER">Préparez-vous (@value)..................</String>
+
+	<String Key = "SuicideMan_info_done">Hey?
+
+		Quoi de neuf ! Juste se détendre sur cette île. Avez-vous besoin de quelque chose Pirate ?
+
+		Traitez tout le monde avec respect.</String>
+	
+
+	<String Key = "SickMan">Homme Malade</String>
+	<String Key = "GreaterFool">Grand fou</String>
+	<String Key = "KingsMissionary">Missionnaire Pirate</String>
+	<String Key = "PAY FEE">Payer la facture</String>
+	<String Key = "CONTRIBUTE">CONTRIBUER</String>
+	<String Key = "PAY_DOCKING_FEE_WARNING">Payer les frais d'amarrage!</String>
+	<String Key = "DOCKING_FEE">FRAIS D'AMARRAGE</String>
+	<String Key = "LOADING">Chargement</String>
+	 
+	<String Key = "DLC_01">Voulez-vous en savoir plus sur Pixel Piracy ?</String>
+	<String Key = "DLC_02">Découvrez Pixel Piracy - Shrimp Legacy DLC, DLC de lore de fond Pixel Piracy en audiovisuel narré.</String>
+	<String Key = "Steam Page">Page Steam</String>
+	<String Key = "Start DLC">Démarrer le DLC</String>
+
+	<String Key = "ShrimpSay">La Sainte Mère Shrimp est en colère !</String>
+	<String Key = "PlanktonSay">Plancton !</String>
+	<String Key = "CrapGolemSay">J'❤ le Crap !</String>
+	<String Key = "AdopSay">Adoptez quelqu'un !</String>
+	<String Key = "babySay">Papa !</String>
+
+	<String Key = "ISLANDBANDIT">Bandit de l'île</String>
+	<String Key = "HobokenPirate">Pirate de Hoboken</String>
+	<String Key = "DockMaster">Maître d'Amarrage</String>
+	<String Key = "Debtor">Débiteur</String>
+	
+	
+	
+	<String Key = "SuicideMan_info_arsenic">Vous avez besoin de @value d'arsenic pour effectuer un suicide de masse contrôlé.
+	</String>
+
+	<String Key = "SuicideMan_info">Vous êtes au bon endroit, pirate, j'y suis allé; je l'ai fait, j'ai vu où vont toutes les âmes après la mort; c'est magnifique et libérateur. Cette île est unique; si vous essayez de vous suicider et que vous avez des choses inachevées dans la vie, lui, celui qui est de l'autre côté, vous donnera une autre chance, mais si vous êtes personne, il ne fera que consommer votre âme.
+
+		Je n'ai pas d'arsenic, j'aimerais beaucoup le revoir, obtenez de l'arsenic pour votre équipage et pour moi, et je vous aiderai à effectuer un suicide de masse, nous le ferons ensemble.
+
+	</String>
+
+	<String Key = "SickMan_info">Restez loin de moi! Je suis un homme malade! Je suis ici, debout tout seul, essayant de survivre à cette maladie, je pense que c'est une grippe commune, ou peut-être la rage? Je ne sais pas! Restez juste loin!
+	</String>
+
+	<String Key = "Rumour_info">Je connais beaucoup trop de choses. Peut-être y a-t-il quelque chose que je pourrais vous dire, mais pensez-vous que ce serait quelque chose que vous voudriez savoir? Ce que je pourrais savoir est très dangereux. Voyons voir...
+	</String>
+
+	<String Key = "Rumour_nope_info">Non! Je ne sais rien.
+	</String>
+
+	<String Key = "Rumour_suicide_info">Oui! Je sais quelque chose. Il y a quelque part une île du suicide, et j'ai entendu les rumeurs selon lesquelles si vous battez au moins un pirate légendaire et effectuez un suicide de masse sur l'île du suicide, vous irez en enfer.
+	</String>
+
+	<String Key = "GreaterFool_info">Salut!
+
+		Voulez-vous devenir super riche? J'ai ces billets qui deviendront très précieux à l'avenir, voulez-vous en acheter quelques-uns?
+	</String>
+	
+	<String Key = "Adoption_info">Salut!
+		De nombreux bébés sont sans parents ; les parents ne vivent pas longtemps et nous, les pirates, ne sommes généralement pas de bons modèles de parentalité. Peut-être serez-vous différent ? De nombreux bébés sont disponibles pour l'adoption, attendant une nouvelle famille juste derrière cette porte.
+		
+		Payez les Frais d'Adoption, et je vous donnerai un bébé.
+
+		*Avis obligatoire : Ce Centre d'Adoption est à but non lucratif.
+
+	</String>
+
+	<String Key = "Church_info">À l'Église, nous avons confiance ! En la Sainte Mère, nous croyons. Êtes-vous croyant ? Pensez-vous que nous trouverons le salut et la paix ? Nous cherchons des dons généreux. Seriez-vous gentil et feriez un don ?
+
+		*Payez des Frais de Prière, et le Pape Buffera votre Équipage avec une puissante prière qui constipera votre équipage. Une prière dure six navigations sur la carte du monde, et vous pouvez empiler les prières.
+
+		Voyagez en toute sécurité et proprement !
+	</String>
+
+	<String Key = "DockMaster_info">Ahoy, Moussaillon !
+
+		Payez vos Frais d'Amarrage si vous voulez construire votre navire ou entrer sur cette île. Vos Frais sont calculés en fonction de la taille de votre navire ; si vous ne payez pas vos Frais, nous enverrons des créanciers après vous et prendrons votre propriété.
+
+		Les Frais d'Amarrage comprennent les Frais actuels et toutes les dettes encourues que vous pourriez avoir des visites précédentes.
+	</String>
+	<String Key = "KingsMissionary_info">Ahoy !
+
+		Le Roi des Pirates mène un bon combat ! Veuillez contribuer à la cause de la sécurité des mers et envoyez un peu de rhum à notre cher Roi !
+
+		La Dérive du Rhum nécessite une immense quantité de rhum quotidiennement ; sans rhum, des monstres commenceront à apparaître de la mer.
+	</String>
+	<String Key = "KingsMissionary_info_disclaimer">*Le bouton Contribuer ouvrira un site web externe.
+	</String>
+
+
+
+	<String Key = "PAY_DOCK_FEE_FIRST">PAYEZ LES FRAIS D'AMARRAGE D'ABORD...</String>
+
+	<String Key = "EASY_DIFICULTY_NAME">Mode Marin</String>
+	<String Key = "NORMAL_DIFICULTY_NAME">Mode Capitaine</String>
+	<String Key = "HARD_DIFICULTY_NAME">Mode Légendaire</String>
+
+	<String Key = "EASY_DIFICULTY">Difficulté Facile</String>
+	<String Key = "NORMAL_DIFICULTY">Difficulté Normale</String>
+	<String Key = "HARD_DIFICULTY">Difficulté Difficile</String>
+	<String Key = "EASY_DIFICULTY_DESCRIPTION">Je n'ai jamais joué à Pixel Piracy avant</String>
+	<String Key = "NORMAL_DIFICULTY_DESCRIPTION">Je connais les rudiments de la navigation et du pillage</String>
+	<String Key = "HARD_DIFICULTY_DESCRIPTION">Arr, je suis un pirate professionnel!</String>
+
+	<String Key = "baby_pirate_bio">Je suis un simple petit pirate; mes parents biologiques sont introuvables et j'ai cette étrange impression d'avoir été une crevette dans ma vie antérieure.</String>
+
+	<String Key = "HP_REGEN">Régénération de PV</String>
+	<String Key = "BONUS_DAMAGE">Dommages bonus</String>
+	<String Key = "BONUS_RANGED_DAMAGE">Dommages à distance bonus</String>
+	<String Key = "ARMOR">Armure</String>
+	<String Key = "PASSIVE_XP">Expérience passive</String>
+	<String Key = "HIT_CHANCE">Chances de toucher</String>
+	<String Key = "DODGE_CHANCE">Chances d'éviter</String>
+	<String Key = "CRITICAL_CHANCE">Chances de critique</String>
+	
+	<Notes>quelques éléments manquants dans le classique</Notes>
+	<String Key = "AMOUNT">QUANTITÉ</String>
+	<String Key = "POOPS">CACA</String>
+	<String Key = "STACKS">PILES</String>
+	<String Key = "MILK">LAIT</String>
+	<String Key = "DESTROYED_HULL">Coque détruite</String>
+	<String Key = "AMMO">MUNITIONS</String>
+	<String Key = "NEEDS_PREPARATION">A BESOIN DE PRÉPARATION</String>
+	<String Key = "READY_TO_CONSUME">PRÊT À CONSOMMER</String>
+
+	<Notes>new items</Notes>
+	<String Key = "PassiveItemNames133">Lait de vache</String>
+	<String Key = "PassiveItemNames134">Queue de vache</String>
+	<String Key = "PassiveItemNames135">Cristal vert</String>
+	<String Key = "PassiveItemNames136">Médicament antigrippal</String>
+	<String Key = "PassiveItemNames137">Sucette pour bébé</String>
+	<String Key = "PassiveItemNames138">Anti-Parasite</String>
+	<String Key = "PassiveItemNames139">Potion d'arsenic</String>
+	<String Key = "PassiveItemDescriptions133">Restaure 30% de la faim</String>
+	<String Key = "PassiveItemDescriptions134">+500 EXP à la consommation</String>
+	<String Key = "PassiveItemDescriptions135">Cristal qui brille</String>
+	<String Key = "PassiveItemDescriptions136">Médicament qui soigne la grippe</String>
+	<String Key = "PassiveItemDescriptions137">Sucette pour bébé !</String>
+	<String Key = "PassiveItemDescriptions138">Tue tous les parasites qui pourraient vivre à l'intérieur d'un pirate !</String>
+	<String Key = "PassiveItemDescriptions139">Lorsqu'il est consommé, tue un pirate !</String>
+	
+	<Notes>status effects</Notes>
+	<String Key = "SE_NOTARGET">Cible non trouvée !</String>
+
+	<String Key = "SE_BABYOIL">Huile de bébé</String>
+	<String Key = "SE_BABYOIL_DESCRIPTION">Pour les {0} prochaines attaques, chance de coup critique à 100%</String>
+	<String Key = "SE_WET">Mouillé</String>
+	<String Key = "SE_WET_DESCRIPTION">Mouillé et mal à l'aise : la morale diminue 25% plus rapidement !</String>
+
+	<String Key = "SE_STUN">Étourdissement</String>
+	<String Key = "SE_STUN_DESCRIPTION">Étourdi pendant {0} secondes. Impossible de se déplacer ou d'attaquer, l'esquive est réduite à 0.</String>
+
+	<String Key = "SE_BLEED">Saignement</String>
+	<String Key = "SE_BLEED_DESCRIPTION">Inflige {0} dégâts de saignement chaque seconde pendant {1} secondes.</String>
+
+	<String Key = "SE_BURN">Brûlure</String>
+	<String Key = "SE_BURN_DESCRIPTION">Inflige {0} dégâts de brûlure chaque seconde pendant {1} secondes.</String>
+
+	<String Key = "SE_FLU">Grippe</String>
+	<String Key = "SE_FLU_DESCRIPTION">Je suis malade. J'ai besoin de médicaments contre la grippe !</String>
+
+	<String Key = "SE_SCURVY">Scorbut</String>
+	<String Key = "SE_SCURVY_DESCRIPTION_1">Avoir une envie de fruits ou de légumes frais</String>
+	<String Key = "SE_SCURVY_DESCRIPTION_2">Se sentir un peu faible et fatigué</String>
+	<String Key = "SE_SCURVY_DESCRIPTION_3">Avoir une étrange éruption cutanée et ne pas se sentir bien</String>
+	<String Key = "SE_SCURVY_DESCRIPTION_4">Les dents semblent lâches et la bouche est sèche et douloureuse. Se sentir irritable et un peu fiévreux</String>
+	<String Key = "SE_SCURVY_DESCRIPTION_5">Fortes fièvres, essoufflement, la peau prend une teinte jaune. Cette personne ne vivra pas longtemps !</String>
+	<String Key = "SE_SCURVY_DESCRIPTION_6">{0}{0}Mange quelque chose contenant des [5667FF]vitamines[-] pour guérir, le scorbut non traité est FATAL !</String>
+	
+	<String Key = "SE_POISON">Poison</String>
+	<String Key = "SE_POISON_DESCRIPTION">Inflige {0} dégâts de poison chaque seconde pendant {1} secondes. Cumulable, maximum de {2} piles.</String>
+
+	<String Key = "SE_RABBIES">Rage</String>
+	<String Key = "SE_RABBIES_DESCRIPTION">J'ai la rage. Je subis des dégâts accrus !</String>
+
+	<String Key = "SE_DIARRHEA">Diarrhée</String>
+	<String Key = "SE_DIARRHEA_DESCRIPTION">Estomac dérangé : plus de selles, plus de perte de faim !</String>
+
+	<String Key = "SE_SEABLESSING">Bénédiction de la mer</String>
+	<String Key = "SE_SEABLESSING_DESCRIPTION">Chant de marin : +2 à toutes les stats pendant {0} secondes</String>
+
+	<String Key = "SE_ROUNDWORM">Ver rond</String>
+	<String Key = "SE_ROUNDWORM_DESCRIPTION">Mes selles peuvent produire des vers ronds avec une probabilité de 50%.</String>
+
+	<String Key = "SE_CONSTIPATION">Constipation</String>
+	<String Key = "SE_CONSTIPATION_DESCRIPTION">Je suis constipé. Je ne peux pas aller aux toilettes.</String>
+
+	<String Key = "SE_HEALINGOVTIME">Guérison au fil du temps</String>
+	<String Key = "SE_HEALINGOVTIME_DESCRIPTION">Soigne un total de {0}% de la vie en {1} ticks pendant {2} secondes.</String>
+
+	<String Key = "SE_DRUNK">Ivre</String>
+	<String Key = "SE_DRUNK_DESCRIPTION1">Je me sens un peu ivre, hi hi !</String>
+	<String Key = "SE_DRUNK_DESCRIPTION2">Je me sens chaleureux et heureux !</String>
+	<String Key = "SE_DRUNK_DESCRIPTION3">Se sentir un peu maladroit et instable</String>
+	<String Key = "SE_DRUNK_DESCRIPTION4">Oh merde, où sont mes potes ?!</String>
+	<String Key = "SE_DRUNK_DESCRIPTION5">...votre cul est un cul et je suis l'homme de l'herbe, punk ouais vous êtes un païen ivre...hic</String>
+	<String Key = "SE_DRUNK_DESCRIPTION6">Cet homme est sous l'influence de boissons alcoolisées !</String>
+	
+	<Notes>Main menu items</Notes>
+
+	<String Key = "DLC">DLC</String>
+	<String Key = "NEWS">NOUVELLES</String>
+	
+	
+	
+	<String Key = "MainMenu001">Nouvelle partie</String>
+	<String Key = "MainMenu002">Charger une partie</String>
+	<String Key = "MainMenu003">Extra</String>
+	<String Key = "MainMenu004">Options</String>
+	<String Key = "MainMenu005">Credits</String>
+	<String Key = "MainMenu006">Quitter</String>
+	
+	<Notes>Options menu items</Notes>
+	<String Key = "MainMenu007">Dossier de sauvegarde</String>
+	<String Key = "MainMenu008">Floutage</String>
+	<String Key = "MainMenu009">Musique</String>
+	<String Key = "MainMenu010">Effets sonores</String>
+	<String Key = "MainMenu011">Prof. de champ</String>
+	<String Key = "MainMenu012">Langue</String>
+	<String Key = "MainMenu013">Synch. V.</String>
+	<String Key = "MainMenu014">Save auto.</String>
+	<String Key = "MainMenu015">Effet photo.</String>
+	<String Key = "MainMenu016">Effet vitesse</String>
+	<String Key = "MainMenu017">Passer l'intro.</String>
+	<String Key = "MainMenu018">Voix</String>
+	<String Key = "MainMenu019">Retour</String>
+	
+	<String Key = "MainMenu020">Parler avec les developpeurs</String>
+	<String Key = "MainMenu021">Report d'erreurs</String>
+	<String Key = "MainMenu022">Aucun fichier de ressources externe detecte</String>
+	<String Key = "MainMenu023">Fichiers de ressources externes charges: {0}</String>
+	<String Key = "MainMenu024">Copier le texte dans le presse-papiers</String>
+	<String Key = "MainMenu025">Notes de versions</String>
+	
+	<Note>Main menu header's funny messages</Note>
+	<String Key = "MainMenuFunny01">Yarr l'ami!</String>
+	<String Key = "MainMenuFunny02">Vous ne telechargeriez pas un vaisseau pirate?!</String>
+	<String Key = "MainMenuFunny03">Extraordinaire simulateur de piraterie!</String>
+	<String Key = "MainMenuFunny04">Vous etes un pirate!</String>
+	<String Key = "MainMenuFunny05">Levez les voiles et parcourez les mers!</String>
+	<String Key = "MainMenuFunny06">Maintenant avec 0% de lapins barbus supplementaires!</String>
+	<String Key = "MainMenuFunny07">Peut contenir des traces de Vaudou</String>
+	<String Key = "MainMenuFunny08">Ne soigne absolument pas les gueules de bois!</String>
+	<String Key = "MainMenuFunny09">Joyeux anniversaire Vitali!</String>
+	<String Key = "MainMenuFunny10">Les pirates aussi ont des sentiments!</String>
+	<String Key = "MainMenuFunny11">Frapper des arbres n'est pas necessaire pour jouer!</String>
+	<String Key = "MainMenuFunny12">Yarr Harr {0}!</String><Note>Player's steam name</Note>
+	
+	
+	<String Key = "MainMenu026">Capitaine</String>
+	<String Key = "MainMenu027">Monde</String>
+	<String Key = "MainMenu028">MODE CAMPAGNE</String>
+	<String Key = "MainMenu029">MODE ARENE</String>
+	<String Key = "MainMenu030">Demarrer la partie</String>
+	<String Key = "MainMenu031">VERSION</String>
+	
+	<String Key = "MainMenu032">Monde de {0}</String><Note>Name of the world</Note>
+	<String Key = "MainMenu033">Jour</String>
+	<String Key = "MainMenu034">Sauvegarder fichier lire erreurs</String>
+	<String Key = "MainMenu035">Format de sauvegarde - charger pour migrer</String>
+	<String Key = "MainMenu036">Note: les donnees d'ile ne peuvent migrer</String>
+	<String Key = "MainMenu037">Emplacement de donnees libre</String>
+	<String Key = "MainMenu038">EMPLACEMENT {0}</String>
+	
+	<String Key = "StartGameQuestions001">Que penses-tu de {0}?</String><Note>This is refers to the world you have named</Note>
+	<String Key = "StartGameQuestions002">C'est repugnant, plein de pirates, de monstres et de difficultes.</String>
+	<String Key = "StartGameQuestions003">Monstres</String>
+	<String Key = "StartGameQuestions004">C'est un monde fascinant, un assortiment intrigant d'habitants parcourent ces terres.</String>
+	<String Key = "StartGameQuestions005">Mystere</String>
+	<String Key = "StartGameQuestions006">C'est un monde deplaisant, compose de coins sombres et aux troubles incessants.</String>
+	<String Key = "StartGameQuestions007">Drame</String>
+	<String Key = "StartGameQuestions008">Qu'est-il arrive recemment à ces contrees?</String>
+	<String Key = "StartGameQuestions009">Une guerre horrible a divise la population.</String>
+	<String Key = "StartGameQuestions010">Plus d'adversaires en mer.</String>
+	<String Key = "StartGameQuestions011">Une peste qui a tue de nombreux innocents.</String>
+	<String Key = "StartGameQuestions012">Desastre!</String>
+	<String Key = "StartGameQuestions013">Le survol d'une rare comete de mauvaise augure.</String>
+	<String Key = "StartGameQuestions014">De longues nuits dangereuses.</String>
+	<String Key = "StartGameQuestions015">Comment vous souvenez-vous de votre pere?</String>
+	<String Key = "StartGameQuestions016">Il etait un brave capitaine connu sous le nom d'Alvíss Týrljos!</String>
+	<String Key = "StartGameQuestions017">Lame du faucon</String>
+	<String Key = "StartGameQuestions018">Il etait alcoolique et faineant... on l'appelait Hairstraw le flatulent!</String>
+	<String Key = "StartGameQuestions019">Pirate supplementaire</String>
+	<String Key = "StartGameQuestions020">Il etait un matelot lâche repondant au nom d'Arthur</String>
+	<String Key = "StartGameQuestions021">+20 pieces d'or</String>
+	<String Key = "StartGameQuestions022">Parametres de moral et de faim</String>
+	<String Key = "StartGameQuestions023">Difficile</String>
+	<String Key = "StartGameQuestions024">Moral et faim</String>
+	<String Key = "StartGameQuestions025">RECOMMANDE POUR LES NOUVEAUX JOUEURS</String>
+	<String Key = "StartGameQuestions026">Normal</String>
+	<String Key = "StartGameQuestions027">Facile</String>
+	<String Key = "StartGameQuestions028">Parametres de recul</String>
+	<String Key = "StartGameQuestions029">Recul</String>
+	<String Key = "StartGameQuestions030">Qu'etes-vous?</String>
+	<String Key = "StartGameQuestions031">Un homme</String>
+	<String Key = "StartGameQuestions032">Une femme</String>
+	<String Key = "StartGameQuestions033">Ressemblez-vous à cela?</String>
+	<String Key = "StartGameQuestions034">Confirmer</String>
+	<String Key = "StartGameQuestions035">Changer d'apparence</String>
+	<String Key = "StartGameQuestions036">Votre objectif est de survivre le plus longtemps possible!</String>
+	<String Key = "StartGameQuestions037">Votre objectif est de vaincre les 4 pirates legendaires!</String>
+	<String Key = "StartGameQuestions038">Alors seulement vous serez le pirate le plus craint de ce monde!</String>
+	<String Key = "StartGameQuestions039">Demarrer la partie</String>
+	<String Key = "StartGameLookEditor001">Modifiez votre apparence en cliquant:</String>
+	<String Key = "StartGameLookEditor002">Couleur</String>
+	<String Key = "StartGameLookEditor003">Visage</String>
+	<String Key = "StartGameLookEditor004">Cheveux</String>
+	<String Key = "StartGameLookEditor005">Chemise</String>
+	<String Key = "StartGameLookEditor006">Veste</String>
+	<String Key = "StartGameLookEditor007">Accessoire</String>
+	
+	<String Key = "StartGameMapGenerate001">Creation de la carte du monde</String>
+	<String Key = "StartGameMapGenerate002">Emplacements</String>
+	<String Key = "StartGameMapGenerate003">Navires hostiles</String>
+	
+	<String Key = "InGameUI001">VIE DU NAVIRE</String>
+	<String Key = "InGameUI002">SANTE</String>
+	<String Key = "InGameUI003">FAIM</String>
+	<String Key = "InGameUI004">MORAL</String>
+	<String Key = "InGameUI005">.NIV</String>
+	<String Key = "InGameUI006">ASSAILLANTS</String>
+	<String Key = "InGameUI007">EQUIPAGE</String>
+	<String Key = "InGameUI008">EN FORMATION</String>
+	<String Key = "InGameUI009">PERSONNALISE</String>
+	<String Key = "InGameUI010">ANIMAUX</String>
+	<String Key = "InGameUI011">CANNONIERS</String>
+	<String Key = "InGameUI012">EQUIPAGE</String>
+	<String Key = "InGameUI013">CARTE DU MONDE</String>
+	<String Key = "InGameUI014">CONFIG. DU NAVIRE</String>
+	<String Key = "InGameUI015">PARAMETRES</String>
+	<String Key = "InGameUI016">CHARGER LA PARTIE</String>
+	<String Key = "InGameUI017">QUITTER LE JEU</String>
+	<String Key = "InGameUI018">COQUE</String>
+	<String Key = "InGameUI019">DECORATION</String>
+	<String Key = "InGameUI020">NOURRITURE</String>
+	<String Key = "InGameUI021">DIVERS</String>
+	<String Key = "InGameUI022">EDITER LE DRAPEAU</String>
+	<String Key = "InGameUI023">EFFACER TOUS LES BLOCS</String>
+	<String Key = "InGameUI024">ACHETER</String>
+	<String Key = "InGameUI025">VENDRE</String>
+	<String Key = "InGameUI026">INTERAGIR AVEC</String>
+	<String Key = "InGameUI027">ENGAGER</String>
+	<String Key = "InGameUI028">LICENCIER</String>
+	<String Key = "InGameUI029">TOUS</String>
+	<String Key = "InGameUI030">VALEUR UNITAIRE</String>
+	<String Key = "InGameUI031">VALEUR TOTALE</String>
+	<String Key = "InGameUI032">NIV</String>
+	
+	
+	<String Key = "InGameFlagEditor01">Effacer</String>
+	<String Key = "InGameFlagEditor02">Reinitialiser</String>
+	
+	<String Key = "InGameTooltips01">ACTION A TIRER:</String>
+	<String Key = "InGameTooltips02">DIRIGER L'EQUIPAGE</String>
+	<String Key = "InGameTooltips03">TOUT LE MONDE VA LA!</String>
+	<String Key = "InGameTooltips04">CHOISISSEZ VOTRE CIBLE</String>
+	<String Key = "InGameTooltips05">QUI VOULEZ-VOUS TUER?</String>
+	<String Key = "InGameTooltips06">ACTION A CLIQUER:</String>
+	<String Key = "InGameTooltips07">INTERAGIR AU CAPITAINE</String>
+	<String Key = "InGameTooltips08">COFFRES,INTERACTIFS</String>
+	<String Key = "InGameTooltips09">PILLER LE NAVIRE ENNEMI</String>
+	<String Key = "InGameTooltips10">FAITES LE D'UN ENDROIT SÛR</String>
+	<String Key = "InGameTooltips11">CAPTURER LE NAVIRE ENNEMI</String>
+	<String Key = "InGameTooltips12">RELÂCHER</String>
+	<String Key = "InGameTooltips13">ARRETER DE PORTER</String>
+	<String Key = "InGameTooltips14">PORTER</String>
+	<String Key = "InGameTooltips15">SOULEVER ET PORTER</String>
+	<String Key = "InGameTooltips16">MOYEN DE TRANSPORTER LES ANIMAUX</String>
+	<String Key = "InGameTooltips17">Tutoriel</String>
+	<String Key = "InGameTooltips18">Besoin d'aide? Appuyer sur F1</String>
+	<String Key = "InGameTooltips19">Creuser</String>
+	<String Key = "InGameTooltips20">Cliquer pour creuser si vous avez une pelle.</String>
+	<String Key = "InGameTooltips21">Les resultats peuvent varier.</String>
+	<String Key = "InGameTooltips22">Vous avez besoin d'une pelle!</String>
+	<String Key = "InGameTooltips23">bouger</String>
+	<String Key = "InGameTooltips24">attaquer</String>
+	<String Key = "InGameTooltips25">interagir</String>
+	<String Key = "InGameTooltips26">piller</String>
+	<String Key = "InGameTooltips27">capturer</String>
+
+	
+	<String Key = "InGameWorldMap01">RENOMMEE</String>
+	<String Key = "InGameWorldMap02">Navires legendaires vaincus</String>
+	<String Key = "InGameWorldMap03">Aucune information</String>
+	<String Key = "InGameWorldMap04">Mauvaise lecture de la carte</String>
+	<String Key = "InGameWorldMap05">ILE</String>
+	<String Key = "InGameWorldMap06">VILLAGE</String>
+	<String Key = "InGameWorldMap07">EXPLORE</String>
+	<String Key = "InGameWorldMap08">Population</String>
+	<String Key = "InGameWorldMap09">Taverne</String>
+	<String Key = "InGameWorldMap10">Armurerie</String>
+	<String Key = "InGameWorldMap11">Marche alimentaire</String>
+	<String Key = "InGameWorldMap12">Bibliotheque</String>
+	<String Key = "InGameWorldMap13">Marche naval</String>
+	<String Key = "InGameWorldMap15">Hutte tribale</String>
+	<String Key = "InGameWorldMap16">Marche general</String>
+	<String Key = "InGameWorldMap17">NAVIGUER JUSQU'A</String>
+	<String Key = "InGameWorldMap18">DISTANCE</String>
+	<String Key = "InGameWorldMap19">DANGER</String>
+	<String Key = "InGameWorldMap20">Ennemi Legendaire</String>
+	<String Key = "InGameWorldMap21">Pirate</String>
+
+	<String Key = "InGameTooltips28">Cliquez deux fois</String>
+	<String Key = "InGameTooltips29">Pour quitter</String>
+	<String Key = "InGameTooltips30">PAS DE SAUVEGARDE...</String>
+	<String Key = "InGameTooltips31">...SI VOUS NAVIGUEZ</String>
+	<String Key = "InGameTooltips32">...SI VOUS AFFRONTEZ UN NAVIRE</String>
+	
+	<String Key = "InGameTooltips33">CLIQUER</String>
+	<String Key = "InGameTooltips34">POUR OUVRIR</String>
+	<String Key = "InGameTooltips35">PARAMETRE AJUSTABLE COMME LE VOLUME DE LA MUSIQUE</String>
+	<String Key = "InGameTooltips36">LES ANIMAUX SONT VOS COMPAGNONS...</String>
+	<String Key = "InGameTooltips37">SELECTIONNEZ VOTRE DESTINATION...</String>
+	<String Key = "InGameTooltips38">POUR CHARGER</String>
+	<String Key = "InGameTooltips39">SI VOUS VOULEZ REVENIR...</String>
+	<String Key = "InGameTooltips40">RESUME DE VOTRE EQUIPAGE...</String>
+	<String Key = "InGameTooltips41">CONSTRUISONS UN RADEAU...</String>
+	<String Key = "InGameTooltips42">Chance d'ameliorer</String>
+	<String Key = "InGameTooltips43">Vous n'avez pas d'arme à distance.</String>
+	<String Key = "InGameTooltips44">PT NECESSAIRE</String>
+	
+	
+	<String Key = "InGameMessageWindow01">Confirmez l'action</String>
+	<String Key = "InGameMessageWindow02">Vous n'avez ni capturé ni pillé le navire ennemi, êtes vous sûr de vouloir partir?</String>
+	<String Key = "InGameMessageWindow03">Etes vous sûr de vouloir remettre à zéro votre navire?</String>
+	<String Key = "InGameMessageWindow04">Oui</String>
+	<String Key = "InGameMessageWindow05">Non</String>
+	
+	<String Key = "BountyBoard01">{0} a été vu pour la dernière fois sur l'ile de {1}. Une marque a été ajoutée sur votre carte. Bonne chance capitaine!</String>
+	<String Key = "BountyBoard02">Vous avez gagne {0} pieces d'or.</String>
+	<String Key = "BountyBoard03">Votre renommee est montee à {0}</String>
+	<String Key = "BountyBoard04">Tableau de primes</String>
+	<String Key = "BountyBoard05">Je vois que vous avez elimine votre cible, voici votre recompense</String>
+	<String Key = "BountyBoard06">Reclamer recompense</String>
+	<String Key = "BountyBoard07">Personne n'est recherche actuellement.</String>
+	<String Key = "BountyBoard08">Suivez votre carte jusqu'à l'ile de {0}, ensuite eliminez {1}!</String>
+	<String Key = "BountyBoard09">Fermer</String>
+	<String Key = "BountyBoard10">Recherche mort: {0}, pour {1}. Prime versee contre preuve de sa mort.</String><Note>{0} = bounty target name, {1} = reason, picked from the list below</Note>
+	<String Key = "BountyBoard11">Je le ferai!</String>
+	<String Key = "BountyBoard12">Non!</String>
+	<String Key = "BountyBoard13">crimes contre l'humanite</String>
+	<String Key = "BountyBoard14">vente de jeux pirates</String>
+	<String Key = "BountyBoard15">avoir peint sa maison en rose</String>
+	<String Key = "BountyBoard16">avoir molesté un poulet</String>
+	<String Key = "BountyBoard17">uriné en public</String>
+	<String Key = "BountyBoard18">indécence vulgaire</String>
+	<String Key = "BountyBoard19">être un sale escroc</String>
+	<String Key = "BountyBoard20">avoir volé un navire</String>
+	<String Key = "BountyBoard21">avoir soutenu une enfreinte aux droits de copie</String>
+	<String Key = "BountyBoard22">etre un ivrogne plouc</String>
+	<String Key = "BountyBoard23">avoir fait un doigt d'honneur au roi des slimes</String>
+	<String Key = "BountyBoard24">avoir dit la verite</String>
+	<String Key = "BountyBoard25">avoir télécharge une voiture</String>
+	<String Key = "BountyBoard26">regarde Oprah</String>
+	<String Key = "BountyBoard27">porte un chapeau comme seul pantalon</String>
+	<String Key = "BountyBoard28">saute la femme du roi</String>
+	<String Key = "BountyBoard29">saute le mari de la reine</String>
+	<String Key = "BountyBoard30">vole mon rhum</String>
+	<String Key = "BountyBoard31">avoir tué le vieil homme maudit</String>
+	<String Key = "BountyBoard32">avoir pirate Pixel Piracy</String>
+	<String Key = "BountyBoard33">défloré la princesse</String>
+	<String Key = "BountyBoard34">enregistre un match de la NFL</String>
+	<String Key = "BountyBoard35">avoir enraye le Minishark</String>
+	<String Key = "BountyBoard36">avoir abandonné Toorum a son sort</String>
+	<String Key = "BountyBoard37">avoir vaincu maman</String>
+	<String Key = "BountyBoard38">imitie Alex Poysky</String>
+	<String Key = "BountyBoard39">trop cuit mon steak</String>
+	<String Key = "BountyBoard40">trafic d'especes en danger</String>
+	<String Key = "BountyBoard41">avoir vole mon nez</String>
+	<String Key = "BountyBoard42">porter un pantalon comme chapeau</String>
+	<String Key = "BountyBoard43">donne des narcotiques à un caniche</String>
+	<String Key = "BountyBoard44">être un foutu espion</String>
+	<String Key = "BountyBoard45">avoir vendu des cartes aux tresor contrefaites</String>
+	<String Key = "BountyBoard46">être un fringuant voyou</String>
+	<String Key = "BountyBoard47">fait ses besoins sur le sol de la taverne</String>
+	<String Key = "BountyBoard48">avoir jeté une crotte sur un autre matelot</String>
+	
+	<String Key = "MouseHovers01">MUNITIONS</String>
+	<String Key = "MouseHovers02">RESERVE</String>
+	<String Key = "MouseHovers03">PRET</String>
+	<String Key = "MouseHovers04">ARME</String>
+	<String Key = "MouseHovers05">CONTIENT</String>
+	<String Key = "MouseHovers06">OUI</String>
+	<String Key = "MouseHovers07">NON</String>
+	
+	<String Key = "PirateCard01">ARMES DE MELEE</String>
+	<String Key = "PirateCard02">ARMES A DISTANCE</String>
+	<String Key = "PirateCard03">PASSIF</String>
+	<String Key = "PirateCard04">PAYER</String>
+	<String Key = "PirateCard05">PAYER EQUIPAGE</String>
+	<String Key = "PirateCard06">parcourir</String>
+	<String Key = "PirateCard07">GROUPE</String>
+	<String Key = "PirateCard08">GRAPPIN</String>
+	<String Key = "PirateCard09">CANNONS</String>
+	<String Key = "PirateCard10">NIVEAU</String>
+	<String Key = "PirateCard11">PAYER EQUIPE</String>
+	<String Key = "PirateCard12">Restore le moral</String>
+	<String Key = "PirateCard13">EXP</String>
+	<String Key = "PirateCard14">PV</String>
+	<String Key = "PirateCard15">Usage du grappin</String>
+	<String Key = "PirateCard16">Votre pirate peut-il quitter le navire pendant un combat ?</String>
+	<String Key = "PirateCard17">Groupe</String>
+	<String Key = "PirateCard18">A quel groupe appartient votre pirate ?</String>
+	<String Key = "PirateCard19">Prise de la fuite</String>
+	<String Key = "PirateCard20">Votre pirate peut-il fuir durant un combat ?</String>
+	<String Key = "PirateCard21">Usage des cannons</String>
+	<String Key = "PirateCard22">Votre pirate peut-il utiliser les cannons ?</String>
+	<String Key = "PirateCard23">TRAITS</String>
+	<String Key = "PirateCard24">DEGATS</String>
+	<String Key = "PirateCard25">VITESSE D'ATTAQUE</String>
+	<String Key = "PirateCard26">RECUL</String>
+	<String Key = "PirateCard27">PORTEE</String>
+	<String Key = "PirateCard28">RANG</String>
+	<String Key = "PirateCard29">fuite</String>
+	<String Key = "PirateCard30">ASSAILLANT</String>
+	<String Key = "PirateCard31">DISTANT</String>
+	<String Key = "PirateCard32">PERSON. 1</String>
+	<String Key = "PirateCard33">PERSON. 2</String>
+	<String Key = "PirateCard34">QUITTER</String>
+	<String Key = "PirateCard35">FRC</String>
+	<String Key = "PirateCard36">VIT</String>
+	<String Key = "PirateCard37">DEX</String>
+	<String Key = "PirateCard38">AGI</String>
+	<String Key = "PirateCard39">INT</String>
+	<String Key = "PirateCard40">CHNC</String>
+	<String Key = "PirateCard41">+DGT</String>
+	<String Key = "PirateCard42">+REGEN VIE</String>
+	<String Key = "PirateCard43">+EXTRA XP</String>
+	<String Key = "PirateCard44">+R DGT</String>
+	<String Key = "PirateCard45">+P ESQUIVE %</String>
+	<String Key = "PirateCard46">+P CRIT %</String>
+	<String Key = "PirateCard47">+ARMURE</String>
+	<String Key = "PirateCard48">+P TOUCHER %</String>
+	<String Key = "PirateCard49">+VITESSE%</String>
+	<String Key = "PirateCard50">+VIE</String>
+	<String Key = "PirateCard51">+VITESSE D'ATTAQUE</String>
+	
+	<String Key = "WeaponBoostDescriptions01">{0}% chance de parer une attaque</String>
+	<String Key = "WeaponBoostDescriptions02">{0}% chance d'augmenter les degats de {1}%</String>
+	<String Key = "WeaponBoostDescriptions03">{0}% d'infliger un coup critique</String>
+	<String Key = "WeaponBoostDescriptions04">{0}% chance de faire saigner {1}% points de degats par seconde pendant 10 secondes</String>
+	<String Key = "WeaponBoostDescriptions05">{0}% chance de voler {1} piece(s) d'or</String>
+	<String Key = "WeaponBoostDescriptions06">{0}% chance d'attaquer a nouveau 0.1s apres</String>
+	<String Key = "WeaponBoostDescriptions07">{0}% chance de capturer un animal</String>
+	<String Key = "WeaponBoostDescriptions08">{0}% chance d'augmenter le recul de {1}%</String>
+	<String Key = "WeaponBoostDescriptions09">Les étoiles survoleront le ciel</String>
+	<String Key = "WeaponBoostDescriptions10">{0}% chance de tuer un ennemi qui a moins de {1}% de sante</String>
+	<String Key = "WeaponBoostDescriptions11">{0}% chance d'etourdir un ennemi pendant {1} secondes</String>
+	<String Key = "WeaponBoostDescriptions12">{0}% chance de bruler un ennemi, infligeant 3% degats par secondes pendant {1} secondes</String>
+	<String Key = "WeaponBoostDescriptions13">{0}% chance de frapper tous les ennemis devant soi</String>
+	<String Key = "WeaponBoostDescriptions14">{0}% chance pour votre prochaine attaque d'avoir double portee</String>
+	
+	<String Key = "TextLibrary0">PAS QUESTION!</String>
+	<String Key = "TextLibrary1">Je ne suis pas d'humeur.</String>
+	<String Key = "TextLibrary2">CASSEZ-VOUS!</String>
+	<String Key = "TextLibrary3">BARREZ-VOUS!</String>
+	<String Key = "TextLibrary4">Aucune chance!</String>
+	<String Key = "TextLibrary5">Quelle perte de temps!</String>
+	<String Key = "TextLibrary6">Cela n'arrivera pas.</String>
+	<String Key = "TextLibrary7">Lâchez moi la grappe!</String>
+	<String Key = "TextLibrary8">NON! NON! NON!</String>
+	<String Key = "TextLibrary9">Je prefererais essayer avec un requin!</String>
+	<String Key = "TextLibrary10">Vous m'ennuyez!</String>
+	<String Key = "TextLibrary11">Cet endroit craint!</String>
+	<String Key = "TextLibrary12">Qui est mort et a fait de vous mon copain?</String>
+	<String Key = "TextLibrary13">Je ne vous aime VRAIMENT pas sire.</String>
+	<String Key = "TextLibrary14">Casse-pied...</String>
+	<String Key = "TextLibrary15">Marin d'eau douce!</String>
+	<String Key = "TextLibrary16">Silence!</String>
+	<String Key = "TextLibrary17">Arretez ces conneries!</String>
+	<String Key = "TextLibrary18">Bla Bla bla!</String>
+	<String Key = "TextLibrary19">Vous me donnez envie de vomir!</String>
+	<String Key = "TextLibrary20">Vous vous battez sans doute comme une vache!</String>
+	<String Key = "TextLibrary21">Shiver me timbers, [X]</String>
+	<String Key = "TextLibrary22">Lavez vos slips!</String>
+	<String Key = "TextLibrary23">Impressionnant!</String>
+	<String Key = "TextLibrary24">Pas mal!</String>
+	<String Key = "TextLibrary25">J'aime çà!</String>
+	<String Key = "TextLibrary26">Wow!</String>
+	<String Key = "TextLibrary27">Hmmm...</String>
+	<String Key = "TextLibrary28">Tres bien!</String>
+	<String Key = "TextLibrary29">Magnifique!</String>
+	<String Key = "TextLibrary31">Je vous aime bien [X]!</String>
+	<String Key = "TextLibrary32">Nous serons de bons amis [X]!</String>
+	<String Key = "TextLibrary33">La prochaine tournee est pour moi!</String>
+	<String Key = "TextLibrary34">Où ira notre amitie [X]?</String>
+	<String Key = "TextLibrary35">Cela va etre super!</String>
+	<String Key = "TextLibrary36">Camarades pour la vie!</String>
+	<String Key = "TextLibrary37">[X], vous etes mon pirate prefere!</String>
+	<String Key = "TextLibrary38">Parlons moins, pillons plus!</String>
+	<String Key = "TextLibrary39">Je ne fais pas confiance à cette part de gateau...!</String>
+	<String Key = "TextLibrary40">Mon bedon a faim d'aventures!</String>
+	<String Key = "TextLibrary41">Pourquoi n'y a t'il jamais de rhum?</String>
+	<String Key = "TextLibrary42">Faites ce que vous voulez parce qu’un pirate est libre! Vous êtes un pirate.</String>
+	<String Key = "TextLibrary43">Yarrr, la mer est nauséabonde aujourd'hui.</String>
+	<String Key = "TextLibrary44">Où sont les donzelles?</String>
+	<String Key = "TextLibrary45">[X], quand atteindrons-nous Tortuga?</String>
+	<String Key = "TextLibrary46">72 Sirenes et une bouteille de rhum!</String>
+	<String Key = "TextLibrary47">L'hiver approche!</String>
+	<String Key = "TextLibrary48">J'dore l'coupure sur vot' bras, [X]</String>
+	<String Key = "TextLibrary49">Si la vie nous donne le scorbut, faisons de la limonade!</String>
+	<String Key = "TextLibrary50">Mefiez-vous du kraken!</String>
+	<String Key = "TextLibrary51">Dites-vous Arrrrr?</String>
+	<String Key = "TextLibrary52">Regardez notre navire, notre navire est incroyable!</String>
+	<String Key = "TextLibrary53">Votre père était courageux. Faites sa fierté!</String>
+	<String Key = "TextLibrary54">Je ne vous aime pas [X]!</String>
+	<String Key = "TextLibrary55">Nous ne serons pas amis [X]!</String>
+	<String Key = "TextLibrary56">Je ne partagerai pas de verre avec vous, [X]!</String>
+	<String Key = "TextLibrary57">Encore vous [X]?!</String>
+	<String Key = "TextLibrary58">Cela va etre deplaisant!</String>
+	<String Key = "TextLibrary59">Je suis de la gomme, vous etes du crayon!</String>
+	<String Key = "TextLibrary60">Mon chien etait plus intelligent que vous, [X]</String>
+	<String Key = "TextLibrary61">Je ne vous aime pas [X], je ne suis là que pour le butin!</String>
+	<String Key = "TextLibrary62">La merde que c'est!</String>
+	<String Key = "TextLibrary63">Ameliorez mon [X]!</String>
+	<String Key = "TextLibrary64">[X] a besoin d'etre aiguise(e)!</String>
+	<String Key = "TextLibrary65">Oui sire!</String>
+	<String Key = "TextLibrary66">Cela vous coûtera 100 pieces d'or!</String>
+	<String Key = "TextLibrary67">Je vais améliorer mon arme!</String>
+	<String Key = "TextLibrary68">Ne vous dérangez pas!</String>
+	<String Key = "TextLibrary69">Je ne fais que passer!</String>
+	<String Key = "TextLibrary70">Belle veste!</String>
+	<String Key = "TextLibrary71">Faites attention cette ville est pleine de voleurs!</String>
+	<String Key = "TextLibrary72">Le temps est super!</String>
+	<String Key = "TextLibrary73">Combien de temps avez-vous navigue?</String>
+	<String Key = "TextLibrary74">Lock'tar O'gar!</String>
+	<String Key = "TextLibrary75">Copain ou cheri?</String>
+	<String Key = "TextLibrary76">Savvy...?</String>
+	<String Key = "TextLibrary77">Cela va etre genial!</String>
+	<String Key = "TextLibrary78">L'aventure attend!</String>
+	<String Key = "TextLibrary79">Puis-je vous parler?</String>
+	<String Key = "TextLibrary80">Mon père connaissait votre père!</String>
+	<String Key = "TextLibrary81">J'ai besoin d'une femme!</String>
+	<String Key = "TextLibrary82">J'aurais besoin de quelques pièces d'or en plus!</String>
+	<String Key = "TextLibrary83">La prochaine est pour moi!</String>
+	<String Key = "TextLibrary84">Le premier grog était bon!</String>
+	<String Key = "TextLibrary85">Je commençais à m'ennuyer, merci!</String>
+	<String Key = "TextLibrary86">Yarr!</String>
+	<String Key = "TextLibrary87">J'espionne l'eau!</String>
+	<String Key = "TextLibrary88">Fais ce que tu veux parce qu’un pirate est libre, tu es un pirate !</String>
+	<String Key = "TextLibrary89">De cendres à monnaie!</String>
+	<String Key = "TextLibrary90">Le butin sera mien!</String>
+	<String Key = "TextLibrary91">La tache ne ment pas!</String>
+	<String Key = "TextLibrary92">Racontez-moi les legendes des pirates fantômes!</String>
+	<String Key = "TextLibrary93">Je ne veux pas nettoyer les crottes aujourd'hui</String>
+	<String Key = "TextLibrary94">La piraterie est drôle jusqu'a qu'on perde sa main. Alors vous etes Crochet!</String>
+	<String Key = "TextLibrary95">Mon four est allume</String>
+	<String Key = "TextLibrary97">J'aime les tortues.</String>
+	<String Key = "TextLibrary98">Y'arr besoin d'un bain!</String>
+	<String Key = "TextLibrary99">Quand vous vous essayez à la piraterie, vous flottez ou mourrez!</String>
+	<String Key = "TextLibrary100">Ma mere m'a dit de ne pas être un pirate... Arr, elle avait peut-être raison.</String>
+	<String Key = "TextLibrary101">Ces poules mouillees...</String>
+	<String Key = "TextLibrary102">Ahoy [X]!</String>
+	<String Key = "TextLibrary103">Bonjour [X]!</String>
+	<String Key = "TextLibrary104">Coucou [X]!</String>
+	<String Key = "TextLibrary105">[X] copain!</String>
+	<String Key = "TextLibrary106">Quoi d'neuf [X]?</String>
+	<String Key = "TextLibrary107">Ne serais-ce pas [X]!</String>
+	<String Key = "TextLibrary108">Hey [X]!</String>
+	<String Key = "TextLibrary109">Eh bien voila [X]!</String>
+	<String Key = "TextLibrary110">Salut [X]!</String>
+	<String Key = "TextLibrary111">Yarr.</String>
+	<String Key = "TextLibrary112">Attendez...</String>
+	<String Key = "TextLibrary113">Et voila...</String>
+	<String Key = "TextLibrary114">J'arrive!</String>
+	<String Key = "TextLibrary115">J'ai besoin de rhum!</String>
+	<String Key = "TextLibrary116">Donnez moi un peu de grog!</String>
+	<String Key = "TextLibrary117">A BOIRE!</String>
+	<String Key = "TextLibrary118">DU GROG!</String>
+	<String Key = "TextLibrary119">Servez moi de la patée!</String>
+	<String Key = "TextLibrary120">Le rhum est mon seul ami.</String>
+	<String Key = "TextLibrary121">Ram'nez mon grog a vot' prop' peril.</String>
+	<String Key = "TextLibrary122">Yo ho ho et une bouteille de RHUM!</String>
+	<String Key = "TextLibrary123">C'est l'écume bar?</String>
+	<String Key = "TextLibrary124">Venez mes jolis coeurs, chantons!</String>
+	<String Key = "TextLibrary125">Pas assez d'alcool pour vous apprécier!</String>
+	<String Key = "TextLibrary126">Arr, a flots pour de l'ale!</String>
+	<String Key = "TextLibrary127">Aussi ivre qu'on pouvait l'être!</String>
+	<String Key = "TextLibrary128">VENEZ ICI!</String>
+	<String Key = "TextLibrary129">AU PIED DE VOTRE MAiTRE!</String>
+	<String Key = "TextLibrary130">SUR MA TETE!</String>
+	<String Key = "TextLibrary131">PETIT PETIT!</String>
+	<String Key = "TextLibrary132">VIENS PETIT!</String>
+	<String Key = "TextLibrary133">Allez vous en!</String>
+	<String Key = "TextLibrary134">Ramenez-vous!</String>
+	<String Key = "TextLibrary135">Allez ici!</String>
+	<String Key = "TextLibrary136">Go go go!</String>
+	<String Key = "TextLibrary137">Bougez ici!</String>
+	<String Key = "TextLibrary138">Hop, hop, hop.</String>
+	<String Key = "TextLibrary144">Vous voulez que je QUOI?</String>
+	<String Key = "TextLibrary146">Cap'taine, allez vous faire voir!</String>
+	<String Key = "TextLibrary147">NON!</String>
+	<String Key = "TextLibrary149">Pendez-moi ou tirez-moi dessus, je ne le ferai pas!</String>
+	<String Key = "TextLibrary150">Pire cap'taine JAMAIS VU!</String>
+	<String Key = "TextLibrary151">Qui est mort et a fait de vous le chef?</String>
+	<String Key = "TextLibrary153">Avec tout mon respect, je ne le ferai pas.</String>
+	<String Key = "TextLibrary154">AYE AYE CAP'TAINE</String>
+	<String Key = "TextLibrary155">Vous devrez me tuer pour que je le face sire!</String>
+	<String Key = "TextLibrary156">Avec plaisir Cap'taine!</String>
+	<String Key = "TextLibrary157">Aye!</String>
+	<String Key = "TextLibrary158">Bien entendu sire!</String>
+	<String Key = "TextLibrary159">Avec plaisir</String>
+	<String Key = "TextLibrary160">J'y suis dejà!</String>
+	<String Key = "TextLibrary161">De suite!</String>
+	<String Key = "TextLibrary163">Pas de repos pour les mechants!</String>
+	<String Key = "TextLibrary164">Nous prenons cette barque!</String>
+	<String Key = "TextLibrary165">Capturez ce navire!</String>
+	<String Key = "TextLibrary166">Ce navire est notre!</String>
+	<String Key = "TextLibrary167">Boom!</String>
+	<String Key = "TextLibrary168">Z'avez vu l'explosion?!</String>
+	<String Key = "TextLibrary169">Destruction!</String>
+	<String Key = "TextLibrary170">Au travail!</String>
+	<String Key = "TextLibrary171">Arretez de trainer!</String>
+	<String Key = "TextLibrary172">Ce sera la potence si vous ne vous bougez pas!</String>
+	<String Key = "TextLibrary173">Vous prefereriez la planche?</String>
+	<String Key = "TextLibrary174">Selectionnez une destination!</String>
+	<String Key = "TextLibrary175">Ainsi nous allons à (A)!</String>
+	<String Key = "TextLibrary176">Navigateur, levez les voiles pour (A)!</String>
+	<String Key = "TextLibrary177">Apres un long voyage nous sommes arrive!</String>
+	<String Key = "TextLibrary178">Soudain nous avons decouvert (A)!</String>
+	<String Key = "TextLibrary179">Il est temps de naviguer!</String>
+	<String Key = "TextLibrary180">Soyez pret!</String>
+	<String Key = "TextLibrary181">Il est temps de lever l'ancre et hisser le mât d'artimon!</String>
+	<String Key = "TextLibrary182">Il est temps de grappiner!</String>
+	<String Key = "TextLibrary183">Preparez vous grappins!</String>
+	<String Key = "TextLibrary184">Ugh</String>
+	<String Key = "TextLibrary185">Arg</String>
+	<String Key = "TextLibrary186">Uuh</String>
+	<String Key = "TextLibrary187">Aaah</String>
+	<String Key = "TextLibrary188">Ow!</String>
+	<String Key = "TextLibrary189">Ouch!</String>
+	<String Key = "TextLibrary190">Feu!</String>
+	<String Key = "TextLibrary192">J'ai besoin de me nourrir!</String>
+	<String Key = "TextLibrary193">Nous avons besoin d'un cuistot!</String>
+	<String Key = "TextLibrary194">Je meurs de faim!</String>
+	<String Key = "TextLibrary195">A manger ou je vais mourrir!</String>
+	<String Key = "TextLibrary196">Je pourrais manger un cheval!</String>
+	<String Key = "TextLibrary197">J'ai faim!</String>
+	<String Key = "TextLibrary198">NOURRISSEZ-NOUS!</String>
+	<String Key = "TextLibrary199">Pourquoi n'y a t'il plus de rhum?!</String>
+	<String Key = "TextLibrary200">Oui sire!</String>
+	<String Key = "TextLibrary201">Discipline!</String>
+	<String Key = "TextLibrary202">Stop!</String>
+	<String Key = "TextLibrary203">Ching Chang Choo!</String>
+	<String Key = "TextLibrary204">Ching hooo!</String>
+	<String Key = "TextLibrary205">Hio Yooo Pooo!</String>
+	<String Key = "TextLibrary206">Chop! Chop! Chop!</String>
+	<String Key = "TextLibrary207">Raid! Pillage!</String>
+	<String Key = "TextLibrary208">Roaaaar!</String>
+	<String Key = "TextLibrary209">Hahaha</String>
+	<String Key = "TextLibrary210">Mi Gorda!</String>
+	<String Key = "TextLibrary211">Hua Hua haha!</String>
+	<String Key = "TextLibrary212">Le film prefere d'un pirate est note “ARRRR”!</String>
+	<String Key = "TextLibrary213">Le plus rugueux est la mer, le plus calmement nous naviguons. Ahoy!.</String>
+	<String Key = "TextLibrary214">La piraterie est notre mode de vie. Ahoy.</String>
+	<String Key = "TextLibrary215">Yo Ho Ho!</String>
+	<String Key = "TextLibrary216">Ahoy!</String>
+	<String Key = "TextLibrary218">Butin, où est le butin?</String>
+	<String Key = "TextLibrary219">Hmm</String>
+	<String Key = "TextLibrary220">Ahoy! agitons la mer!</String>
+	<String Key = "TextLibrary221">Où est mon grog!</String>
+	<String Key = "TextLibrary222">Que feriez-vous d'un matelot ivre?!</String>
+	<String Key = "TextLibrary223">Quelqu'un connait un chant marin?</String>
+	<String Key = "TextLibrary224">Où sont les cartes?</String>
+	<String Key = "TextLibrary225">Qui est de garde aujourd'hui?</String>
+	<String Key = "TextLibrary226">Cherchez moi un autre matelot!</String>
+	<String Key = "TextLibrary227">La vie est belle, pourquoi ne le serait-elle pas? Je suis un pirate, après tout.</String>
+	<String Key = "TextLibrary228">Mambo!</String>
+	<String Key = "TextLibrary229">Zambo!</String>
+	<String Key = "TextLibrary230">Akuku!</String>
+	<String Key = "TextLibrary231">Akiki!</String>
+	<String Key = "TextLibrary232">Laku!</String>
+	<String Key = "TextLibrary233">Les morts ne racontent aucune legende!</String>
+	<String Key = "TextLibrary234">Chien galeux!</String>
+	<String Key = "TextLibrary235">Pendez-le à la vergue!</String>
+	<String Key = "TextLibrary236">Tuez tout le monde!</String>
+	<String Key = "TextLibrary237">Pas de pitie!</String>
+	<String Key = "TextLibrary238">Maudit soyez-vous!</String>
+	<String Key = "TextLibrary239">Vaurien!</String>
+	<String Key = "TextLibrary240">Vous n'avez aucune chance YAR!</String>
+	<String Key = "TextLibrary241">J'aurez vos dents!</String>
+	<String Key = "TextLibrary242">Saignez-les!</String>
+	<String Key = "TextLibrary243">Pas de merci si ils ne se rendent pas immediatement!</String>
+	<String Key = "TextLibrary244">Prennez ce que vous pouvez, ne rendez-rien!</String>
+	<String Key = "TextLibrary245">Demollissez-le!</String>
+	<String Key = "TextLibrary246">Barrez-vous, marins d'eau douce!</String>
+	<String Key = "TextLibrary247">Au casier de Davy Jones'!</String>
+	<String Key = "TextLibrary248">Vous serez decape!</String>
+	<String Key = "TextLibrary249">Je vais vous decouper comme un chiche kebab!</String>
+	<String Key = "TextLibrary250">Je suis là pour botter des fesses et siffler du rhum, et il n'y a plus de rhum!</String>
+	<String Key = "TextLibrary251">J'ai une longue et dure leçon pour vous aujourd'hui. YAHARR!</String>
+	<String Key = "TextLibrary252">Je parie que je vous batterais à main nue.</String>
+	<String Key = "TextLibrary253">Miam!</String>
+	<String Key = "TextLibrary254">Nourriture!</String>
+	<String Key = "TextLibrary255">Bouffe!</String>
+	<String Key = "TextLibrary256">Le diner est servi!</String>
+	<String Key = "TextLibrary257">Pret!</String>
+	<String Key = "TextLibrary258">Suivant!</String>
+	<String Key = "TextLibrary259">Arretez les voiles!</String>
+	<String Key = "TextLibrary260">Stoppez le navire!</String>
+	<String Key = "TextLibrary261">STOP, STOP STOOOOOP!</String>
+	<String Key = "TextLibrary262">Jetez l'ancre!</String>
+
+	<String Key = "PirateAttitude0">IL EST NARQUOIS, IL REPOND A SES SUPERIEURS COMME A SES COEQUIPIERS, IL PREND DU PLAISIR A REPRIMANDER LES AUTRES</String>
+	<String Key = "PirateAttitude1">IL EST JOYEUX, RIEN NE PEUT L'ABATTRE, TOUT LUI SOURIT EN MER MEME LE SOLEIL</String>
+	<String Key = "PirateAttitude2">IL EST DEPRESSIF, QUELLE QUE SOIT LA RAISON, CE PIRATE A TOUJOURS LE MORAL DANS LES CHAUSSETTES</String>
+	<String Key = "PirateAttitude3">IL EST ACIDE, PIRATE CYNIQUE, IL CREERA SOUVENT DES DISPUTES ENTRE AMIS</String>
+	<String Key = "PirateAttitude4">IL EST FAINEANT, IL TRAINE TOUJOURS QUAND PERSONNE NE REGARDE</String>
+	<String Key = "PirateAttitude5">IL EST BETE, BETE COMME UNE CHEVRE</String>
+	<String Key = "PirateAttitude6">IL EST PRETENTIEUX, IL A VRAIMENT LES CHEVILLES QUI ENFLENT</String>
+	<String Key = "PirateAttitude7">IL EST OSE, LE COURAGE EST LE SECOND PRENOM DE CE PIRATE</String>
+	<String Key = "PirateAttitude8">IL EST FRINGANT, UNE FRIPOUILLE COURAGEUSE ET UN MAGNIFIQUE AVENTURIER</String>
+	<String Key = "PirateAttitude9">IL EST COURAGEUX, CE PIRATE DOMINE DANS LES ARTS MARTIAUX ET PERSONNE NE LUI ARRIVE A LA CHEVILLE</String>
+	<String Key = "PirateAttitude10">IL SE SOUCIE DES AUTRES, CE PIRATE CHERCHER A AIDER LES AUTRES DANS SON TEMPS LIBRE</String>
+	<String Key = "PirateAttitude11">IL EST AVENTURIER, SON BONHEUR EST MAXIMAL LORS DE L'OUVERTURE D'UN TRESOR OU LORS D'ACTES HEROIQUES</String>
+	<String Key = "PirateAttitude12">IL EST UN MENEUR, CE PIRATE PREND LES CHOSES EN MAIN, PEU IMPORTE LA DIFFICULTE</String>
+	
+	<String Key = "PirateBuild0">IL EST AGITE ET ARROGANT, DE PETITE TAILLE MAIS DE CONSTITUTION MOYENNE</String>
+	<String Key = "PirateBuild1">IL EST POTELE, IL A AU MOINS QUATRE POIGNEES D'AMOUR</String>
+	<String Key = "PirateBuild2">IL EST MAIGRE, FIN ET ELANCE</String>
+	<String Key = "PirateBuild3">IL EST GROS, SON BEDON RENFLE AU NIVEAU DES COUTURES</String>
+	<String Key = "PirateBuild4">IL EST DE STATURE ATHLETIQUE, QUE CE SOIT POUR MONTER LE MAT OU LANCER LE GRAPPIN, IL EST FORT COMME UN OURS</String>
+	<String Key = "PirateBuild5">IL EST CHETIF, UNE BOURRASQUE POURRAIT LE RENVERSER</String>
+	<String Key = "PirateBuild6">IL EST BIEN BATI, TRAVAILLER DUR NE LUI EST PAS ETRANGER</String>
+	<String Key = "PirateBuild7">IL EST MUSCLE, IL PEUT FRAPPER COMME UN ANE, ET PEUT MAINTENIR UN CHEVAL AU SOL</String>
+	<String Key = "PirateBuild8">IL EST COUVERT D'ENTAILLES, QUE CE SOIT AU VISAGE OU AU TORSE, IL A BEAUCOUP BATAILLE</String>
+	<String Key = "PirateBuild9">IL A LA CONSISTANCE DU CUIR, SA PEAU EST BRONZEE ET DURE, LE SOLEIL A TAPE FORT SUR LUI</String>
+	
+	<String Key = "PiratePast0">IL ETAIT UN MARCHAND, IL A TRANSPORTE SES MARCHANDISES AUSSI LOIN QUE LA MER SOMBRE LUI A PERMIS.</String>
+	<String Key = "PiratePast1">IL ETAIT UN CONSEILLER, UN CHANGEMENT SOUDAIN DE CARRIERE DU A DES EVENEMENTS IMPREVUS.</String>
+	<String Key = "PiratePast2">IL ETAIT UN VOLEUR, DEVENIR UN PIRATE ETAIT UNE PROGRESSION LOGIQUE.</String>
+	<String Key = "PiratePast3">IL ETAIT UN PRETRE, IL EN A EU MARRE DE PRIER ET A PRIS SON DESTIN EN MAIN.</String>
+	<String Key = "PiratePast4">IL ETAIT VENDEUR, IL A ACCIDENTELLEMENT TUE UN VOLEUR ET A ETE BANNI.</String>
+	<String Key = "PiratePast5">IL ETAIT UN MEURTRIER, RIEN NE LUI PLAISAIT, TUER EST SA SEULE PASSION.</String>
+	<String Key = "PiratePast6">IL ETAIT UN GARDE NOIR, IL GARDAIT LES PORTES DE L'OCEAN NOIR, ACCUSE A TORT IL A CHOISI LA PIRATERIE COMME RECOURS.</String>
+	<String Key = "PiratePast7">IL ETAIT UN ASSASSIN, IL PRENAIT DES CONTRATS ET MISES A PRIX JUSQU'AU JOUR OU IL TUA LE MAUVAIS HOMME.</String>
+	<String Key = "PiratePast8">IL ETAIT UN FORGERON, IL N'ETAIT PAS TRES DOUE ET FINIT PAR ABANDONNER SON ANCIEN METIER POUR LA PIRATERIE.</String>
+	<String Key = "PiratePast9">IL ETAIT UN JARDINIER, IL A LA MAIN VERTE, ET UN MANQUE DE NOIX DE COCOS LUI A FAIT CHANGER DE METIER.</String>
+	<String Key = "PiratePast10">IL ETAIT UN ESCRIMEUR, IL AFFRONTAIT SES CONGENAIRES DANS DES DUELS D'HONNEUR, UNE BALLE DANS LE BRAS LUI A FAIT PRENDRE SA RETRAITE.</String>
+	<String Key = "PiratePast11">IL ETAIT MUSICIEN, SON INSTRUMENT ETAIT LA LYRE, ON L'ENTENDAIT PARTOUT JUSQU'AU JOUR OU DES MUSICIENS CONCURRENTS L'ONT VAINCU.</String>
+	<String Key = "PiratePast12">IL ETAIT CAPTIF, OTAGE CONTRE UNE RANCON QUI N'EST JAMAIS ARRIVEE, FINALLEMENT ABANDONNE SUR UNE ILE OU IL COULA SON CHAGRIN DANS LA TAVERNE LOCALE.</String>
+	<String Key = "PiratePast13">IL ETAIT CARTOGRAPHIEUR, ENREGISTRAIT LES DONNES DES ILES, TOPOGRAPHIE ET AUTRES ETAIENT VENDUES AUX PLUS OFFRANTS.</String>
+	<String Key = "PiratePast14">IL ETAIT UN MERCENAIRE, SE SENTAIT TOUJOURS PLUS EN SECURITE SON EPEE A LA MAIN.</String>
+	<String Key = "PiratePast15">IL ETAIT UN CATCHEUR, PASSAIT SON TEMPS DANS DES COMBATS ILLEGAUX PRES DE LA TAVERNE, PERDRE UN SECOND DOIGT LUI FIT CHOISIR LA PIRATERIE COMME METIER PLUS SUR.</String>
+	<String Key = "PiratePast16">IL ETAIT UN BRISEUR DE MENAGES, SEDUISAIT DES EPOUSES ET LEUR FAISAIT DU CHANTAGE, UN ASSASSIN A ETE LANCE A SA POURSUITE.</String>
+	<String Key = "PiratePast17">IL ETAIT UN PARIEUR, IL PASSAIT SON TEMPS A JOUER AUX DES ET GAGNER ASSEZ D'ARGENT POUR SES BESOIN EN PICOLE JUSQU'A AVOIR TROP PERDU ET VENDU A VOTRE SERVICE.</String>
+	<String Key = "PiratePast18">IL ETAIT UN BERGER, SURVEILLANT SES MOUTONS IL REVAIT D'AVENTURE JUSQU'AU JOUR OU IL SE DECIDA A VOUS REJOINDRE.</String>
+	<String Key = "PiratePast19">IL ETAIT UN CHANTEUR, DANS UN GROUPE QUI ALLAIT DE TAVERNES EN TAVERNES, AYANT PERDU L'INSPIRATION IL TROUVA PLUS D'AMUSEMENT DANS LA PIRATERIE.</String>
+	<String Key = "PiratePast20">IL ETAIT GYMNASTE, IL A PARCOURU LE MONDE POUR PARTICIPER AUX JEUX OLYMPIQUES EN EQUIPE MAIS ABANDONNA, LE STRESS ETAIT TROP POUR LUI.</String>
+	<String Key = "PiratePast21">IL ETAIT UN SURFEUR DE REQUINS, CONNU POUR SA CAPACITE A SURFER JUSQUE DANS UNE BALEINE ET A EN RESSORTIR PAR LE SPIRACULE... CE QU'IL PRETENDAIT.</String>
+	<String Key = "PiratePast22">IL ETAIT PLONGEUR, IL PLONGEAIT DE BATEAUX DE PECHE ET FOULLAIT LES EPAVES A LA RECHERCHE DE TRESORS, IL DECIDA DE CREER PLUS D'EPAVES POUR NE PAS REVENIR LES MAINS VIDES.</String>
+	<String Key = "PiratePast23">IL ETAIT UN PECHEUR, APRES AVOIR PERDU SON TROISIEME BATEAU IL DECIDA DE DEVENIR PIRATE POUR PILLER LES BATEAUX DE PECHE.</String>
+	<String Key = "PiratePast24">IL ETAIT POMPIER, IL MIT LE FEU A TROIS VILLES AVANT D'ETRE COMDAMNE A MORT POUR INCENDIE VOLONTAIRE.</String>
+	<String Key = "PiratePast25">IL ETAIT BANQUIER, QUAND LES VILLAGEOIS SE RENDIRENT COMPTE QU'IL N'Y AVAIT PLUS D'ARGENT DANS LES CAISSES, IL REPONDIT EN DEVENANT UN PIRATE.</String>
+	<String Key = "PiratePast26">IL ETAIT ASTRONAUTE, SON VAISSEAU A TRAVERSE UNE FAILLE TEMPORELLE ET S'EST CRASHE, LE COEUR BRISE IL CHOISIT DE DEVENIR PIRATE.</String>
+	<String Key = "PiratePast27">IL ETAIT UN PIRATE, IL ETAIT PIRATE DURANT TELLEMENT DE TEMPS QU'IL ETAIT PIRATE DANS SA VIE ANTERIEURE.</String>
+	<String Key = "PiratePast28">IL ETAIT UN MAGE, CE PUISSANT MAGICIEN EMBRASSA LA VIE DE PIRATE QUAND IL DECOUVRIT QUE LA MAGIE N'EXISTE PAS.</String>
+	<String Key = "PiratePast29">IL ETAIT ARCHEOLOGUE, TROP JEUNE POUR SON EPOQUE, IL N'AVAIT AUCUN NAZI A BATTRE, AUCUN GRAAL A DECOUVRIR, AUCUN CRANE DE CRISTAL A DETERRER.</String>
+	<String Key = "PiratePast30">IL ETAIT UN HEROS, IL DECOUVRIT QUE LA PRINCESSE QU'IL AVAIT EMBRASSE ETAIT SA SOEUR PERDU DE VUE DEPUIS LONGTEMPS, ELLE S'ENFUIT ET SON PERE ESSAYA DE LE TUER.</String>
+	<String Key = "PiratePast31">IL ETAIT UN CONTREBANDIER, IL CACHA TREIZE HOMMES DANS DES TONNEAUX DE POISSON JUSQU'A UNE PARTIE DANGEREUSE DE LA VILLE.</String>
+	<String Key = "PiratePast32">IL ETAIT AVOCAT, IL ACCUSA LA MAUVAISE PERSONNE.</String>
+	<String Key = "PiratePast33">IL ETAIT UN SEIGNEUR DU TEMPS, FATIGUE DE CHERCHER SON MONDE NATAL DISPARU DANS UNE AUTRE DIMENSION, IL CHOISIT LA PIRATERIE POUR MODE DE VIE.</String>
+	<String Key = "PiratePast34">IL ETAIT UN PIRATE, IL A PIRATE TELLEMENT DE LOGICIELS QU'IL A ETE ASPIRE DANS UN MONDE FICTIF.</String>
+	<String Key = "PiratePast35">IL ETAIT DEVELOPPEUR DE JEUX VIDEOS, IL N'AVAIT LITERALEMENT AUCUNE VIE.</String>
+	<String Key = "PiratePast36">IL ETAIT UN DIEU DEMON, DE NOMBREUX PINGUINS BIZARRE LE SUIVAIT PARTOUT ET ONT PROVOQUE SON EXPLOSION.</String>
+	<String Key = "PiratePast37">IL HABITAIT UN ABRI, SES CONCITOYENS S'ENFERMERENT DANS DES ABRIS DURANT 200 ANS POUR ECHAPPER A L'APOCALYPSE, IL DEVINT APRES UN PIRATE SANS RAISON AUCUNE.</String>
+	<String Key = "PiratePast38">IL ETAIT UN ESPION, IL SAUVA LA GALAXIE ENTIERE D'UNE RACE SAUVAGE, POUR MOURRIR, DEVENIR UN DEMI-DIEU, S'ENNUYER ET DEVENIR UN PIRATE FINALEMENT.</String>
+	<String Key = "PiratePast39">IL ETAIT UN NINJA, SON PERE A ETE TUE PAR UN CLAN ENNEMI, APRES DES AVENTURES COMPLIQUEES IL TROUVA ET TUA LE MEURTRIER DE SON PERE ET DEVIENT ALORS UN PIRATE.</String>
+	<String Key = "PiratePast40">IL ETAIT UN SAMOURAI, AVAIT BAIGNE SON EPEE DANS LE SANG DE NOMBREUX ENNEMIS, AMASSA FORTUNE ET CELEBRITE, ET DEVINT PIRATE PAR ENNUI.</String>
+	<String Key = "PiratePast41">IL ETAIT UN BOXER EN DEVENIR, APRES UNE SERIE DE VICTOIRES, SON ANCIEN MENTOR ET PREMIER ADVERSAIRE FUT SEVEREMENT BLESSE, IL VOUA SA VIE A LA PIRATERIE.</String>
+	<String Key = "PiratePast42">IL ETAIT TOP MODEL, AVEC TANT DE SUCCES QUE CELA DEVENAIT VEXANT ET SEULE LA PIRATERIE POUVAIT ARRANGER CELA.</String>
+	<String Key = "PiratePast43">IL ETAIT UN ARCHER, IL TUA PAR ACCIDENT SON ROI DURANT UNE SESSION DE CHASSE, TOUT LE ROYAUME EST A PRESENT A SA RECHERCHE.</String>
+	<String Key = "PiratePast44">IL ETAIT DECORATEUR D'INTERIEUR, ET MAINTENANT CHERI, IL VEUT S'ASSURER QUE TON NAVIRE EST ABSOLUMENT MAGNIFIQUE!</String>
+	<String Key = "PiratePast45">IL ETAIT UN BRAVE PALADIN, S'EST BATTU POUR SON SEIGNEUR, SON ROI, SA TERRE NATALE, ET UNE FAILLE TEMPORELLE EN A FAIT UN PIRATE.</String>
+	<String Key = "PiratePast46">IL ETAIT UN BERSERKER, NORDIQUE DE NAISSANCE, PAR LA PIRATERIE IL COMPTE MOURRIR AU COMBAT ET JOINDRE LE VALHALLA COMME LE MERITE TOUT BON NORDIQUE.</String>
+	<String Key = "PiratePast47">IL ETAIT CHARPENTIER, DE NOMBREUSES PERSONNES LE SUIVAIT PARTOUT ET BUVAIENT SES PAROLES, IL SIMULA SA MORT ET DEVINT PIRATE POUR EVITER LES ENNUIS.</String>
+	<String Key = "PiratePast48">IL ETAIT VENDEUR DE BARQUES USEES, IL ETUDIA AUPRES D'UN CELEBRE VENDEUR, STAN, MAIS LA VENTE DE BARQUES NE LUI CONVENAIT PLUS ET IL CHOISIT LA PIRATERIE.</String>
+	<String Key = "PiratePast49">IL ETAIT UN CELEBRE PIRATE, PUIS LORSQU'IL DECOUVRIT QUE LES JURONS FONT DE MAUVAISES ARMES, IL DECIDA DE DEVENIR UN PIRATE POUR DE VRAI.</String>
+	<String Key = "PiratePast50">IL ETAIT DRUIDE, IL FABRIQUAIT DES POTIONS MAGIQUES POUR BEAUCOUP DE CITADINS INGRATS QUI GASPILLAIENT MIRACULEUSEMENT POUR BATTRE DES HOMMES VËTUS D'RMURE DANS LA TERRE SANS RAISON.</String>
+	<String Key = "PiratePast51">IL ETAIT UN TERRARIEN, CE PIRATE VIENT DE LA TERRE ETRANGERE TERRARIA, QUI SAIT QUELLE AVENTURE IL A VECUES. IL A UN AMOUR DISTINCT POUR LES POUPEES VAUDOU ET LES MINES.</String>
+	<String Key = "PiratePast52">IL ÉTAIT VITALI KIRPU, TOUT DROIT, CE GARS EST LE DEV DU JEU, C’EST DIEU, LE GRAND KAHOONA, NE PAS DÉCONNER AVEC LUI, IL VA TIRER UN MISSILE SUR VOUS! MAIS UTILE POUR TOUT USAGES, C'EST UN PIRATE NORMAL.</String>
+	<String Key = "PiratePast53">IL ETAIT ALEXANDER POYSKY, D'ACCORD C'EST ASSEZ RIDICULE DE S'AUTO INTRODUIRE. C’EST UN MEC COOL MAIS C’EST INUTILE !!! QUE CE PASSERA T'IL SI VITALI ET LUI SE RETROUVE SUR UN BATEAU.</String>
+	<String Key = "PiratePast54">IL ETAIT UN PIRATE DE L'ESPACE. ESPACE, MER C'EST LA MEME CHOSE NON? MEME PREMISSE DE BASE, IL VA S'Y HABITUER, J'EN SUIS SUR.</String>
+	<String Key = "PiratePast55">IL ETAIT UN JOKEY, IL A COURU A CHEVAL DANS LA MER, EST VENU DANS CE BOUT D'ILE, ET A DECIDE DE DONNER DU REPOS A SON CHEVAL AVANT DE RENTRER.</String>
+	<String Key = "PiratePast56">IL ETAIT UN MECHANT DIEU, LA CAUSE DE TOUTES CES FAILLES TEMPORELLES ET DE FOLLES MANIGANCES, C'EST CE TYPE.</String>
+	<String Key = "PiratePast57">IL ETAIT UN SCIENTIFIQUE FOU, PARCE QUE LES ALIENS..........</String>
+	<String Key = "PiratePast58">IL ÉTAIT UN POISSONNIER, IL EST FATIGUÉ DE LA VIE HUMBLE ET A DÉCIDÉ DE CHERCHER L’AVENTURE!</String>
+	<String Key = "PiratePast59">IL ETAIT UN APOTHICAIRE. IL PREPARAIT DES POTIONS ET DES ONGUENTS JUSQU'A CE QUE SA SOIF DE VIE L'EMPORTE.</String>
+	<String Key = "PiratePast60">IL ETAIT FABRICANT DE PERRUQUES. IL VOULAIT DE LA POUDRE ET DES GOUVERNANTS MAIS IL REVAIT DE NAVIGUER EN HAUTE MER.</String>
+	<String Key = "PiratePast61">IL ÉTAIT SELLIER, SES MAINS FATIGUÉES SE LASSAIENT DE TRAVAILLER LE CUIR.</String>
+	<String Key = "PiratePast62">IL ÉTAIT MODISTE, IL PORTAIT ET VENDAIT DES VÊTEMENTS À BEAUCOUP DE PASSANTS, MAIS LA VIE DE MAGASIN NE LUI SUFFISAIT PAS.</String>
+	<String Key = "PiratePast63">IL ÉTAIT UN CHAPELIER, IL ÉTAIT BIEN CONNU POUR SES COIFFES DIFFÉRENTES, IL A UNE FOIS FAÇONNÉ UN CHAPEAU DE PIRATE, ET DÉCIDÉ QUE CHAQUE PIRATE COMMENCE QUELQUE PART.</String>
+	<String Key = "PiratePast64">IL ÉTAIT UN TONNELIER, IL FABRIQUAIT DES TONNEAUX EN BOIS, MAIS IL A DÉCIDÉ QU’IL VOULAIT PRENDRE DU RHUM, PAS LE LOGER.</String>
+	<String Key = "PiratePast65">IL ÉTAIT BRIQUETIER, IL SE MÉFIAIT DE L’ARGILE ET A DÉCIDÉ DE CONSTRUIRE SON PROPRE AVENIR.</String>
+	<String Key = "PiratePast66">IL ÉTAIT UN CORDONNIER, LES CHAUSSURES ÉTAIENT LA PROFESION DE CET HOMME, POURTANT IL VOULAIT UTILISER SES PROPRES POUR CHERCHER L’AVENTURE.</String>
+	<String Key = "PiratePast67">IL ÉTAIT UN TAVERNIER, MALADE D’ENTENDRE DES HISTOIRES DE PIRATERIE ET D’AVENTURE, IL A DÉCIDÉ DE FERMER BOUTIQUE ET DE VENIR AVEC VOUS.</String>
+	<String Key = "PiratePast68">IL ÉTAIT FABRICANT DE BOUGIES, LES MÈCHES ÉTAIENT LA VIE DE CET HOMME, MAIS COMME IL A VU SA PROPRE MORTALITÉ REFLÉTÉE DANS LA CIRE D’UNE BOUGIE BRÛLANT, IL A DÉCIDÉ DE RECOMMENCER.</String>
+	<String Key = "PiratePast69">IL ÉTAIT UN GÉRANT DE MAGASIN GÉNÉRAL, IL STOCKAIT DES BATEAUX PLEINS DE MARCHANDISES, SEULEMENT POUR REGARDER LES MARCHANDS SE FAIRE VOLER SUR UNE BASE HEBDOMADAIRE, SI VOUS NE POUVEZ PAS LES BATTRE, REJOIGNEZ-LES EST SA DEVISE.</String>
+	<String Key = "PiratePast70">IL ÉTAIT ACATRE, IL FOURNISSAIT DE LA NOURRITURE ET DES PROVISIONS AUX NAVIRES, JUSQU’AU JOUR OÙ IL A REJOINT VOTRE ÉQUIPAGE PIRATE.</String>
+	<String Key = "PiratePast71">IL ÉTAIT COMPTABLE, IL TRAVAILLAIT POUR LA MAISON FISCALE DU GOUVERNEUR, MAIS IL A ÉTÉ PRIS À PILLER LES COFFRES.</String>
+	<String Key = "PiratePast72">IL ÉTAIT UN HOMME D’ACRE, IL LABOURAIT SES CHAMPS ET S’OCCUPAIT DE SES TROUPEAUX JUSQU’À CE QUE LE GOUVERNEUR CORROMPU L’EXPULSE ILLÉGALEMENT.</String>
+	<String Key = "PiratePast73">IL ÉTAIT UN DÉGUSTATEUR DE BIERE, CET HOMME CONNAÎT LES MEILLEURES BIERES PAR LE GOÛT, LA TEXTURE ET L’ODEUR, IL A DÉCOUVERT QUE LA PIRATERIE LE MET EN CONTACT AVEC DE NOMBREUSES NOUVELLES SAVEURS.</String>
+	<String Key = "PiratePast74">IL ETAIT UN AUMONIER, CET HOMME ETAIT PARMI LES PAUVRES, IL MENDIAIT DANS LES RUES JUSUQU'A CE QU'IL GAGNE ASSEZ POUR ACHETER UNE ARME ET UN PASSAGE A LA TAVERNE OU VOUS L'AVEZ TROUVE.</String>
+	<String Key = "PiratePast75">IL ÉTAIT UN FORGERON D’ANCRAGE, FATIGUÉ DE NE JAMAIS VOIR SES MARCHANDISES EN ACTION IL A FAIT AVEC LA VIE DE PIRATERIE.</String>
+	<String Key = "PiratePast76">IL ÉTAIT PAUVRE, IL JOUAIT SUR LA PLACE DE LA VILLE, SEULEMENT POUR SE FAIRE LANCER DES TOMATES.</String>
+	<String Key = "PiratePast77">IL ETAIT UN CONSABLE, IL TRAVAILLAIT SOUS UN REGIME TRES STRICT QUI A ETE RENVERSE.</String>
+	<String Key = "PiratePast78">IL ÉTAIT APICULTEUR, IL A FOURNI LE MEILLEUR MIEL DU PAYS, SEULEMENT POUR LE FAIRE CONFISQUER PAR LE GOUVERNEUR LOCAL.</String>
+	<String Key = "PiratePast79">IL ÉTAIT UN BLUFFEUR, UN PROPRIÉTAIRE DE MÉTIER, IL A UNE FOIS UN PEU TROP ÉNERVÉ SES TENNANTS.</String>
+	<String Key = "PiratePast80">IL ÉTAIT UN BOOTHMAN, UN MARCHAND DE MAÏS, UN MOULIN LOCAL QUI L’A MIS HORS SERVICE.</String>
+	<String Key = "PiratePast81">IL ÉTAIT UN FROMAGER, LA PUANTEUR DE ROQUEFORT ÉTAIT TROP FORTE DANS LES POUMONS DE CET HOMME.</String>
+	<String Key = "PiratePast82">IL ÉTAIT UN PORTEUR DE CHARBON, MALADE DE DÉCHARGEMENT DE CHARBON DES NAVIRES, IL A DÉCIDÉ DE DEVENIR UN PIRATE.</String>
+	<String Key = "PiratePast83">IL ÉTAIT COUTELIER, IL AIGUISAIT LES COUTEAUX ET LES OBJETS DANS LA VILLE.</String>
+	<String Key = "PiratePast84">IL ÉTAIT UN BRISEUR DE CHIEN, IL DRESSAIT LES CHIENS DU GOUVERNEUR LOCAL.</String>
+	<String Key = "PiratePast85">IL ETAIT EBOUEUR, IL GARDAIT LES RUES PROPRES.</String>
+	<String Key = "PiratePast86">IL ETAIT UN VAGABOND, UN VAGABOND QUI A FINI SUR VOTRE NAVIRE.</String>
+	<String Key = "PiratePast87">IL ETAIT GEOLIER, IL A ENTENDU PARLE D'UN MAGNIFIQUE TRESOR ENTERRE A PROXIMITE ET A DECIDE DE DEVENIR PIRATE.</String>
+	<String Key = "PiratePast88">IL ÉTAIT UN COLPORTEUR, IL A UNE FOIS COLPORTÉ SES MARCHANDISES AUTOUR DE LA VILLE, MAIS UN MANQUE DISTINCT DE TOUT L’A CONDUIT À CE LES PROCURER DE NOUVELLES MANIÈRES.</String>
+	<String Key = "PiratePast89">IL ETAIT UN PETROLIER, IL VENDAIT DE L'HUILE DE LAMPE AUX VILLES ALENTOURS.</String>
+	<String Key = "PiratePast90">IL ÉTAIT UN POLICIER, UN GARDIEN DE PÉAGE SUR L’AUTOROUTE DU GOUVERNEUR, UNE FOULE INDISCIPLINÉE L’A CHASSÉ.</String>
+	<String Key = "PiratePast91">IL ÉTAIT PILOTE, L’UN DES SEULS HOMMES LICENCIÉS DE LA MARINE À PILOTER DES NAVIRES DANS DES EAUX DIFFICILES, IL A ACCIDENTELLEMENT COULÉ UN NAVIRE AU TRÉSOR ET A PERDU SON EMPLOI.</String>
+	<String Key = "PiratePast92">IL ÉTAIT UN HOMME DE CARRIÈRE, IL TIRAIT LA PIERRE CHAQUE JOUR DE SA VIE, SENTANT LE POIDS DU MONDE SUR SES ÉPAULES IL EST PARTI CHERCHER L’AVENTURE.</String>
+	<String Key = "PiratePast93">IL ÉTAIT UN VOLEUR DE BÉTAIL, UN SIMPLE VOLEUR DE BÉTAIL, IL A ÉTÉ ATTRAPÉ ET A EU UNE PRIME PLACÉE SUR SA TÊTE.</String>
+	<String Key = "PiratePast94">IL ÉTAIT UN MAÎTRE D’ÉCOLE, QUAND UN ELEVE LUI A DEMANDÉ CE QU’EST UN PIRATE, IL A DÉCIDÉ DE DÉCOUVRIR PAR LUI-MÊME!</String>
+	<String Key = "PiratePast95">IL ÉTAIT UN COUVREUR, IL PASSAIT SES JOURNÉES SUR LES TOITS DES GENS, IL PASSE MAINTENANT SON TEMPS SUR VOTRE BATEAU.</String>
+	<String Key = "PiratePast96">IL ÉTAIT FABRICANT DE CUILLÈRE, LES PLUS BELLES CUILLÈRES ONT ÉTÉ FABRIQUÉES PAR LES MAINS DE CET HOMME.</String>
+	<String Key = "PiratePast97">IL ÉTAIT UN PAPETIER, IL VENDAIT DES LIVRES PITTORESQUES À DES FEMMES ÂGÉES DANS SA VILLE.</String>
+	<String Key = "PiratePast98">IL ÉTAIT UN COUTELIER, IL FABRIQUAIT ET MONTAIT DES ÉPÉES JUSQU’AU JOUR OÙ IL DÉCIDA D’EN UTILISER UNE.</String>
+	<String Key = "PiratePast99">IL ÉTAIT UN BALAYEUR DE RUE, ET MAINTENANT IL PASSE SON TEMPS À NETTOYER LE PONT.</String>
+
+
+
+	<String Key = "MeleeWeaponNames0">Coutelas</String>
+	<String Key = "MeleeWeaponNames1">Lame</String>
+	<String Key = "MeleeWeaponNames2">Couteau</String>
+	<String Key = "MeleeWeaponNames3">Rapiere</String>
+	<String Key = "MeleeWeaponNames4">Epee courte</String>
+	<String Key = "MeleeWeaponNames5">Lance</String>
+	<String Key = "MeleeWeaponNames6">Masse</String>
+	<String Key = "MeleeWeaponNames7">Attaque de chien</String>
+	<String Key = "MeleeWeaponNames8">Attaque d'araignee</String>
+	<String Key = "MeleeWeaponNames9">Attaque de grosse araignee</String>
+	<String Key = "MeleeWeaponNames10">Hache</String>
+	<String Key = "MeleeWeaponNames11">Gourdin</String>
+	<String Key = "MeleeWeaponNames12">Katar</String>
+	<String Key = "MeleeWeaponNames13">Charge de sanglier</String>
+	<String Key = "MeleeWeaponNames14">Coupure de crabe</String>
+	<String Key = "MeleeWeaponNames15">Torche</String>
+	<String Key = "MeleeWeaponNames16">Baton de peche</String>
+	<String Key = "MeleeWeaponNames17">Stilet</String>
+	<String Key = "MeleeWeaponNames18">Epee longue</String>
+	<String Key = "MeleeWeaponNames19">Katana</String>
+	<String Key = "MeleeWeaponNames20">Trident</String>
+	<String Key = "MeleeWeaponNames21">Fleau</String>
+	<String Key = "MeleeWeaponNames22">Lame du faucon</String>
+	<String Key = "MeleeWeaponNames23">Brutalisateur</String>
+	<String Key = "MeleeWeaponNames24">Lame imperiale</String>
+	<String Key = "MeleeWeaponNames25">Lance imperiale</String>
+	<String Key = "MeleeWeaponNames26">Lame fine</String>
+	<String Key = "MeleeWeaponNames27">Hydre</String>
+	<String Key = "MeleeWeaponNames28">Lame d'os</String>
+	<String Key = "MeleeWeaponNames29">Attaque de tortue</String>
+	<String Key = "MeleeWeaponNames30">Lame d'Avalon</String>
+	<String Key = "MeleeWeaponNames31">Lame de Darius</String>
+	<String Key = "MeleeWeaponNames32">Lame de puissance</String>
+	<String Key = "MeleeWeaponNames33">Baton en bois</String>
+	<String Key = "MeleeWeaponNames34">Cimeterre</String>
+	<String Key = "MeleeWeaponNames35">Furie des etoiles</String>
+	<String Key = "MeleeWeaponNames36">Baton de peche de combat</String>
+	<String Key = "MeleeWeaponNames37">Hache double</String>
+	<String Key = "MeleeWeaponNames38">Ciseaux</String>
+	<String Key = "MeleeWeaponNames39">Hache geante</String>
+	<String Key = "MeleeWeaponNames40">Katar de jade</String>
+	<String Key = "MeleeWeaponNames41">Masse geante</String>
+	<String Key = "MeleeWeaponNames42">Epee rouge</String>
+	<String Key = "MeleeWeaponNames43">Lame d'abeille</String>
+	<String Key = "MeleeWeaponNames44">Lames jumelles</String>
+	<String Key = "MeleeWeaponNames45">Lame de Kamaru</String>
+	<String Key = "MeleeWeaponNames46">Dao</String>
+	<String Key = "MeleeWeaponNames47">Epee Viking</String>
+	<String Key = "MeleeWeaponNames48">Lame Viking</String>
+	<String Key = "MeleeWeaponNames49">Mjolnir</String>
+	<String Key = "MeleeWeaponNames50">Lance Viking</String>
+	<String Key = "MeleeWeaponNames51">Epee personelle</String>
+	<String Key = "MeleeWeaponNames52">Pelle</String>
+	<String Key = "MeleeWeaponNames53">Eclat croise</String>
+	<String Key = "MeleeWeaponNames54">Gerbe</String>
+	<String Key = "MeleeWeaponNames55">Gouge</String>
+	<String Key = "MeleeWeaponNames56">Voyant</String>
+	<String Key = "MeleeWeaponNames57">Templier</String>
+	<String Key = "MeleeWeaponNames58">Glaive</String>
+	<String Key = "MeleeWeaponNames59">Punition</String>
+	<String Key = "MeleeWeaponNames60">Croix démoniaque</String>
+	<String Key = "MeleeWeaponNames61">Lame vampire</String>
+	<String Key = "MeleeWeaponNames62">Crosse du héros</String>
+	<String Key = "MeleeWeaponNames63">Furie elfique</String>
+	<String Key = "MeleeWeaponNames64">Papillon</String>
+	<String Key = "MeleeWeaponNames65">Manche</String>
+	<String Key = "MeleeWeaponNames66">Morsure de rat</String>
+	<String Key = "MeleeWeaponNames67">Morsure de poulet</String>
+	<String Key = "MeleeWeaponNames68">Attaque basique</String>
+	<String Key = "MeleeWeaponNames69">Damascus</String>
+	<String Key = "MeleeWeaponNames70">Jur</String>
+	<String Key = "MeleeWeaponNames71">Jamadhar</String>
+	<String Key = "MeleeWeaponNames72">Loki</String>
+	<String Key = "MeleeWeaponNames73">Couperet</String>
+	<String Key = "MeleeWeaponNames74">Hache de bourreau</String>
+	<String Key = "MeleeWeaponNames75">Gelerdria</String>
+	<String Key = "MeleeWeaponNames76">Epines de feu</String>
+
+
+
+	<String Key = "RangedWeaponNames0">Pistolet à silex</String>
+	<String Key = "RangedWeaponNames1">Dague de lancer</String>
+	<String Key = "RangedWeaponNames2">Fléchette de lancer</String>
+	<String Key = "RangedWeaponNames3">Pierre</String>
+	<String Key = "RangedWeaponNames4">Tomahawk</String>
+	<String Key = "RangedWeaponNames5">Lance de lancer</String>
+	<String Key = "RangedWeaponNames6">Médecine de lancer</String>
+	<String Key = "RangedWeaponNames7">Pistolet Veronica</String>
+	<String Key = "RangedWeaponNames8">Arc</String>
+	<String Key = "RangedWeaponNames9">Arbalète</String>
+	<String Key = "RangedWeaponNames10">Shuriken</String>
+	<String Key = "RangedWeaponNames11">Banarang</String>
+	<String Key = "RangedWeaponNames12">Mini-pistolet</String>
+	<String Key = "RangedWeaponNames13">Cage à animaux</String>
+	<String Key = "RangedWeaponNames14">Tarte de Noël</String>
+
+	<String Key = "PassiveItemNames0">vide</String>
+	<String Key = "PassiveItemNames1">Rhums Phoenix</String>
+	<String Key = "PassiveItemNames2">Meule M</String>
+	<String Key = "PassiveItemNames3">Rondache</String>
+	<String Key = "PassiveItemNames4">Couches</String>
+	<String Key = "PassiveItemNames5">Couteau de Chef</String>
+	<String Key = "PassiveItemNames6">Manuel de Combat</String>
+	<String Key = "PassiveItemNames7">Élixir</String>
+	<String Key = "PassiveItemNames8">Élixir Automatique</String>
+	<String Key = "PassiveItemNames9">Bottes de Mobilité</String>
+	<String Key = "PassiveItemNames10">Cache-œil</String>
+	<String Key = "PassiveItemNames11">Cookie Protéiné</String>
+	<String Key = "PassiveItemNames12">KaBoom</String>
+	<String Key = "PassiveItemNames13">Bouteille de Rhum</String>
+	<String Key = "PassiveItemNames14">Herbe Tétra</String>
+	<String Key = "PassiveItemNames15">Feuilles de Tabac</String>
+	<String Key = "PassiveItemNames16">Griffe de Loup</String>
+	<String Key = "PassiveItemNames17">Munitions de pistolet</String>
+	<String Key = "PassiveItemNames18">Banane</String>
+	<String Key = "PassiveItemNames19">Noix de Coco</String>
+	<String Key = "PassiveItemNames20">Citron</String>
+	<String Key = "PassiveItemNames21">Cocon de Soie</String>
+	<String Key = "PassiveItemNames22">Venin d'Araignée</String>
+	<String Key = "PassiveItemNames23">Perle</String>
+	<String Key = "PassiveItemNames24">Grosse Perle</String>
+
+	<String Key = "PassiveItemNames25">Bouclier tribal</String>
+	<String Key = "PassiveItemNames26">Bouée de sauvetage</String>
+	<String Key = "PassiveItemNames27">Gilet rasoir</String>
+	<String Key = "PassiveItemNames28">Lunettes</String>
+	<String Key = "PassiveItemNames29">Plaque d'or</String>
+	<String Key = "PassiveItemNames30">Barbe rebondissante</String>
+	<String Key = "PassiveItemNames31">Cape noire</String>
+	<String Key = "PassiveItemNames32">Viande de sanglier</String>
+	<String Key = "PassiveItemNames34">Jambe de pirate</String>
+	<String Key = "PassiveItemNames35">Viande de crabe</String>
+	<String Key = "PassiveItemNames36">Bandage</String>
+	<String Key = "PassiveItemNames37">Chou aigre</String>
+	<String Key = "PassiveItemNames38">Barbe de gingembre</String>
+	<String Key = "PassiveItemNames39">Chapelet</String>
+	<String Key = "PassiveItemNames40">Barbe brune</String>
+	<String Key = "PassiveItemNames41">Armure de plaques</String>
+	<String Key = "PassiveItemNames42">PARADE DE BASE</String>
+	<String Key = "PassiveItemNames43">FOCUS DE COMBAT</String>
+	<String Key = "PassiveItemNames44">NETTOYAGE</String>
+
+	<String Key = "PassiveItemNames45">CUISSON</String>
+	<String Key = "PassiveItemNames46">CONNAISSANCE DE LA CARTE</String>
+	<String Key = "PassiveItemNames47">LECTURE DE LA CARTE</String>
+	<String Key = "PassiveItemNames48">FRAPPE QUADRUPLE</String>
+	<String Key = "PassiveItemNames49">PÊCHE</String>
+	<String Key = "PassiveItemNames50">PREMIER MAT</String>
+	<String Key = "PassiveItemNames51">APPRENTISSAGE RAPIDE</String>
+	<String Key = "PassiveItemNames52">RÉPARATION DE NAVIRE</String>
+	<String Key = "PassiveItemNames53">AURA DU MÉDECIN</String>
+	<String Key = "PassiveItemNames54">PAS LÉGERS</String>
+	<String Key = "PassiveItemNames55">MAÎTRISE DU CANON</String>
+	<String Key = "PassiveItemNames56">VOLONTÉ DE FER</String>
+	<String Key = "PassiveItemNames57">ÉTUDE DES TOILETTES</String>
+	<String Key = "PassiveItemNames58">CAPTURE D'ANIMAUX</String>
+	<String Key = "PassiveItemNames59">CORPS DE POISSON</String>
+	<String Key = "PassiveItemNames60">CASQUETTE DE PILLARDS</String>
+	<String Key = "PassiveItemNames61">MASQUE D'ANCÊTRE</String>
+	<String Key = "PassiveItemNames62">FARINE D'OS</String>
+
+	<String Key = "PassiveItemNames63">NAVIGATION</String>
+	<String Key = "PassiveItemNames64">AIGUISE-TOUR R</String>
+	<String Key = "PassiveItemNames65">Œuf</String>
+	<String Key = "PassiveItemNames66">Œuf d'or</String>
+	<String Key = "PassiveItemNames67">Griffe de tortue</String>
+	<String Key = "PassiveItemNames68">Œuf de tortue</String>
+	<String Key = "PassiveItemNames69">Carapace de tortue</String>
+	<String Key = "PassiveItemNames70">Totem tribal</String>
+	<String Key = "PassiveItemNames71">Coquille d'huître</String>
+	<String Key = "PassiveItemNames72">Petit élixir</String>
+	<String Key = "PassiveItemNames73">Plume</String>
+	<String Key = "PassiveItemNames74">Whisky</String>
+	<String Key = "PassiveItemNames75">Dents de l'oncle</String>
+	<String Key = "PassiveItemNames76">Bague légendaire</String>
+	<String Key = "PassiveItemNames77">Totem légendaire</String>
+	<String Key = "PassiveItemNames78">Vin rouge</String>
+
+	<String Key = "PassiveItemNames79">Culottes</String>
+	<String Key = "PassiveItemNames80">Gâteau</String>
+	<String Key = "PassiveItemNames81">Montre en or</String>
+	<String Key = "PassiveItemNames82">CONTRE-ATTAQUE</String>
+	<String Key = "PassiveItemNames83">ÉVASION DE COMBAT</String>
+	<String Key = "PassiveItemNames84">TIR DE SNIPER</String>
+	<String Key = "PassiveItemNames85">PILLAGE DE NAVIRE</String>
+	<String Key = "PassiveItemNames86">PIÈCES DE TRÉSOR</String>
+	<String Key = "PassiveItemNames87">GRIFFE DE SANGLIER</String>
+	<String Key = "PassiveItemNames88">YEUX DE FAUCON</String>
+	<String Key = "PassiveItemNames89">Cape rouge</String>
+	<String Key = "PassiveItemNames90">Petit soutien-gorge</String>
+	<String Key = "PassiveItemNames91">ATTAQUE ÉCLAIR</String>
+	<String Key = "PassiveItemNames92">20 COUPS</String>
+	<String Key = "PassiveItemNames93">FRÉNÉSIE D'ARMES À FEU</String>
+	<String Key = "PassiveItemNames94">FRAPPE DE SANGLIER</String>
+	<String Key = "PassiveItemNames95">Queue de singe</String>
+	<String Key = "PassiveItemNames96">Guenilles de vagabond</String>
+	<String Key = "PassiveItemNames97">Cigare</String>
+
+	<String Key = "PassiveItemNames98">Poisson salé</String>
+	<String Key = "PassiveItemNames99">Huile pour bébé</String>
+	<String Key = "PassiveItemNames100">Morceau de sucre</String>
+	<String Key = "PassiveItemNames101">Lettre d'amour</String>
+	<String Key = "PassiveItemNames102">Cœur de sanglier</String>
+	<String Key = "PassiveItemNames103">Pain</String>
+	<String Key = "PassiveItemNames104">Talisman de la haine</String>
+	<String Key = "PassiveItemNames105">Drapeau blanc</String>
+	<String Key = "PassiveItemNames106">DANSE DU FAUCON</String>
+	<String Key = "PassiveItemNames107">AS</String>
+	<String Key = "PassiveItemNames108">CAPE D'OMBRE</String>
+	<String Key = "PassiveItemNames109">TIR EN PLEINE TÊTE</String>
+	<String Key = "PassiveItemNames110">Viande tribale</String>
+	<String Key = "PassiveItemNames111">Sushi</String>
+	<String Key = "PassiveItemNames112">Bande de puissance</String>
+	<String Key = "PassiveItemNames113">Pièce chinoise</String>
+	<String Key = "PassiveItemNames114">Kaboom chinois</String>
+	<String Key = "PassiveItemNames115">Bouclier de soldat</String>
+	<String Key = "PassiveItemNames116">Pierre de soldat</String>
+	<String Key = "PassiveItemNames117">Veste de soldat</String>
+
+	<String Key = "PassiveItemNames118">Manga</String>
+	<String Key = "PassiveItemNames119">Leggings des Amiraux</String>
+	<String Key = "PassiveItemNames120">Sablier</String>
+	<String Key = "PassiveItemNames121">Statue de moine</String>
+	<String Key = "PassiveItemNames122">Slip de Thor</String>
+	<String Key = "PassiveItemNames123">Élixir viking</String>
+	<String Key = "PassiveItemNames124">Beurre</String>
+	<String Key = "PassiveItemNames125">Diamant</String>
+	<String Key = "PassiveItemNames126">Œuf d'araignée</String>
+	<String Key = "PassiveItemNames127">NATATION</String>
+	<String Key = "PassiveItemNames128">CHASSE AU TRÉSOR</String>
+	<String Key = "PassiveItemNames129">Framboise</String>
+	<String Key = "PassiveItemNames130">Myrtille</String>
+	<String Key = "PassiveItemNames131">Carte au trésor</String>
+	<String Key = "PassiveItemNames132">Pull de Noël moche</String>
+	
+	
+	
+	<String Key = "PassiveItemDescriptions1">Ressuscite le pirate après des dégâts fatals à 50% de HP</String>
+	<String Key = "PassiveItemDescriptions2">Améliore l'arme de MÊLÉE (40% de chance)</String>
+	<String Key = "PassiveItemDescriptions3">20% de chance de bloquer les dégâts entrants</String>
+	<String Key = "PassiveItemDescriptions4">Plus de caca!</String>
+	<String Key = "PassiveItemDescriptions5">Les cuisiniers produisent de la nourriture meilleure</String>
+	<String Key = "PassiveItemDescriptions6">25% de XP en plus pour tuer quelqu'un</String>
+	<String Key = "PassiveItemDescriptions7">Soigne instantanément 20% de HP</String>
+	<String Key = "PassiveItemDescriptions8">Soigne instantanément 20 HP s'il est en dessous de 10 HP</String>
+	<String Key = "PassiveItemDescriptions9">25% de vitesse de mouvement en plus</String>
+	<String Key = "PassiveItemDescriptions10">Perd 40% de morale en moins</String>
+	<String Key = "PassiveItemDescriptions11">À la consommation, donne +2 Max HP</String>
+	<String Key = "PassiveItemDescriptions12">Explose à la mort</String>
+	<String Key = "PassiveItemDescriptions13">Restaure 200 Morale</String>
+	<String Key = "PassiveItemDescriptions14">À la consommation, donne +2 FOR</String>
+	<String Key = "PassiveItemDescriptions15">Restaure 100 Morale</String>
+	<String Key = "PassiveItemDescriptions16">Donne 200XP</String>
+	<String Key = "PassiveItemDescriptions17">4 munitions pour le pistolet</String>
+	<String Key = "PassiveItemDescriptions18">Récupère 10% de la santé</String>
+	<String Key = "PassiveItemDescriptions20">Soigne le scorbut</String>
+	<String Key = "PassiveItemDescriptions21">Matériau très lisse qui peut être vendu</String>
+	<String Key = "PassiveItemDescriptions22">Si le pirate ne souffre d'aucune condition négative, cet objet empoisonnera le pirate avec du venin d'araignée</String>
+	<String Key = "PassiveItemDescriptions23">Objet précieux !</String>
+	<String Key = "PassiveItemDescriptions24">Objet très précieux !</String>
+	<String Key = "PassiveItemDescriptions25">30% de chance de bloquer les dégâts entrants (peut se briser)</String>
+	<String Key = "PassiveItemDescriptions26">Se consomme et téléporte le pirate en train de se noyer sur un navire.</String>
+	<String Key = "PassiveItemDescriptions27">L'attaquant a 50% de chances de prendre 1 dégât</String>
+	<String Key = "PassiveItemDescriptions28">100% de chances de toucher</String>
+	<String Key = "PassiveItemDescriptions29">Peut être vendu !</String>
+	<String Key = "PassiveItemDescriptions30">L'attaquant est mis à terre !</String>
+
+	<String Key = "PassiveItemDescriptions31">20% de chance d'esquive</String>
+	<String Key = "PassiveItemDescriptions32">Restaure 50% de la faim</String>
+	<String Key = "PassiveItemDescriptions33">Viande de sanglier cuite qui restaure 200 DE FAIM et 30 DE VIE</String>
+	<String Key = "PassiveItemDescriptions34">Jambe de pirate qui a mauvais goût (+200 de faim -250 de moral)</String>
+	<String Key = "PassiveItemDescriptions36">Arrête les saignements</String>
+	<String Key = "PassiveItemDescriptions37">Restaure 5% de la vie</String>
+	<String Key = "PassiveItemDescriptions38">+4 de moral en attaquant</String>
+	<String Key = "PassiveItemDescriptions39">+5% de chance de coup critique</String>
+	<String Key = "PassiveItemDescriptions40">Juste une barbe brune épique !</String>
+	<String Key = "PassiveItemDescriptions41">Prend 3 de dégâts en moins - 25% de vitesse</String>
+	<String Key = "PassiveItemDescriptions42">Enseigne les bases de la parade</String>
+	<String Key = "PassiveItemDescriptions43">Enseigne la concentration au combat (+chance de critique)</String>
+	<String Key = "PassiveItemDescriptions44">Enseigne comment nettoyer</String>
+	<String Key = "PassiveItemDescriptions45">Enseigne comment cuisiner</String>
+	<String Key = "PassiveItemDescriptions46">Soyez conscient des emplacements sur la carte !</String>
+	<String Key = "PassiveItemDescriptions47">Enseigne à lire les cartes !</String>
+	<String Key = "PassiveItemDescriptions48">4 coups critiques rapides</String>
+	<String Key = "PassiveItemDescriptions49">Enseigne comment pêcher !</String>
+
+
+	<String Key = "PassiveItemDescriptions50">Apprend à remplacer le capitaine après sa mort</String>
+	<String Key = "PassiveItemDescriptions51">Gagnez plus d'XP en naviguant</String>
+	<String Key = "PassiveItemDescriptions52">Apprend à réparer le navire</String>
+	<String Key = "PassiveItemDescriptions53">Récupère la vie de l'équipage pendant la navigation</String>
+	<String Key = "PassiveItemDescriptions54">Apprend à marcher plus vite !</String>
+	<String Key = "PassiveItemDescriptions55">Apprendre à utiliser les canons !</String>
+	<String Key = "PassiveItemDescriptions56">Apprendre à endurer plus de douleur !</String>
+	<String Key = "PassiveItemDescriptions57">Apprendre à bien faire caca !</String>
+	<String Key = "PassiveItemDescriptions58">Apprendre à capturer des animaux sauvages !</String>
+	<String Key = "PassiveItemDescriptions59">Améliore AGI par niveau</String>
+	<String Key = "PassiveItemDescriptions60">Vous trouvez toujours 1 pièce d'or supplémentaire</String>
+	<String Key = "PassiveItemDescriptions61">+1 TP à chaque niveau !</String>
+	<String Key = "PassiveItemDescriptions63">Meilleure vitesse de navigation</String>
+	<String Key = "PassiveItemDescriptions64">Améliore l'arme à distance (40% de chance)</String>
+	<String Key = "PassiveItemDescriptions65">Récupère 7% de vie</String>
+	<String Key = "PassiveItemDescriptions67">+600 EXP</String>
+	<String Key = "PassiveItemDescriptions70">+1 Dégât</String>
+	<String Key = "PassiveItemDescriptions73">+100 EXP</String>
+	<String Key = "PassiveItemDescriptions74">+1 Niveau</String>
+
+
+	<String Key = "PassiveItemDescriptions75">+100 MAX de Morale</String>
+	<String Key = "PassiveItemDescriptions76">Aucune perte de morale passive</String>
+	<String Key = "PassiveItemDescriptions77">+5 Dommages</String>
+	<String Key = "PassiveItemDescriptions78">+2 NIVEAUX SUPPLÉMENTAIRES</String>
+	<String Key = "PassiveItemDescriptions79">+1 POINT DE COMPÉTENCE À L'UTILISATION</String>
+	<String Key = "PassiveItemDescriptions80">+2 POINTS DE COMPÉTENCE À L'UTILISATION</String>
+	<String Key = "PassiveItemDescriptions81">Objet de valeur OU +1000 XP À L'UTILISATION</String>
+	<String Key = "PassiveItemDescriptions82">Contre-attaque l'ennemi lorsqu'on est attaqué</String>
+	<String Key = "PassiveItemDescriptions83">Peut esquiver les attaques</String>
+	<String Key = "PassiveItemDescriptions84">Portée d'arme à distance plus grande</String>
+	<String Key = "PassiveItemDescriptions85">Plus d'or en pillant des navires</String>
+	<String Key = "PassiveItemDescriptions86">Plus d'or dans les coffres</String>
+	<String Key = "PassiveItemDescriptions87">+600 XP</String>
+	<String Key = "PassiveItemDescriptions88">Les coups critiques infligent plus de dégâts</String>
+	<String Key = "PassiveItemDescriptions89">Immunité au statut SANG</String>
+	<String Key = "PassiveItemDescriptions90">Récupère TOUT le Moral</String>
+	<String Key = "PassiveItemDescriptions91">FONCE ET ATTAQUE !</String>
+	<String Key = "PassiveItemDescriptions92">20 ATTAQUES RAPIDES</String>
+
+
+	<String Key = "PassiveItemDescriptions93">Les 4 prochaines attaques à distance n'ont pas de temps de recharge</String>
+	<String Key = "PassiveItemDescriptions94">1 attaque qui étourdit</String>
+	<String Key = "PassiveItemDescriptions95">+1000 EXP</String>
+	<String Key = "PassiveItemDescriptions96">Vous obtenez 200 XP à chaque fois que vous allez aux toilettes</String>
+	<String Key = "PassiveItemDescriptions97">Réduction de 50 % du temps de recharge de l'ULTIME</String>
+	<String Key = "PassiveItemDescriptions98">Récupère toute la morale</String>
+	<String Key = "PassiveItemDescriptions99">Votre prochaine attaque aura 100 % de chances de coup critique</String>
+	<String Key = "PassiveItemDescriptions100">Restaure 15 points de vie</String>
+	<String Key = "PassiveItemDescriptions101">Les pirates femmes sont attirées par vous !</String>
+	<String Key = "PassiveItemDescriptions102">+3 FOR en cas de consommation</String>
+	<String Key = "PassiveItemDescriptions103">Restaure 5 % de la santé</String>
+	<String Key = "PassiveItemDescriptions104">+10 dégâts et -1 morale max à chaque coup</String>
+	<String Key = "PassiveItemDescriptions105">+5 Agilité en cas de consommation</String>
+	<String Key = "PassiveItemDescriptions106">Effectue 4 attaques infligeant chacune des dégâts équivalents à votre niveau</String>
+	<String Key = "PassiveItemDescriptions107">Récupère instantanément 50 % des PV</String>
+	<String Key = "PassiveItemDescriptions108">Chance d'évasion de 100 % pour les 5 prochaines attaques</String>
+
+	<String Key = "PassiveItemDescriptions109">La prochaine attaque à distance inflige X3 dégâts</String>
+	<String Key = "PassiveItemDescriptions110">+1 VIT, - 200 MORALE à la consommation</String>
+	<String Key = "PassiveItemDescriptions111">Récupère toute la FAIM</String>
+	<String Key = "PassiveItemDescriptions112">+2 FRC à la consommation</String>
+	<String Key = "PassiveItemDescriptions113">Objet de valeur</String>
+	<String Key = "PassiveItemDescriptions114">Comme Kaboom ! Mais plus faible !</String>
+	<String Key = "PassiveItemDescriptions115">40 % de chance de bloquer les dégâts entrants (peut se briser)</String>
+	<String Key = "PassiveItemDescriptions116">50 % de recul en moins</String>
+	<String Key = "PassiveItemDescriptions117">Réduit les dégâts entrants de 2</String>
+	<String Key = "PassiveItemDescriptions118">5 TP à utiliser !</String>
+	<String Key = "PassiveItemDescriptions119">Pas de caca, mais l'expérience continue à venir !</String>
+	<String Key = "PassiveItemDescriptions120">À la consommation +3LV</String>
+	<String Key = "PassiveItemDescriptions121">+15 % de chance de coup critique</String>
+
+	<String Key = "PassiveItemDescriptions122">Accorde l'immunité aux explosions de canon</String>
+	<String Key = "PassiveItemDescriptions124">Récupère 3% de PV</String>
+	<String Key = "PassiveItemDescriptions125">Précieux !</String>
+	<String Key = "PassiveItemDescriptions126">Éclosion d'une araignée à la consommation</String>
+	<String Key = "PassiveItemDescriptions127">Enseigne à un pirate comment nager !</String>
+	<String Key = "PassiveItemDescriptions128">Vous aide à trouver de meilleurs butins en creusant</String>
+	<String Key = "PassiveItemDescriptions129">Récupère 1% de PV et 8 de Faim</String>
+	<String Key = "PassiveItemDescriptions130">Récupère 3% de PV et 5 de Faim</String>
+	<String Key = "PassiveItemDescriptions131">Dévoile l'emplacement d'un trésor enterré</String>
+	<String Key = "PassiveItemDescriptions132">Bloque les dégâts entrants 5% du temps</String>
+
+
+	
+	<String Key = "ShipTileNames1">BLOC DE BOIS</String>
+	<String Key = "ShipTileNames2">MUR DE PONT EN BOIS</String>
+	<String Key = "ShipTileNames3">MUR EN BOIS</String>
+	<String Key = "ShipTileNames4">ÉCHELLE EN BOIS</String>
+	<String Key = "ShipTileNames5">DEMI-BLOC DE BOIS</String>
+	<String Key = "ShipTileNames6">LAMPE</String>
+	<String Key = "ShipTileNames7">MÂT</String>
+	<String Key = "ShipTileNames8">TONNEAU</String>
+	<String Key = "ShipTileNames9">GOUVERNAIL</String>
+	<String Key = "ShipTileNames10">MÂT SUPÉRIEUR</String>
+	<String Key = "ShipTileNames11">ROUE EN BOIS</String>
+	<String Key = "ShipTileNames12">TABLE EN BOIS</String>
+	<String Key = "ShipTileNames13">ÉPÉES DE REMPLACEMENT</String>
+	<String Key = "ShipTileNames14">PLAQUE DORÉE</String>
+	<String Key = "ShipTileNames15">BOMBES</String>
+	<String Key = "ShipTileNames16">VOILE</String>
+	<String Key = "ShipTileNames17">BASE DU BEAUPRÉ</String>
+	<String Key = "ShipTileNames18">MILIEU DU BEAUPRÉ</String>
+	<String Key = "ShipTileNames19">VIANDE</String>
+	<String Key = "ShipTileNames20">POISSON</String>
+	<String Key = "ShipTileNames21">FRUITS</String>
+	<String Key = "ShipTileNames22">RHUM</String>
+	<String Key = "ShipTileNames23">PASTÈQUE</String>
+	<String Key = "ShipTileNames24">CARTES</String>
+	<String Key = "ShipTileNames25">ÉPÉES SUSPENDUES</String>
+	<String Key = "ShipTileNames26">ÎLE EN IMAGE</String>
+	<String Key = "ShipTileNames27">IMAGE DE SANG</String>
+	<String Key = "ShipTileNames28">IMAGE DE FRUITS</String>
+	<String Key = "ShipTileNames29">MASQUE TRIBAL</String>
+	<String Key = "ShipTileNames30">TAPIS SUSPENDU</String>
+	<String Key = "ShipTileNames31">TROU À RATS</String>
+	<String Key = "ShipTileNames32">MUR DU CAPITAINE EN BOIS</String>
+	<String Key = "ShipTileNames33">EXTRÉMITÉ DU BEAUPRÉ</String>
+	<String Key = "ShipTileNames34">PAPIER ET ENCRE</String>
+	<String Key = "ShipTileNames35">CARTE SUSPENDUE</String>
+	<String Key = "ShipTileNames36">FROMAGE</String>
+	<String Key = "ShipTileNames37">POTAGE</String>
+	<String Key = "ShipTileNames38">SAC</String>
+	<String Key = "ShipTileNames39">CORDES SUSPENDUES</String>
+	<String Key = "ShipTileNames40">AGRUMES</String>
+	<String Key = "ShipTileNames41">CHOUCRATE AIGRE</String>
+	<String Key = "ShipTileNames42">BISCUITS DE MER</String>
+	<String Key = "ShipTileNames43">BOÎTE</String>
+	<String Key = "ShipTileNames44">COFFRE</String>
+	<String Key = "ShipTileNames45">OREILLER ET LIT</String>
+	<String Key = "ShipTileNames46">CANON DE BASE</String>
+	<String Key = "ShipTileNames47">FENÊTRE EN BOIS DE CANON</String>
+	<String Key = "ShipTileNames48">DÉTRUIT</String>
+	<String Key = "ShipTileNames49">PONT FENÊTRE EN BOIS DE CANON</String>
+	<String Key = "ShipTileNames50">COUTEAU ET TASSE</String>
+	<String Key = "ShipTileNames51">PLACEMENT NPC - ennemi</String>
+	<String Key = "ShipTileNames52">PLACEMENT NPC - allié</String>
+	<String Key = "ShipTileNames53">PLACEMENT SPÉCIAL - coffre</String>
+	<String Key = "ShipTileNames54">CACA</String>
+	<String Key = "ShipTileNames55">MANILLE</String>
+	<String Key = "ShipTileNames56">TOILE D'ARAIGNÉE</String>
+	<String Key = "ShipTileNames57">CANNE À PÊCHE</String>
+	<String Key = "ShipTileNames58">BOSS - PLACEMENT</String>
+	<String Key = "ShipTileNames61">MEULE</String>
+	<String Key = "ShipTileNames62">CACHE DE LIVRES</String>
+	<String Key = "ShipTileNames63">POIDS À MAIN</String>
+	<String Key = "ShipTileNames64">PLANTE</String>
+	<String Key = "ShipTileNames66">BOUTEILLE DE MÉDICAMENT</String>
+	<String Key = "ShipTileNames67">CANON TOURNANT</String>
+	<String Key = "ShipTileNames68">BLOC EN BOIS CHINOIS</String>
+	<String Key = "ShipTileNames69">MUR EN BOIS CHINOIS</String>
+	<String Key = "ShipTileNames70">DEMI-MUR DYNASTIE EN BOIS</String>
+	<String Key = "ShipTileNames71">DEMI-BLOC DYNASTIE EN BOIS</String>
+	<String Key = "ShipTileNames72">BLOC EN BOIS D'ORDRE</String>
+	<String Key = "ShipTileNames73">DEMI-BLOC EN BOIS D'ORDRE</String>
+	<String Key = "ShipTileNames74">BLOC EN BOIS IMPÉRIAL</String>
+	<String Key = "ShipTileNames75">DEMI-BLOC EN BOIS IMPÉRIAL</String>
+	<String Key = "ShipTileNames76">BLOC EN BOIS DE LA RÉPUBLIQUE</String>
+	<String Key = "ShipTileNames77">DEMI-BLOC EN BOIS DE LA RÉPUBLIQUE</String>
+	<String Key = "ShipTileNames78">MUR EN BOIS D'ORDRE</String>
+	<String Key = "ShipTileNames79">PONT MUR EN BOIS D'ORDRE</String>
+	<String Key = "ShipTileNames80">MUR EN BOIS IMPÉRIAL</String>
+	<String Key = "ShipTileNames81">PONT MUR EN BOIS IMPÉRIAL</String>
+	<String Key = "ShipTileNames82">MUR EN BOIS DE LA RÉPUBLIQUE</String>
+	<String Key = "ShipTileNames83">MUR DE BOIS DU PONT RÉPUBLICAIN</String>
+	<String Key = "ShipTileNames84">BOL DE RAMEN</String>
+	<String Key = "ShipTileNames85">NID DE POULES</String>
+	<String Key = "ShipTileNames86">TABLEAU ABSTRAIT GRIS</String>
+	<String Key = "ShipTileNames87">TABLEAU ABSTRAIT BLEU</String>
+	<String Key = "ShipTileNames88">TABLEAU ABSTRAIT ROUGE</String>
+	<String Key = "ShipTileNames89">TABLEAU ABSTRAIT BRUN</String>
+	<String Key = "ShipTileNames90">DRAPEAU DE PIRATE</String>
+	
+	<String Key = "ShipTileInfos0">Bloc de construction de base pour votre navire, peut être attaché à toutes les autres parties</String>
+	<String Key = "ShipTileInfos1">Utilisé pour fournir l'arrière-plan d'un navire</String>
+	<String Key = "ShipTileInfos3">Utilisez pour permettre aux membres de l'équipage de monter ou descendre les niveaux</String>
+	<String Key = "ShipTileInfos5">Éclaire les zones sombres</String>
+	<String Key = "ShipTileInfos6">Connectez une ligne de ceux-ci à un mât supérieur pour avoir une voile</String>
+	<String Key = "ShipTileInfos7">STOCKEZ DE LA NOURRITURE OU DU RHUM ICI</String>
+	<String Key = "ShipTileInfos8">Utilisé pour propulser votre navire.</String>
+	<String Key = "ShipTileInfos9">La voile peut être connectée au MÂT SUPÉRIEUR</String>
+	<String Key = "ShipTileInfos10">Utilisé pour permettre à votre navigateur de diriger le navire</String>
+	<String Key = "ShipTileInfos11">Utilisé pour que l'équipage se rencontre, joue à des jeux de cartes, mange et boive.</String>
+	<String Key = "ShipTileInfos12">Utilisé pour entraîner vos pirates pendant leur temps libre</String>
+	<String Key = "ShipTileInfos13">MUNITIONS DE CANON</String>
+	<String Key = "ShipTileInfos14">Placez sur le mât supérieur pour placer une voile et déplacer votre bateau</String>
+	<String Key = "ShipTileInfos15">Placez à l'avant de votre navire de mer!</String>
+	<String Key = "ShipTileInfos16">Placez au milieu de votre navire de mer!</String>
+	<String Key = "ShipTileInfos17">DOIT ÊTRE PRÉPARÉ PAR UN CUISINIER</String>
+	<String Key = "ShipTileInfos19">PEUT ÊTRE MANGÉ NON PRÉPARÉ!</String>
+	<String Key = "ShipTileInfos20">LES PIRATES BOIVENT DU RHUM POUR ÊTRE HEUREUX</String>
+	<String Key = "ShipTileInfos22">QUAND LES PIRATES S'ENNUIENT, ILS JOUENT AUX CARTES</String>
+	<String Key = "ShipTileInfos23">Placez à l'extrémité de votre navire navigable !</String>
+	<String Key = "ShipTileInfos25">DOIT ÊTRE PRÉPARÉ PAR LE CUISINIER !</String>
+	<String Key = "ShipTileInfos26">GUÉRIT LE SCORBUT</String>
+	<String Key = "ShipTileInfos27">peut être mangé non préparé !</String>
+	<String Key = "ShipTileInfos29">LES PIRATES DORMENT SUR LE LIT</String>
+	<String Key = "ShipTileInfos30">DÉGÂTS À LONGUE PORTÉE AOE LENT</String>
+	<String Key = "ShipTileInfos33">EXCRÉMENTS DE PIRATE, DOIVENT ÊTRE NETTOYÉS</String>
+	<String Key = "ShipTileInfos35">CHAÎNES UTILISÉES POUR LES ESCLAVES</String>
+	<String Key = "ShipTileInfos36">TOILE D'ARAIGNÉE QUI ABRITE DES ARAIGNÉES</String>
+	<String Key = "ShipTileInfos37">CANNE À PÊCHE UTILISÉE PAR LES PÊCHEURS POUR ATTRAPER DU POISSON</String>
+	<String Key = "ShipTileInfos38">PLACEMENT DU BOSS</String>
+	<String Key = "ShipTileInfos39">RESTAURE 50% DE LA FAIM</String>
+	<String Key = "ShipTileInfos40">RESTAURE 50% DE LA MORALE</String>
+	<String Key = "ShipTileInfos41">Les pirates peuvent améliorer leurs armes de mêlée.</String>
+	<String Key = "ShipTileInfos42">Lisez des livres pour gagner des TP !</String>
+	<String Key = "ShipTileInfos43">Les pirates s'entraînent pour obtenir de la force !</String>
+	<String Key = "ShipTileInfos44">Ça a l'air bien !</String>
+	<String Key = "ShipTileInfos47">DÉGÂTS AOE FAIBLES À LONGUE PORTÉE ET RAPIDES</String>
+	<String Key = "ShipTileInfos65">Les poulets vivent ici</String>
+	<String Key = "ShipTileInfos66">TABLEAU ABSTRAIT</String>
+	<String Key = "ShipTileInfos70">Placez-le sur votre mât pour semer la peur dans le cœur de vos ennemis !</String>
+
+	
+	<String Key = "ShipTileFunnies0">Un bloc de coque, vous vous attendiez à une blague ou quelque chose comme ça ?</String>
+	<String Key = "ShipTileFunnies1">Imaginez à quel point un navire SANS cela aurait l'air stupide dans la vraie vie !</String>
+	<String Key = "ShipTileFunnies3">Cela bat sûrement sauter !</String>
+	<String Key = "ShipTileFunnies5">Parce qu'une source de feu contenue à bord d'un navire en bois est TOUJOURS une bonne idée... n'est-ce pas ?</String>
+	<String Key = "ShipTileFunnies6">Long....dur....épais...bois</String>
+	<String Key = "ShipTileFunnies7">EMPÊCHE LA NOURRITURE DE POURRIR</String>
+	<String Key = "ShipTileFunnies8">Nous avions l'habitude de tenir un pirate au-dessus du bord et de le faire faire des bruits de pets avec sa bouche.</String>
+	<String Key = "ShipTileFunnies9">Les marins transpirants s'assoient ici</String>
+	<String Key = "ShipTileFunnies10">[FF6666]+2 VITESSE DE VOILE[-]</String>
+	<String Key = "ShipTileFunnies11">Le tableau ne bougerait-il pas tout le temps avec les vagues?</String>
+	<String Key = "ShipTileFunnies12">La formation, c'est pour les faibles</String>
+	<String Key = "ShipTileFunnies13">5 BOMBES</String>
+	<String Key = "ShipTileFunnies14">[FF6666]+1 VITESSE DE VOILE[-]</String>
+	<String Key = "ShipTileFunnies15">Un grand requin blanc a déjà explosé en étant empalé sur l'un d'entre eux</String>
+	<String Key = "ShipTileFunnies17">7 PORTIONS DE NOURRITURE</String>
+	<String Key = "ShipTileFunnies18">2 PORTIONS DE NOURRITURE</String>
+	<String Key = "ShipTileFunnies19">1 PORTION DE NOURRITURE</String>
+	<String Key = "ShipTileFunnies20">2 PORTIONS DE BOISSON</String>
+	<String Key = "ShipTileFunnies21">2 PORTIONS DE NOURRITURE</String>
+	<String Key = "ShipTileFunnies22">GAGNEZ DE L'EXPÉRIENCE ET RESTAUREZ UN PEU DE MORAL</String>
+	<String Key = "ShipTileFunnies24">1 PORTION DE NOURRITURE</String>
+	<String Key = "ShipTileFunnies25">13 PORTIONS DE NOURRITURE</String>
+	<String Key = "ShipTileFunnies27">3 PORTIONS DE NOURRITURE</String>
+	<String Key = "ShipTileFunnies28">4 PORTIONS DE NOURRITURE</String>
+	<String Key = "ShipTileFunnies29">PENDANT QU'ILS DORMENT, ILS NE PERDENT PAS DE FAIM OU DE MORAL</String>
+	<String Key = "ShipTileFunnies32">NOTRE NAVIRE EST UN GROS TOILETTE</String>
+	<String Key = "ShipTileFunnies34">LE COMBATTANT ESSAYERA DE CAPTURER UN ESCLAVE PENDANT LA BATAILLE</String>
+	<String Key = "ShipTileFunnies35">LA TOILE BLANCHE INDIQUE SOUVENT LA PRÉSENCE D'ARAIGNÉES</String>
+	<String Key = "ShipTileFunnies36">ALLONS PÊCHER !</String>
+	<String Key = "ShipTileFunnies37">IL EST TEMPS DE TUER</String>
+	<String Key = "ShipTileFunnies38">ÇA A UN GOÛT VRAIMENT BON !</String>
+	<String Key = "ShipTileFunnies40">ALLONS GRINDER !</String>
+	<String Key = "ShipTileFunnies41">SAVEZ-VOUS LIRE ?</String>
+	<String Key = "ShipTileFunnies42">VOUS ÊTES FORT !</String>
+	<String Key = "ShipTileFunnies43">AMÉLIORE LE MORAL DE L'ÉQUIPAGE</String>
+	<String Key = "ShipTileFunnies44">AMÉLIORE LE MORAL DE L'ÉQUIPAGE !</String>
+	<String Key = "ShipTileFunnies62">5 PORTIONS DE NOURRITURE</String>
+	<String Key = "ShipTileFunnies63">ILS GAGNENT DE L'EXPÉRIENCE LORSQU'ILS SONT DANS UN NID !</String>
+	
+	<String Key = "Misc001">De l'ancien navire</String>
+	<String Key = "Misc002">Voulez-vous enregistrer votre partie ?</String>
+	<String Key = "Misc003">Enregistrer la partie</String>
+	<String Key = "Misc004">Ne pas enregistrer la partie</String>
+	<String Key = "Misc005">Rappeler plus tard (10 min)</String>
+	<String Key = "Misc006">ARRIVÉ À</String>
+	<String Key = "Misc007">Rencontre hostile légendaire ! Que faisons-nous, capitaine ?</String>
+	<String Key = "Misc008">Rencontre hostile ! Que faisons-nous, capitaine ?</String>
+	<String Key = "Misc009">Engagez-les !</String>
+	<String Key = "Misc0010">Échapper</String>
+	<String Key = "Misc0011">Chance</String>
+	<String Key = "Misc0012">Nous avons évité le combat !</String>
+	<String Key = "Misc0013">Nous n'avons pas réussi à fuir !</String>
+	<String Key = "Misc0014">Nous n'avons pas réussi à fuir parce que c'est la destination finale !</String>
+	<String Key = "Misc0015">AIDE</String>
+	<String Key = "Misc0016">FERMER EN APPUYANT SUR [FF4444]F1[-]</String>
+	<String Key = "Misc0017">ENSEIGNEMENT ET GESTION DES COMPÉTENCES</String>
+	<String Key = "Misc0018">COMMANDES DU CAPITAINE ET DE L’ÉQUIPAGE</String>
+	<String Key = "Misc0019">COMMENT ÉCHAPPER À UNE BATAILLE SUR UNE ÎLE</String>
+	<String Key = "Misc0021">ALIMENTATION ET MORAL</String>
+	<String Key = "Misc0022">QUEL EST L’OBJECTIF DU JEU ?</String>
+	<String Key = "Misc0023">QUETES</String>
+	<String Key = "Misc0024">COMMENT OUVRIR UN COFFRE AU TRÉSOR</String>
+	<String Key = "Misc0025">ROOKIE TIPS</String>
+	<String Key = "Misc0026">QUELLES RENCONTRES UN DEBUTANT DOIT-IL AFFRONTER ?</String>
+	<String Key = "Misc0028">COMMENT EMBAUCHER UN ÉQUIPAGE ?</String>
+	<String Key = "Misc0029">GESTION ET MISE À NIVEAU DES ARMES</String>
+	<String Key = "Misc0030">CONSTRUCTION DE NAVIRE</String>
+	<String Key = "Misc0031">ECRAN DE STATISTIQUE DE PIRATE EXPLIQUE</String>
+	<String Key = "Misc0032">GESTION DES ANIMAUX</String>
+	
+	<String Key = "Misc0033">APPUYER [ffffff]ESPACE[-] POUR INTERAGIR</String>
+	<String Key = "Misc0034">Vous n’avez aucun groupe de pirates sélectionné !</String>
+	<String Key = "Misc0035">[ffff77]Cheats activées! Nouvelles commandes de clavier disponibles</String>
+	<String Key = "Misc0036">[ffff77]Cheats Désactivées.</String>
+	<String Key = "Misc0037">+Bénédiction tribale XP!</String>
+	<String Key = "Misc0038">Vous avez tué votre cible.</String>
+	<String Key = "Misc0039">+Bénédiction tribale XP!</String>
+	<String Key = "Misc0040">+le moral du héros et de l’équipage sont rétablis!</String>
+	<String Key = "Misc0041">Votre équipage chante maintenant une chanson de mer!</String>
+	<String Key = "Misc0042">Vous n’êtes pas encore à portée!</String>
+	<String Key = "Misc0043">Lutter içi est une mauvaise idée!</String>
+	<String Key = "Misc0044">Capture Lv. {0} {1}</String><Note>Cela fait référence à la capture d'animals</Note>
+	<String Key = "Misc0045">+[FFFF77]{0}[-] Or</String>
+	<String Key = "Misc0046">[ffff66]{0}[-] a gagné [66ff66]{1}[-] d'XP, les autres ont gagné {2} chacun!</String>
+	<String Key = "Misc0047">[ffff66]{0}[-] et l’équipage ont tous deux gagné [66ff66]{1}[-] d'XP!</String>
+	<String Key = "Misc0048">[ffff66]{0}[-] a gagné [66ff66]{1}[-] d'XP!</String>
+	<String Key = "Misc0049">Votre équipage a gagné [66ff66] {0} [-] d'XP!</String>
+	<String Key = "Misc0050">[ffff77]{0}[-] s'est retourné contre vous!</String>
+	<String Key = "Misc0051">[ffff66]{0}[-] est maintenant Lv.{1}</String>
+	<String Key = "Misc0052">Vous avez un nouveau capitaine !</String>
+	<String Key = "Misc0053">{0} a consommé [77FF77]{1}[-]</String>
+	<String Key = "Misc0054">Jeu sauvegardé</String>
+	<String Key = "Misc0055">[ff4444]{0}[-] /[FF7777]{1}[-] amélioré</String><NOTE>PirateName / Abilityname improved</NOTE>
+	<String Key = "Misc0056">BANANIER</String>
+	<String Key = "Misc0057">OS</String>
+	<String Key = "Misc0058">FEU DE CAMP</String>
+	<String Key = "Misc0059">COCOTIER</String>
+	<String Key = "Misc0061">CROCHET TRIBAL</String>
+	<String Key = "Misc0062">STATUE TRIBALE</String>
+	<String Key = "Misc0063">Se déplacer et attaquer</String>
+	<String Key = "Misc0064">Faites glisser le bouton vers un emplacement !</String>
+	<String Key = "Misc0065">ACTION TACTIQUE</String>
+	<String Key = "Misc0066">Choisissez un emplacement personnalisé pour cet appareil</String>
+	
+	<String Key = "SkillNames0">ATTAQUE BASIQUE</String>
+	<String Key = "SkillInfos0">Peut utiliser des attaques de mêlée de base</String>
+	<String Key = "SkillTechs0">+1 Dommage par LV  [FFFF77](ATTAQUE)</String>
+	<String Key = "SkillInfos1">Permet de parer les attaques</String>
+	<String Key = "SkillTechs1">+1% Chance de parer par LV  [FFFF77](PARADE)</String>
+	<String Key = "SkillInfos2">Concentré sur la bataille</String>
+	<String Key = "SkillTechs2">+1% Coup Critique par LV  [FFFF77](CRIT)</String>
+	<String Key = "SkillInfos3">Permet de cuire la nourriture</String>
+	<String Key = "SkillTechs3">+25% Compétence par LV  [FFFF77](Compétence)</String>
+	<String Key = "SkillNames5">SENS COMMUN</String>
+	<String Key = "SkillInfos5">Permet de nettoyer le navire</String>
+	<String Key = "SkillTechs5">+10% INT par LV  [FFFF77](TEMPS)</String>
+	<String Key = "SkillNames6">PROGRAMME D'ENTRAINEMENT</String>
+	<String Key = "SkillInfos6">Muscler davantage</String>
+	<String Key = "SkillTechs6">+10% FRC par LV  [FFFF77](TEMPS)</String>
+	<String Key = "SkillInfos7">Réduisez les visites aux toilettes!</String>
+	<String Key = "SkillTechs7">-6% MOINS DE CACA par LV [FFFF77](TOILETTE)</String>
+	<String Key = "SkillInfos8">Améliore les compétences de lecture de carte du monde</String>
+	<String Key = "SkillTechs9">+25% Compétence per LV</String>
+	<String Key = "SkillInfos10">Améliore la vision de la carte du monde!</String>
+	<String Key = "SkillTechs10">+25% Compétence par LV [FFFF77](Navigation)</String>
+	<String Key = "SkillInfos11">4 Attaques critiques rapides</String>
+	<String Key = "SkillTechs11">[7777aa]Ultime</String>
+	<String Key = "SkillNames12">MEDITATION</String>
+	<String Key = "SkillInfos12">Vous permet de récupérer plus de VIE</String>
+	<String Key = "SkillTechs12">+1 Régénération de vie par LV [FFFF77](SUR REC)</String>
+	<String Key = "SkillInfos13">Endure more damage!</String>
+	<String Key = "SkillTechs13">+5 MAX HP per LV [FFFF77](SUR DMG)</String>
+	<String Key = "SkillInfos14">Vous pouvez courir plus vite</String>
+	<String Key = "SkillTechs14">+10% Vitesse de déplacement par LV [FFFF77](MOVE)</String>
+	<String Key = "SkillInfos15">1 Frappe qui étourdit la cible pendant 10 secondes </String>
+	<String Key = "SkillInfos16">VOUS POUVEZ PÊCHER!</String>
+	<String Key = "SkillTechs16">+25% COMPETENCE per LV [FFFF77](COMPETENCE)</String>
+	<String Key = "SkillInfos17">Soigne tout le monde!</String>
+	<String Key = "SkillInfos18">Vous pouvez maintenant réparer le navire</String>
+	<String Key = "SkillInfos19">Utiliser des canons pour souffler des trucs</String>
+	<String Key = "SkillTechs20">+5% CHANCE par LV [FFFF77](CONTRER)</String>
+	<String Key = "SkillNames21">CONTRE-ATTAQUE</String>
+	<String Key = "SkillInfos21">Contre attaque lorsque vous êtes attaqué</String>
+	<String Key = "SkillTechs21">+5% CHANCE par LV [FFFF77](THROW)</String>
+	<String Key = "SkillTechs22">+2% Esquive par LV [FFFF77](ESQUIVE)</String>
+	<String Key = "SkillNames23">POTION DE COMBAT</String>
+	<String Key = "SkillInfos23">Utilisez 1 élixir de combat pendant la bataille</String>
+	<String Key = "SkillTechs23">+5 PV par LV [FFFF77](USAGE)</String>
+	<String Key = "SkillTechs24">+10% Dommage Critique [FFFF77](CRIT)</String>
+	<String Key = "SkillNames25">DOUBLE ATTAQUE</String>
+	<String Key = "SkillInfos25">Peut doubler l’attaque</String>
+	<String Key = "SkillTechs25">+2% CHANCE par LV [FFFF77](ATTAQUE)</String>
+	<String Key = "SkillNames26">FURIE</String>
+	<String Key = "SkillInfos26">Quand attaqué pourrait devenir furieux</String>
+	<String Key = "SkillTechs26">+10% DMG et +10% RECUL LV [FFFF77](SUR DMG)</String>
+	<String Key = "SkillNames27">TUEUR</String>
+	<String Key = "SkillInfos27">Obtenez plus d’exp sur les kills</String>
+	<String Key = "SkillTechs27">+10% XP par LV [FFFF77](TUER)</String>
+	<String Key = "SkillNames28">DÉVOREUR D’ÂME</String>
+	<String Key = "SkillInfos28">Restaure toute la VIE en tuant la prochaine personne</String>
+	<String Key = "SkillTechs28">[7777aa]Ultime ([ffffff]1[aaaaaa] Coût TP)</String>
+	<String Key = "SkillInfos29">Inflige 20 coups rapides qui infligent chacun 10% de dégâts</String>
+	<String Key = "SkillInfos30">Prochaine 4 attaques à distance ont 0 temps de recharge</String>
+	<String Key = "SkillNames31">POUPEE VODOO</String>
+	<String Key = "SkillInfos31">Les dégâts subis sont renvoyés à l’attaquant. Ils seront multipliés par 3</String>
+	<String Key = "SkillInfos32">Obtenez plus d’XP en naviguant</String>
+	<String Key = "SkillTechs32">+1 XP par LV [FFFF77](NAVIGATION)</String>
+	<String Key = "SkillNames33">RECHARGEMENT RAPIDE</String>
+	<String Key = "SkillInfos33">Rechargement plus rapide du pistolet</String>
+	<String Key = "SkillTechs33">-10% TEMPS DE RECHARGEMENT par LV [FFFF77](TIR)</String>
+	<String Key = "SkillTechs34">+5% DISTANCE par LV [FFFF77](TIR)</String>
+	<String Key = "SkillInfos35">Vous pouvez capturer des animaux</String>
+	<String Key = "SkillTechs35">+50% CHANCE par LV [FFFF77](TEMPS)</String>
+	<String Key = "SkillInfos36">Stimuler l’agilité</String>
+	<String Key = "SkillTechs36">+10 AGI par LV [FFFF77](TEMPS)</String>
+	<String Key = "SkillNames37">MARCHANT</String>
+	<String Key = "SkillInfos37">Meilleur prix de vente en boutique!</String>
+	<String Key = "SkillTechs37"> [77FFFF]+100% VALEUR DE VENTE</String>
+	<String Key = "SkillNames38">VOLEUR</String>
+	<String Key = "SkillInfos38">50% de Voler 1 Or par coup</String>
+	<String Key = "SkillTechs38"> [77FFFF]+5 Or par coup</String>
+	<String Key = "SkillNames39">MEURTRIER</String>
+	<String Key = "SkillInfos39">Plus d’XP lorsque vous tuez des ennemis!</String>
+	<String Key = "SkillTechs39"> [77FFFF]DOUBLE XP PAR MORT</String>
+	<String Key = "SkillNames40">SAMOURAI</String>
+	<String Key = "SkillInfos40">Plus de dégâts avec le katana</String>
+	<String Key = "SkillTechs40"> [77FFFF]+3 DMG WITH KATANA</String>
+	<String Key = "SkillNames41">BOXER</String>
+	<String Key = "SkillInfos41">KO!</String>
+	<String Key = "SkillTechs41"> [77FFFF]+30% RECUL</String>
+	<String Key = "SkillInfos42">Améliore la vitesse de navigation</String>
+	<String Key = "SkillTechs42">+2% Vitesse de Navigation par LV [FFFF77](TEMPS)</String>
+	<String Key = "SkillTechs43">+5% Or par LV [FFFF77](PILLAGE)</String>
+	<String Key = "SkillTechs44">+5% Or par LV [FFFF77](COFFRE)</String>
+	<String Key = "SkillInfos45">Fonce et attaque!</String>
+	<String Key = "SkillNames46">COUP</String>
+	<String Key = "SkillNames47">GROS</String>
+	<String Key = "SkillInfos47">GROS ET JOUFFLU!</String>
+	<String Key = "SkillTechs47">-30% PLUS LENT</String>
+	<String Key = "SkillNames52">VIEILLE HOMME</String>
+	<String Key = "SkillInfos52">5% CHANCE DE MOURRIR AU PASSAGE DE NIVEAU</String>
+	<String Key = "SkillNames53">AVEUGLE</String>
+	<String Key = "SkillInfos53">20% DE CHANDE DE RATER</String>
+	<String Key = "SkillTechs53">AVANTAGE</String>
+	<String Key = "SkillNames54">GOURMAND</String>
+	<String Key = "SkillInfos54">A un salaire plus élevé!</String>
+	<String Key = "SkillNames55">NE PEUT PAS LIRE</String>
+	<String Key = "SkillInfos55">CE PIRATE NE PEUT PAS APPRENDRE!</String>
+	<String Key = "SkillNames56">TALENTEUX</String>
+	<String Key = "SkillInfos56">Obtient +1 TP chaque niveau</String>
+	<String Key = "SkillNames57">MACHINE A CACA</String>
+	<String Key = "SkillInfos57">FAIS CACA 50% PLUS VITE</String>
+	<String Key = "SkillNames58">STUPIDE</String>
+	<String Key = "SkillInfos58">OBTIENT 2 TP DE MOINS CHAQUE NIVEAU</String>
+	<String Key = "SkillNames59">GROS VENTRE</String>
+	<String Key = "SkillInfos59">BESOIN 50% DE NOURRITUE EN PLUS</String>
+	<String Key = "SkillNames60">ABSTINENTS</String>
+	<String Key = "SkillInfos60">NE BOIT PAS</String>
+	<String Key = "SkillNames61">AGRESSEUR</String>
+	<String Key = "SkillInfos61">HARCÈLE PARFOIS LES MAUVAIS CAMARADES</String>
+	<String Key = "SkillNames62">FRAGILE</String>
+	<String Key = "SkillInfos62">PREND 1 DOMMAGE EN PLUS</String>
+	<String Key = "SkillNames63">PV 5</String>
+	<String Key = "SkillInfos63">AUG%MENTATION PERMANENTE DE PV.</String>
+	<String Key = "SkillTechs63">TP:5</String>
+	<String Key = "SkillNames64">PV 20</String>
+	<String Key = "SkillTechs64">TP:25</String>
+	<String Key = "SkillNames65">PV 50</String>
+	<String Key = "SkillTechs65">TP:60</String>
+	<String Key = "SkillNames66">PICORER</String>
+	<String Key = "SkillInfos66">100% CHANCE CRITIQUE</String>
+	<String Key = "SkillTechs66">TP:100</String>
+	<String Key = "SkillNames67">ENVOLE MOI</String>
+	<String Key = "SkillInfos67">Hôte + 20% de vitesse Mov</String>
+	<String Key = "SkillNames68">ATK 2</String>
+	<String Key = "SkillInfos68">AUG%MENTATION PERMANENTE DE ATK.</String>
+	<String Key = "SkillTechs68">TP:6</String>
+	<String Key = "SkillNames69">ATK 3</String>
+	<String Key = "SkillTechs69">TP:30</String>
+	<String Key = "SkillNames70">ATK 5</String>
+	<String Key = "SkillNames71">CARNAGE</String>
+	<String Key = "SkillInfos71">+100% Vitesse d'attaque</String>
+	<String Key = "SkillNames72">MARQUE D'EQUIPE</String>
+	<String Key = "SkillInfos72">HÖTE + 2 ATK</String>
+	<String Key = "SkillTechs72">TP:50</String>
+	<String Key = "SkillNames73">ATTAQUE RAPIDE</String>
+	<String Key = "SkillInfos73">+10% Chance de Double Attaque</String>
+	<String Key = "SkillNames74">POISON KABOOM</String>
+	<String Key = "SkillInfos74">Explose à la mort!</String>
+	<String Key = "SkillNames75">DEPLACEMENT</String>
+	<String Key = "SkillInfos75">+25% Vitesse de déplacement</String>
+	<String Key = "SkillNames76">MORSURE SAUVAGE</String>
+	<String Key = "SkillInfos76">20% de faire double dommage </String>
+	<String Key = "SkillNames77">PV 100</String>
+	<String Key = "SkillTechs77">TP:130</String>
+	<String Key = "SkillNames78">ETAU</String>
+	<String Key = "SkillInfos78">L'ennemi le plus fort prend 3 extra dommage</String>
+	<String Key = "SkillTechs78">TP:20</String>
+	<String Key = "SkillNames79">GUILLOTINE</String>
+	<String Key = "SkillInfos79">1 HitKO ennemis faibles</String>
+	<String Key = "SkillNames80">EXECUTION</String>
+	<String Key = "SkillInfos80">Hôte a 100% de chance de critique</String>
+	<String Key = "SkillNames81">CHAT MIGNON</String>
+	<String Key = "SkillInfos81">Hôte ne perd pas le moral</String>
+	<String Key = "SkillNames82">PROTEGER</String>
+	<String Key = "SkillInfos82">Prend 50% de dommage en moins</String>
+	<String Key = "SkillTechs82">TP:44</String>
+	<String Key = "SkillNames83">PONDRE DES OEUFS</String>
+	<String Key = "SkillInfos83">Pond un oeuf de temps à autre</String>
+	<String Key = "SkillTechs83">TP:12</String>
+	<String Key = "SkillNames84">ARAIGNÉES PONDEUSES</String>
+	<String Key = "SkillInfos84">Pond un oeuf d'araignée de temps à autre</String>
+	<String Key = "SkillNames85">PLUIE DE BANANES</String>
+	<String Key = "SkillInfos85">Il pleut des bananes!</String>
+	<String Key = "SkillInfos86">Vous pouvez maintenant nager!</String>
+	<String Key = "SkillInfos87">Trouvez de meilleures choses en creusant !</String>
+
+
+
+
+	
+	<String Key = "building">Au cours de vos aventures, vous rencontrerez de nouvelles pièces pour votre navire. Canons, postes d’entraînement, pièces décoratives, murs
+et les échelles ne sont que quelques-unes des pièces que vous pouvez vous procurer par des moyens honnêtes (en les achetant dans les magasins) ou moins
+méthodes salées (pillage de navires, vol de trésor).
+
+Pour l’ajouter à votre vaisseau, ou le restructurer complètement, appuyez sur la barre d’espace pour faire apparaître l’écran MENU PRINCIPAL. À partir de là,
+cliquez sur le bouton CONFIGURATION DU NAVIRE. Vous verrez une série de boutons verts autour de votre navire, ceux-ci sont des points de construction
+où vous pouvez construire quelque chose sur votre navire. Un clic droit sur un bloc de votre navire le supprime, un clic gauche le fait tourner.
+Sur le côté gauche de l’écran, vous verrez les catégories COQUE, DECORATION, NOURRITURE et DIVERS. Ici, vous pourrez voir les pièces disponibles
+ainsi que la quantité restante. 
+
+Rappelez-vous, vous ne pouvez construire qu’à quai, cela ne fonctionne pas en pleine mer!</String>
+
+	<String Key = "feed">Vos pirates ont besoin d’être nourris et gardés heureux, sinon ils pourraient se retourner contre vous! Afin de les nourrir, vous devez placer des stocks de nourriture (achetés dans les magasins d’alimentation dans les villes, attention, pas chaque ville a un magasin d’alimentation!).
+
+	Certains aliments (par exemple : poisson, viande) nécessitent un pirate avec la compétence CUISINER pour préparer la nourriture de ce stock, tandis que d’autres (pastèques, fruits) peuvent simplement être placés. Les pirates sont autonomes et mangent quand ils sentent qu’ils ont le temps de le faire et qu’ils ont assez faim.
+
+	Il existe un certain nombre de façons de maintenir le moral. Le plus rapide est de PAYER LEUR SALAIRE en utilisant le bouton correspondant en haut de l’écran EQUIPAGE. Vous pouvez payer individuellement ou payer tout le monde en même temps ici. Une autre méthode consiste à utiliser un élément lié au MORAL comme RHUM dans l’écran de l’équipage. Vous pouvez également acheter du rhum et le stocker comme de la nourriture. Gagner des batailles, découvrir des trésors et tuer des pirates devrait également augmenter le moral d’une petite quantité.
+
+	Enfin, chaque fois que vous arrivez à une ville, vos pirates prendront une permission de rivage et se dirigeront vers la taverne la plus proche, où ils mangeront et boiront rapidement à leur guise (ce qui vous coûtera de l’argent). 
+	
+	</String>
+	
+	<String Key = "cleaning">Afin de nettoyer votre bateau de caca, vous devez enseigner la compétence de NETTOYAGE à un pirate. MAGASINS D'OBJETS sont disponibles sur une poignée d’îles (y compris l’île de départ) et là, vous pouvez apprendre des compétences en achetant d’abord le livre, puis en l’utilisant sur l’écran EQUIPAGE (appuyez sur la barre d’espace et dans le menu, cliquez sur le bouton supérieur pour y accéder).
+
+Une fois sur l’écran de l’équipage, vous pouvez accéder aux statistiques individuelles des pirates et les améliorer en utilisant TP (points d’entraînement) qu’ils reçoivent à chaque niveau. Assurez-vous d’en garder un peu, car les LIVRES DE COMPÉTENCES comme le NETTOYAGE exigent que vous utilisiez le TP pour apprendre la compétence initiale (p. ex., un pirate a 2 TP et j’achète le livre de compétences NETTOYAGE. Je l’utilise sur lui et il lui reste maintenant 1 TP, que j’utilise pour augmenter sa force afin d’augmenter ses dégâts).
+
+Les compétences et les statistiques des pirates sont un élément crucial du jeu, et vous devez toujours vous assurer de construire votre équipe en fonction de votre style de jeu. N’oubliez pas d’investir dans des compétences telles que la pêche, la cuisine, le nettoyage et la réparation!
+</String>
+
+	<String Key = "control">[ffff22]Votre capitaine a un C jaune sur sa tête[-] en tout temps.
+
+[ffff22]Par CLIC GAUCHE, vous pouvez lui donner des ordres de mouvement et d’attaque de base[-]. 
+
+En utilisant les touches ORANGE BOTTOM, vous pouvez lui donner des ordres pour interagir avec les coffres, les objets et d’autres choses. Vous pouvez PILLER et VOLER les navires ennemis avec le correspondant
+Vous pouvez même monter vos FAMILIERS sur vos épaules sur commande.
+
+[5555ff]Vos EQUIPAGES sont configurés en différents groupes[-], sélectionnables à l’aide des touches numériques de votre clavier (correspondant au nombre qu’ils sont configurés sur l’écran de l’équipage, le réglage standard est de 3 pour tout sélectionner). [5555ff]En utilisant le bouton droit de la souris[-], vous pouvez donner des commandes générales de mouvement et d’attaque pour eux. Ils pourraient ne pas vous écouter si une mutinerie est en cours, ou si le moral d’un pirate individuel est faible.
+
+[ffff22]Résumé des entrées communes:[-]
+
+[5555ff]Clic gauche [-]commander le capitaine
+[5555ff]Clic droit [-]commander le groupe active
+[5555ff]WASD ou touches fléchées [-]déplacer la camera
+[5555ff]Barre Espace [-]ouvre et ferme le menu de pause
+[5555ff]F1 [-]ouvre le menu tutoriel / aide (cette fenêtre)
+[5555ff]C [-]centre la vue sur votre capitaine
+[5555ff]Touches numériques [-]sélectionner le groupe actif de pirates
+</String>
+
+	
+	<String Key = "pets">Il existe de nombreux types d’animaux de compagnie potentiels dans le monde du piratage de pixels.
+
+Pour les capturer, vous devez d’abord acheter l’ARME À DISTANCE : Cage pour animaux et l’équiper. Il a 15% de chance de capturer un animal lorsqu’il est lancé, et est
+utilisé automatiquement pour attaquer un animal.
+
+Une fois qu’un animal est capturé, il apparaît dans la section ANIMAUX du menu PAUSE.
+
+Améliorez-les comme vous le feriez avec un pirate normal ! Le bouton MONTER en bas de l’écran (près du bouton INTERAGIR)
+les laissera monter sur le dessus de votre capitaine (lorsqu’il est proche) afin d’être pris sur une île ou un navire ennemi.
+</String>
+
+	<String Key = "stats">Cet écran montre un pirate individuel, son PASSÉ, ses STATS et ses OBJETS ÉQUIPÉS et COMPÉTENCES.
+
+En haut de l’écran, vous pouvez payer le salaire, ou payer tous les salaires, ainsi que parcourir différents pirates.
+Sous leur NOM, vous pouvez voir la DESCRIPTION de ce pirate, ainsi que son PASSÉ.
+
+À gauche, vous voyez son TP (Points d’entraînement), son NIVEAU actuel, son EXP (lorsqu’il est plein, il monte de niveau) PV (Points de vie)
+FAIM (Si 0 il meurt) et Moral (Si 0 il se retourne contre vous).
+
+FRC est Force, Augmenter cette valeur en utilisant TP vous accordera des dégâts supplémentaires.
+VIT est VITALITÉ, Augmenter cette valeur augmente votre régénération de PV.
+INT vous donne des points d’EXPÉRIENCE supplémentaires chaque fois que vous gagnez de l’XP à partir d’une source.
+DEX augmente les dégâts à distance et votre pourcentage de TOUCHER (Combien de fois vous frappez plutôt que de manquer)
+AGI augmente vos chances d’ESQUIVER une attaque ennemie
+CHNC augmente vos chances de marquer un coup critique 
+
+ÉQUIPEMENT PASSIF : Peut être utilisé pour équiper un objet qui affecte les statistiques d’un pirate de manière passive (Soit 
+pièce d’armure, chapeau, etc.) ou pour utiliser un objet à usage rapide (potion, bandage, morceau de viande, rhum, etc.). Enfin,
+ÉQUIPEMENT PASSIF est utilisée pour UTILISER ET ACQUÉRIR DES COMPÉTENCES. Voir la section sur les COMPÉTENCES D’APPRENTISSAGE COMME LE NETTOYAGE pour
+apprendre comment, mais pour résumer. Acheter un livre de compétences, puis utiliser le livre de compétences pour l’apprendre (vous devez avoir le 
+TP requis disponible).
+
+ARME DE MÊLÉE et À DISTANCE : Equipez vos armes de mêlée et à distance ici, passez la souris pour voir les statistiques telles que DÉGÂTS, VITESSE D’ATTAQUE, RECUL
+PORTÉE ET RANG (Rang étant le niveau d’armes. VOIR LE TUTORIEL SUR LE NIVELLEMENT DES ARMES POUR PLUS D’INFORMATIONS).
+
+EMPLACEMENT COMPETENCES : Chaque pirate commence avec ATTAQUE BASIQUE à Lv 0, et le reste de la boîte est disponible pour vous d' 
+acquérir de nouvelles compétences.
+
+GROUPE : Définir un pirate à un groupe (Touche numérique) ici. Utile lorsque vous avez différents pirates participant à différents
+tâches sur le navire. En règle générale, la touche numéro 3 sélectionne votre équipage afin de le déplacer à l’aide du bouton droit de la souris.
+
+GRAPPIN : Autorise ou non un pirate à l'utilisation du grappin pour descendre du navire.
+
+CANONS : Ce pirate utilisera automatiquement des canons.
+
+RETRAITE : Ce pirate retournera sur le navire si sa santé est basse.
+
+</String>
+
+	<String Key = "tips">COMMENT PUIS-JE TROUVER XXXX MAGASINS? [-]
+
+Dans la carte du monde, vous pouvez passer la souris sur une VILLE afin de voir quels types de magasins il y a (taverne, compétences, armes, etc.).
+Rappelez-vous que vous ne pouvez voir que les magasins dans les villes où vous avez déjà été.
+
+[ffff55]QUELLES RENCONTRES UN DEBUTANT DOIT-IL AFFRONTER? [-]
+
+Vous devriez CERTAINEMENT commencer par affronter des navires de niveau 1, car les rencontres avec des îles ont tendance à être plus difficiles.
+Allez vers les rencontres d’îles seulement une fois que vous avez pillé quelques navires, nivelé votre équipage à quelques reprises, et avoir une compréhension de base du combat.
+
+[ffff55]OÙ PUIS-JE VOIR LES OBJETS OU ARMES QUE J’OBTIENS? [-]
+
+Dans le coin inférieur droit de l’écran, vous pouvez voir quel butin vous collectez en temps réel!
+
+
+[ffff55]QUELS SONT QUELQUES CONSEILS DE DEBUTANT? [-]
+
+Essayez d’engager un membre d’équipage dans la taverne locale et d’attaquer un navire. Utilisez l’option PILLER après la bataille pour recueillir de l’or 
+et expédiez des pièces (que vous pouvez vendre dans un magasin de pièces de navire), afin d’acheter le livre de compétences de nettoyage de la ville de départ.
+
+Equipez votre capitaine avec elle afin de nettoyer le caca sur le pont et garder votre moral élevé! N’oubliez pas que vous devez payer
+votre équipage leur salaire pour garder leur moral si vous voyez le visage au-dessus de leur tête tourner rouge!
+
+TOUJOURS garder quelques morceaux de pastèque dans votre inventaire de navires, vous ne savez jamais quand vous trouverez un nouveau navire, seulement pour le voler
+et puis rappelez-vous que vous n’avez plus de nourriture à placer! 
+
+
+N’ayez pas peur d’utiliser des points de compétence! N’oubliez pas de dépenser du TP lorsque vous les obtenez, mais de toujours en garder un ou deux gratuits au cas où
+vous tombez sur un livre de compétences impressionnant! Compétences COUT TP, ce qui signifie que d’avoir quelques-uns à portée de main lorsque vous trouvez un livre PARER
+Vous pourrez peut-être l’équiper à temps pour une bataille importante !
+
+PIERRES PIERRES PIERRES! Si vous tombez sur des pierres, équipez-les. Ils fonctionnent bien comme armes à distance de départ, ne pas courir, et laisser
+Vous frappez un ennemi avant de vous approcher pour le tuer !
+
+ANIMAUX! Ne sous-estimez pas la puissance d’une cage d’animaux! Ils ne travaillent que rarement, mais quand ils le font, vous obtenez un nouvel animal de compagnie, qui 
+agit comme un autre membre de votre équipage, avec ses propres compétences! Les animaux peuvent vraiment changer les batailles!
+
+BUTIN! N’oubliez pas de vérifier et de voir quel nouveau butin vous avez obtenu après les batailles. Souvent, vous pouvez rencontrer un passif rare 
+Assurez-vous de vendre les articles excédentaires pour obtenir plus d’argent!
+</String>
+
+	<String Key = "travel">En appuyant sur la barre d’espace [ffffff55][-], vous pouvez afficher l’écran MENU général. Une fois là, [ffff55]cliquez sur CARTE DU MONDE[-]. 
+
+[ffff55]Sélectionnez une destination[-] et la carte tracera le cours. [ffff55]Cliquez sur le bouton en haut à gauche de l’écran pour voyager[-].
+Le pourcentage dans le COIN SUPÉRIEUR DROIT qui s’affiche pendant le voyage correspond à la proximité de votre destination (avec 100 % 
+étant arrivée).
+
+Attendez-vous à l’inattendu en voyage!
+</String>
+
+	<String Key = "weapons">Toutes les armes, à distance et au corps à corps, peuvent être améliorées pour augmenter leurs statistiques. Pour ce faire, vous devez trouver un
+Objet PIERE A AIGUISER. Il y a des meules DISTANCE et des meules MELEE. Chaque fois que vous en utilisez une, il y a une chance que la meule
+augmentera le niveau de votre objet, augmentant ses statistiques. Plus vous utilisez de meules réussies, plus le pourcentage de réussite est faible.
+
+[ffff55]COMMENT UTILISER LES ARMES À DISTANCE[-]
+
+Il existe deux types d’armes différentes dans le jeu, MELEE et DISTANCE. Les armes à distance doivent être équipées dans un emplacement DISTANCE
+dans l’écran de sélection VOTRE ÉQUIPAGE (Sélection d’un pirate), vous pouvez cliquer sur l’emplacement ARME À DISTANCE et équiper l’objet, qui
+est ensuite utilisé automatiquement à portée avant de se rapprocher de la distance de MÊLÉE. Une bonne tactique est d’équiper les roches, comme ils font
+pour les marchands de dégâts décents avant d’obtenir des armes à distance plus puissantes. Ils ne s’épuisent pas.
+</String>
+
+	<String Key = "encounters">QUELLES RENCONTRES UN DEBUTANT DOIT-IL AFFRONTER ? 
+
+Vous devriez CERTAINEMENT commencer par affronter des navires de niveau 1, car les rencontres avec des îles ont tendance à être plus difficiles.
+</String>
+
+	<String Key = "escape">COMMENT ÉCHAPPER À UNE BATAILLE SUR UNE ÎLE
+
+Les batailles d’îles sont uniques en ce sens que vous pouvez y échapper à tout moment. Tout ce que vous devez faire si vous vous trouvez dans une situation difficile
+La situation est de renvoyer tout le monde sur le navire, aller à la carte du monde, et sélectionnez une nouvelle destination! Cliquez sur la voile et vous partez!
+Une bonne idée pourrait être d’envoyer une équipe d’éclaireurs sur une île s’il y a un trésor à proximité, puis de le sortir de là
+une fois que les ennuis arrivent!
+</String>
+
+	<String Key = "fishing">PÊCHE
+
+Vos pirates peuvent apprendre à pêcher. Pour ce faire, ils ont besoin de la compétence requise, ainsi que d’une canne à pêche, qui est
+disponible dans CERTAINS magasins d’armes (relativement rare!).
+</String>
+
+	<String Key = "hiring">COMMENT EMBAUCHER DES MEMBRES D’ÉQUIPAGE
+
+Chaque magasin ou taverne est accessible en déplaçant votre CAPITAINE au centre de celui-ci et en frappant la barre d’espace. Vous saurez quand vous êtes au bon endroit car un gros bouton clignotant indiquant APPUYER SUR BARRE ESPACE apparaît.
+</String>
+
+	<String Key = "objective">Quel est l’objectif du jeu ?
+
+Votre objectif est de devenir le pirate le plus redoutable que le monde ait vu. Comment vous y prenez-vous? Piller, tuer,
+voler, rassembler un équipage massif et finalement vaincre tous les quatre seigneurs pirates légendaires errant dans ces parties.
+</String>
+
+	<String Key = "obtained">OÙ PUIS-JE VOIR LES ARTICLES OU LES ARMES QUE J’OBTIENS?
+
+Dans le coin inférieur droit de l’écran, vous pouvez voir quel butin vous collectez en temps réel!
+</String>
+
+	<String Key = "quest">QUÊTES
+
+Dans certaines villes, il y a un TABLEAU DE RECOMPENSES ou un DONNEUR DE QUETES DE RECHERCHE qui vous enverra tuer une certaine personne de mauvaise réputation.
+Prenez soin de noter sur quelle île il est, et qui il est, puis trouvez le bandit pour une récompense et XP. Prenez soin, ces missions
+sont pour les équipages bien formés!
+</String>
+
+	<String Key = "treasure">COMMENT OUVRIR UN COFFRE AU TRÉSOR?
+
+Au cours de vos voyages, vous découvrirez de nombreux coffres au trésor. Pour les ouvrir, vous devez utiliser le BOUTON D’INTERACTION ORANGE 
+situé sur la barre inférieure (il ressemble à un point d’exclamation et se trouve près des boutons CAPTURE et PILLAGE.)
+</String>
+
+
+<String Key = "MainMenuCredits">
+	Créé par [FFFF77]Vitali Kirpu[-]
+	Musique par [77FFFF]Kole Audio Solutions[-]
+</String>
+	
+	<String Key = "EndCredits">Comment ça fait d'être le pirate le plus dur à cuire d'ici jusqu'à Tortuga ? D'avoir affronté les quatre capitaines de pirates légendaires et d'avoir survécu pour en parler. Je parie que ça doit être plutôt doux.
+
+		Dans toutes les tavernes du pays, on chante des chansons en votre nom. Les marins dans chaque port savent qu'ils peuvent soit se joindre à vous, soit être écrasés sous votre botte. Votre trésorerie déborde d'or et de biens précieux.
+
+		Je parie que c'est aussi solitaire au sommet, avec ce coin du monde qui plie sous votre puissance. Que ferez-vous ensuite ? Continuerez-vous vos pillages jusqu'à ce qu'il ne reste plus rien à piller ? Construirez-vous le plus grand navire de pirates que le monde ait jamais vu ? Ou peut-être prendrez-vous votre retraite sur une île déserte avec un hamac et une bouteille du meilleur rhum ? C'est à vous de décider maintenant, Capitaine...
+
+</String>
+</StringFile>
